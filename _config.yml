@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Heiko Topol"
 title_separator          : "-"
 name                     : &name "Heiko Topol"
-description              : &description "Dr.-Ing., mechanical engineering, research"
+description              : &description "Dr.-Ing., engineering, research"
 url                      : https://heikotopol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "heikotopol/heikotopol.github.io"
@@ -80,14 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Heiko Topol"
   avatar           : "profile.png"
   bio              : "Dr.-Ing., mechanical engineering, research"
   location         : "Aachen, Germany"
-  employer         :
+  employer         : "RWTH Aachen University"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Topol+H&cauthor_id=31891375"
   googlescholar    : "https://scholar.google.com/citations?user=nZD2stwAAAAJ&hl=de"
-  email            :
+  e
+  
+  :
   researchgate     :  "https://www.researchgate.net/profile/Heiko_Topol"
   uri              :
   bitbucket        :
@@ -102,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/heiko-topol/"
   orcid            : "http://orcid.org/0000-0002-4845-7515"
   pinterest        :
   soundcloud       :
