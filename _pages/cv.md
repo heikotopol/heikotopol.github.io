@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. (Dr.-Ing.) RWTH Aachen University, 2012
+* Diploma, Ruhr University Bochum, 2007
 
 Work experience
 ======
