@@ -10,8 +10,6 @@ location: "Erlangen, Germany"
 
 H. Topol, H. Demirkoparan
 
-Evolution of Mechanical Properties in Tissues Undergoing Deformation-Related Fiber Remodeling Processes
-
 [More information here](http://jahrestagung.gamm-ev.de/index.php/2014/annual-meeting)
 
 [Download article here](http://dx.doi.org/10.1002/pamm.201410039)
