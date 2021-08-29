@@ -2,7 +2,7 @@
 title: "Modeling stretch-dependent collagen fiber density"
 collection: publications
 permalink: /publication/MechResComm116
-excerpt: 'Keywords: collagen fibers, remodeling, enzymatic degradation'
+excerpt: ' '
 date: 2021-08-02
 venue: 'Mechanics Research Communications'
 ---
