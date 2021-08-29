@@ -1,7 +1,7 @@
 ---
 title: "Shear Waves Dispersion in Viscoelastic Composite with Elastic Parallelpiped Inclusions"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/AIPConfProc1168-848
 excerpt: 'wave propagation, dispersion'
 date: 2009-09-14
 venue: 'AIP Conference Proceedings'
