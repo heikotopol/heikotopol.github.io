@@ -25,6 +25,16 @@ var addressPoints = [
     35.0495607
   ],
   [
+    "East Lansing, MI",
+    42.7311558,
+    -84.4930818
+  ],
+  [
+    "Erlangen, Germany",
+    49.57368,
+    11.0284113
+  ],
+  [
     "Lecce, Italy",
     40.3612492,
     18.1666645
