@@ -16,10 +16,13 @@ Education
 
 Work experience
 ======
-* 04/2021 - now: RWTH Aachen University, Chair and Institute of General Mechanics
-* 09/2020 - 12/2020: Carnegie Mellon University in Qatar, Visiting Assistant Professor of Mathematical Sciences
-* 04/2017 - 08/2020: Carnegie Mellon University in Qatar, Postdoctoral Research Associate
-* 02/2016 - 02/2017 Qatar University, Center for Advanced Materials, Assistant Research Professor
+* 04/2021 - now: RWTH Aachen University, Institute of General Mechanics
+* 09/2020 - 12/2020: Carnegie Mellon University in Qatar
+  *  Visiting Assistant Professor of Mathematical Sciences
+* 04/2017 - 08/2020: Carnegie Mellon University in Qatar
+  * Postdoctoral Research Associate
+* 02/2016 - 02/2017 Qatar University, Center for Advanced Materials 
+  *  Assistant Research Professor
 
   
 Skills
