@@ -1,8 +1,8 @@
 ---
 title: "Bulging initiation and propagation in fiber-reinforced swellable Mooney–Rivlin membranes"
 collection: publications
-permalink: /publication/JEngMath1186
-excerpt: 'Keywords: collagen fibers, remodeling, enzymatic degradation'
+permalink: /publication/JEngMath186
+excerpt: ''
 date: 2021-04-22
 venue: 'Journal of Engineering Mathematics'
 paperurl: 'https://link.springer.com/article/10.1007%2Fs10665-021-10123-5'
