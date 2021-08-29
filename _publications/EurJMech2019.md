@@ -10,6 +10,6 @@ citation: 'H. Topol, H. Demirkoparan, T.J. Pence (2019). &quot;Morphoelastic fib
 ---
 hyperelasticity, collagen, fiber remodeling, homeostasis, cylindrical inflation
 
-[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0997753818308969)
+#[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0997753818308969)
 
-Recommended citation: H. Topol et al. (2019). "Morphoelastic fiber remodeling in pressurized thick-walled cylinders with application to soft tissue collagenous tubes." <i>Eur. J. Mech. A/Solids</i>. 77. 103800.
+#Recommended citation: H. Topol et al. (2019). "Morphoelastic fiber remodeling in pressurized thick-walled cylinders with application to soft tissue collagenous tubes." <i>Eur. J. Mech. A/Solids</i>. 77. 103800.
