@@ -2,7 +2,7 @@
 title: "Approximate Approach for Nonlinear Deformation and Failure of Fibre Composites"
 collection: publications
 permalink: /publication/MechResComm116
-excerpt: 'collagen fibers, remodeling, enzymatic degradation'
+excerpt: 'Keywords: collagen fibers, remodeling, enzymatic degradation'
 date: 2021-08-02
 venue: 'Mechanics Research Communications'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0093641321000835'
