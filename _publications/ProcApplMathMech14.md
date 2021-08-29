@@ -1,7 +1,7 @@
 ---
 title: "Evolution of the Fiber Density in Biological Tissues"
 collection: publications
-permalink: /publication/ProcApplMathMech15
+permalink: /publication/ProcApplMathMech14
 excerpt: 'Keywords: hyperelasticity, fibers, collagen, remodeling'
 date: 2014-12-22
 venue: 'Proceedings in Applied Mathematics and Mechanics'
