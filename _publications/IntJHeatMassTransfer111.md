@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/IntJHeatMassTransfer111
 excerpt: 'Keywords: heat transfer, composites, nonlinearity, asymptotic homogenizaton method, three-phase model, lubrication theory'
 date: 2017-08-01
-venue: 'International Journal of Heat and Mass Transfer
+venue: 'International Journal of Heat and Mass Transfer'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0017931016333956'
 citation: 'I. V. Andrianov et al. (2017). &quot;Asymptotic analysis of heat transfer in composite materials with nonlinear thermal properties.&quot; <i>Int. J. Heat Mass Transfer</i> 111: 736-754.'
 ---
