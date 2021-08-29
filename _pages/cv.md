@@ -16,15 +16,9 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 04/2021 - now: RWTH Aachen University, Chair and Institute of General Mechanics
+* 09/2020 - 12/2020: Carnegie Mellon University in Qatar
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
