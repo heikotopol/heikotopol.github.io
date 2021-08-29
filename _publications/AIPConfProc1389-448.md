@@ -7,7 +7,7 @@ date: 2011-09-14
 venue: 'AIP Conference Proceedings'
 ---
 
-I.V. Andrianov et al.(2011). &quot;Nonlinear Elastic Waves in a 1D Layered Composite Material: Some Numerical Results.&quot; <i>AIP Conf. Proc.</i> 1389: 438-441
+I.V. Andrianov et al. (2011). &quot;Nonlinear Elastic Waves in a 1D Layered Composite Material: Some Numerical Results.&quot; <i>AIP Conf. Proc.</i> 1389: 438-441
 
 [Download paper here](http://dx.doi.org/10.1063/1.3638045)
 
