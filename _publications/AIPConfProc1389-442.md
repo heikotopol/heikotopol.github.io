@@ -2,7 +2,7 @@
 title: "Periodical Solutions of Certain Strongly Nonlinear Wave Equations"
 collection: publications
 permalink: /publication/AIPConfProc1389-442
-excerpt: 'wave propagation, dispersion'
+excerpt: 'Keywords: wave propagation, dispersion'
 date: 2011-09-14
 venue: 'AIP Conference Proceedings'
 paperurl: 'https://aip.scitation.org/doi/abs/10.1063/1.3636758'
