@@ -9,8 +9,6 @@ venue: 'Journal of Engineering Mathematics'
 
 H. Topol et al. (2021). &quot;Bulging initiation and propagation in fiber-reinforced swellable Mooney–Rivlin membranes.&quot; <i>J. Eng. Math.</i>. 128, 8.
 
-citation: 'H. Topol et al. (2021). &quot;Bulging initiation and propagation in fiber-reinforced swellable Mooney–Rivlin membranes.&quot; <i>J. Eng. Math.</i>. 128, 8.'
-
 [Download paper here](https://doi.org/10.1007/s10665-021-10123-5)
 
 
