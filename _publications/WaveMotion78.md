@@ -5,8 +5,6 @@ permalink: /publication/WaveMotion78
 excerpt: '  '
 date: 2018-04-01
 venue: 'Wave Motion'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0165212517301579'
-citation: 'I. V. Andrianov et al. (2018). &quot;Shear wave propagation in layered composites with degraded matrices at locations of imperfect bonding.&quot; <i>Wave Motion</i> 78: 9-31.'
 ---
 
 I. V. Andrianov et al. (2018). &quot;Shear wave propagation in layered composites with degraded matrices at locations of imperfect bonding.&quot; <i>Wave Motion</i> 78: 9-31
