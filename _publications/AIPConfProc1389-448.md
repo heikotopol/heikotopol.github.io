@@ -2,7 +2,7 @@
 title: "Nonlinear Elastic Waves in a 1D Layered Composite Material: Some Numerical Results "
 collection: publications
 permalink: /publication/AIPConfProc1389-448
-excerpt: 'wave propagation, dispersion'
+excerpt: 'Keywords: wave propagation, dispersion'
 date: 2011-09-14
 venue: 'AIP Conference Proceedings'
 paperurl: 'https://aip.scitation.org/doi/abs/10.1063/1.3638045'
