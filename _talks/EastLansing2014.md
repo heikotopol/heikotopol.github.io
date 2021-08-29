@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/EastLansing2014
 venue: "17th U.S. National Congress on Theoretical and Applied Mechanics"
-date: 2014-11-14
+date: 2014-06-15
 location: "East Lansing, USA"
 ---
 
