@@ -8,5 +8,7 @@ date: 2019-07-01
 location: "Castro Urdiales, Spain,"
 ---
 
+Heiko Topol, Hasan Demirkoparan, Thomas J. Pence
+
 [More information here](https://www.ciem.unican.es/)
 
