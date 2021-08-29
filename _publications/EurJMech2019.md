@@ -2,7 +2,7 @@
 title: "Morphoelastic fiber remodeling in pressurized thick-walled cylinders with application to soft tissue collagenous tubes"
 collection: publications
 permalink: /publication/EurJMech2019
-excerpt: 'hyperelasticity, collagen, fiber remodeling, homeostasis, cylindrical inflation'
+excerpt: 'Keywords: hyperelasticity, collagen, fiber remodeling, homeostasis, cylindrical inflation'
 date: 2019-06-06
 venue: 'European Journal of Mechanics - A/Solids'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0997753818308969'
