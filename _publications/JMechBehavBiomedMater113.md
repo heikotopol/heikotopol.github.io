@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/JMechBehavBiomedMater113
 excerpt: 'Keywords: collagen, remodeling, fibers, morphoelasticity, homeostasis'
 date: 2021-01-01
-venue: 'Journal of Engineering Mathematics volume'
+venue: 'Journal of the Mechanical Behavior of Biomedical Materials'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1751616120306974'
 citation: 'H. Topol et al. (2021). &quot;On collagen fiber morphoelasticity and homeostatic remodeling tone.&quot; <i>J. Mech. Behav. Biomed. Mater.</i> 113: 104154.'
 ---
