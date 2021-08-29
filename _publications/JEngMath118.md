@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/JEngMath1186
 excerpt: 'Keywords: collagen fibers, remodeling, enzymatic degradation'
 date: 2021-04-22
-venue: 'Journal of Engineering Mathematics volume'
+venue: 'Journal of Engineering Mathematics'
 paperurl: 'https://link.springer.com/article/10.1007%2Fs10665-021-10123-5'
 citation: 'H. Topol et al. (2021). &quot;Bulging initiation and propagation in fiber-reinforced swellable Mooney–Rivlin membranes.&quot; <i>J. Eng. Math.</i>. 128, 8.'
 ---
