@@ -2,11 +2,9 @@
 title: "Hyperelastic modeling of the combined effects of tissue swelling and deformation-related collagen renewal in fibrous soft tissue"
 collection: publications
 permalink: /publication/BMMB17
-excerpt: 'Keywords: collagen, swelling, fiber remodeling, hyperelasticity, homeostasis'
+excerpt: '  '
 date: 2018-06-18
 venue: 'Biomechanics and Modeling in Mechanobiology'
-paperurl: 'https://link.springer.com/article/10.1007%2Fs10237-018-1043-6'
-citation: 'H. Topol et al. (2018). &quot;Hyperelastic modeling of the combined effects of tissue swelling and deformation-related collagen renewal in fibrous soft tissue.&quot; <i>Biomech. Model. Mechanobiol.</i> 17:1543-1567.'
 ---
 
 H. Topol et al. (2018). &quot;Hyperelastic modeling of the combined effects of tissue swelling and deformation-related collagen renewal in fibrous soft tissue.&quot; <i>Biomech. Model. Mechanobiol.</i> 17:1543-1567
