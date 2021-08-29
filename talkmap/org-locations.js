@@ -21,8 +21,8 @@ var addressPoints = [
   ],
   [
     "Dnirpo, Ukraine",
-    48.453269,
-    35.0517494
+    48.4532690,
+    35.0495607
   ],
   [
     "Rosemont, IL",
