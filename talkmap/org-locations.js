@@ -7,7 +7,7 @@ var addressPoints = [
   [
     "Bologna, Italy",
     44.5121449,
-     11.3605547
+    11.3605547
   ],
   [
     "Castro Urdiales, Spain",
@@ -27,6 +27,6 @@ var addressPoints = [
   [
     "Rosemont, IL",
     41.9812432,
-     -87.8611541
+    -87.8611541
   ]
 ];
