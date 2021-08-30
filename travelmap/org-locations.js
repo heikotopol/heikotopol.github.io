@@ -1,10 +1,14 @@
 var addressPoints = [
   [
-    "RWTH Aachen, Germany",
-    50.7777202,
-     6.0797021
+    "Abu Dhabi, UAE",
+    24.3870789,
+    54.4185378
   ],
-   [
+  [
+    "Al Ain, UAE",
+    24.1932413,55.606784
+  ],
+  [
     "Bad Herrenalb, Germany",
     48.800517,
     8.4425103
@@ -13,6 +17,11 @@ var addressPoints = [
     "Bali, Indonesia",
     -8.4553173,
     114.7913634
+  ],
+  [
+    "Beijing, China",
+    39.953288,
+    116.3451314
   ],
   [
     "Bhaktapur, Nepal",
@@ -55,6 +64,11 @@ var addressPoints = [
     -96.3407719
   ],
   [
+    "Delhi, India",
+    28.6926341,
+    76.9512675
+  ],
+  [
     "Doha, Qatar",
     25.3164718,
     51.4383021
@@ -63,6 +77,16 @@ var addressPoints = [
     "Dnirpo, Ukraine",
     48.4532690,
     35.0495607
+  ],
+  [
+    "Dubai, UAE",
+    25.0762677,
+    55.0876642
+  ],
+  [
+    "Dublin, Ireland",
+    52.1839254,
+    -4.8350386
   ],
   [
     "East Lansing, MI",
@@ -75,9 +99,19 @@ var addressPoints = [
     11.0284113
   ],
   [
+    "Helsinki, Finland",
+    60.1102609,
+    24.8786005
+  ],
+  [
     "Kathmandu, Nepal",
     27.7089972,
     85.3086232
+  ],
+  [
+    "Ko Tao, Thailand",
+    10.0923203,
+    99.8178946
   ],
   [
     "Kuwait City, Kuwait",
@@ -105,9 +139,19 @@ var addressPoints = [
     58.3544767
   ],
   [
+    "Nizwa, Oman",
+    22.9124926,
+    57.499584
+  ],
+  [
     "Nottingham, UK",
     52.9397827,
     -1.1951883
+  ],
+  [
+    "Nong Khor Airfield, Thailand",
+    13.1408689,
+    101.0423058
   ],
   [
     "Nusa Penida, Indonesia",
@@ -120,6 +164,11 @@ var addressPoints = [
     83.8865788
   ],
   [
+    "Pori, Finland",
+    61.5669818,
+    21.5196238
+  ],
+  [
     "Rhodes, Greece",
     36.4239315,
     28.1966502
@@ -128,6 +177,11 @@ var addressPoints = [
     "Rosemont, IL",
     41.9812432,
     -87.8611541
+  ],
+  [
+    "RWTH Aachen, Germany",
+    50.7777202,
+     6.0797021
   ],
   [
     "Salalah, Oman",
@@ -140,9 +194,19 @@ var addressPoints = [
     121.1965749
   ],
   [
+    "Sofia, Bulgaria",
+    42.695537,
+    23.2539074
+  ],
+  [
     "Tangerang, Indonesia",
     -6.1766011,
     106.6150146
+  ],
+  [
+    "Taj Mahal, India",
+    27.1600794,
+    78.0482246
   ],
   [
     "The Last Resort, Nepal",
