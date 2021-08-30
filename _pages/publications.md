@@ -5,10 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 2021
 ======
-* H. Topol, H. Demirkoparan, and T. J. Pence: _Modeling Stretch-Dependent Collagen Fiber Density_, **Mech. Res. Commun. 116, 103740** (2021),
- Download: [[1]](https://doi.org/10.1016/j.mechrescom.2021.103740)
  
 * H. Topol, H. Demirkoparan, and T. J. Pence:<br/> _Modeling Stretch-Dependent Collagen Fiber Density_,<br/> **Mech. Res. Commun. 116, 103740** (2021),<br/>
 **Keywords**: collagen fibers; remodeling; enzymatic degradation,<br/>
