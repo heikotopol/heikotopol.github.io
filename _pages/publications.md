@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "  "
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 2021
 ======
-
+* H. Topol, H. Demirkoparan, and T. J. Pence: _Modeling Stretch-Dependent Collagen Fiber Density_, **Mech. Res. Commun. 116, 103740** (2021),
+ Download: [[1]](https://doi.org/10.1016/j.mechrescom.2021.103740)
+ 
 * H. Topol, H. Demirkoparan, and T. J. Pence:<br/> _Modeling Stretch-Dependent Collagen Fiber Density_,<br/> **Mech. Res. Commun. 116, 103740** (2021),<br/>
 **Keywords**: collagen fibers; remodeling; enzymatic degradation,<br/>
  Download: [[1]](https://doi.org/10.1016/j.mechrescom.2021.103740)<br/>
@@ -35,10 +37,10 @@ Download: [[1]](https://doi.org/10.1016/j.euromechsol.2019.103800)
 2018
 ======
 * H. Topol, K. Gou, H. Demirkoparan, and T. J. Pence:<br/> 
-* _Hyperelastic modeling of the combined effects of tissue swelling and deformation-related collagen renewal in fibrous soft tissue_,<br/> 
-* **Biomech. Model. Mechanobiol. 17:1543-1567** (2018),<br/> 
-* **Keywords**: collagen, swelling, fiber remodeling, hyperelasticity, homeostasis,<br/> 
-* Downloads:  [[1]](https://doi.org/10.1007/s10237-018-1043-6),  [[2]](https://pubmed.ncbi.nlm.nih.gov/29931486/)<br/>
+ _Hyperelastic modeling of the combined effects of tissue swelling and deformation-related collagen renewal in fibrous soft tissue_,<br/> 
+**Biomech. Model. Mechanobiol. 17:1543-1567** (2018),<br/> 
+**Keywords**: collagen, swelling, fiber remodeling, hyperelasticity, homeostasis,<br/> 
+Downloads:  [[1]](https://doi.org/10.1007/s10237-018-1043-6),  [[2]](https://pubmed.ncbi.nlm.nih.gov/29931486/)<br/>
 
 * V. Zamani, T. J. Pence, H. Demirkoparan, and H. Topol:<br/> _Hyperelastic Models for the Swelling of Soft Material Plugs in Confined Spaces_,<br/>
 **Int. J. Nonlin. Mech. 106: 297-309** (2018),<br/> **Keywords**: hyperelasticity, swelling,<br/> Download: [[1]](https://doi.org/10.1016/j.ijnonlinmec.2018.04.010)<br/>
