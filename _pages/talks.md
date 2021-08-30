@@ -67,7 +67,65 @@ _Evolution of the Fiber Density in Biological Tissues_,<br/>
 **85th Annual Meeting of GAMM**,<br/>
 Erlangen, Germany, 10-14 March 2014
 
+* H. Topol, H. Demirkoparan, T.J. Pence, and A. Wineman:<br/>
+_Modelling of Fibril-Ligament Creation and Dissolution in Biological Tissues_,<br/>
+**EUROMECH Colloquium 551**,<br/>
+Nottingham, UK, 02-05 Sept. 2013<br/>
 
+* H. Topol:
+_High-Temperature Creep of Nickel Base γ-γ′ Superalloys (PhD presentation)_<br/>
+**Institute of General Mechanics, RWTH Aachen University**,<br/>
+Aachen, Germany, 29. Oct. 2012<br/>
+
+* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert
+Nonlinear elastic waves in a 1D layered composite material: some numerical results_,<br/>
+**ICNAAM 2011**,<br/>
+Halkidiki, Greece, 19-25 Sept. 2011<br/>
+
+* I.V. Andrianov, V.I. Bolshakov, Y. Kirichek, and H. Topol:<br/>
+_Periodical solutions of certain strongly nonlinear wave equations_,<br/>
+**ICNAAM 2011**,<br/>
+Halkidiki, Greece, 19-25 Sept. 2011<br/>
+
+* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
+_Nonlinear dynamic properties of layered composite material_,<br/>
+**ICNAAM 2010**,<br/>
+Rhodes, Greece, 19-25 Sept. 2010<br/>
+
+* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
+_Approximate approach for nonlinear deformation and failure of fibre composites_,<br/>
+**ICNAAM 2010**,<br/>
+Rhodes, Greece, 19-25 Sept. 2010<br/>
+
+* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
+_Nonlinear deformation and failure of fibre composites for the non-dilute case_,<br/>
+**Theoretical Foundations of Civil Engineering**,<br/>
+Warsaw, Poland, Sept. 2010<br/>
+
+* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
+_Shear wave dispersion in viscoelastic composite with elastic parallelepiped inclusions_,<br/>
+**ICNAAM 2009**,<br/>
+Crete, Greece, 18-22 Sept. 2009<br/>
+
+* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
+_Localization of nonlinear elastic waves in 1D periodic composite material_,<br/>
+**ENOC 2011**,<br/>
+Rome, Italy, 24-29 July 2010<br/>
+
+* I. V Andrianov, V. V. Danishevs’kyy, A. I. Ryzhkov, and H. Topol:<br/>
+_Nonlinear elastic waves and dynamic properties of layered composite material_,<br/>
+**Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures**,
+Dnipropetrovs’k, Ukraine, 28-30 June 2010<br/>
+
+* I.V. Andrianov, V.V. Danishevs’kyy, and H. Topol:<br/>
+_Asymptotic homogenization for periodic composite materials with imperfect bonding conditions_,<br/>
+**Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures**,<br/>
+Dnipropetrovs’k, Ukraine, 28-30 June 2010<br/>
+
+* I.V. Andrianov, H. Topol, and D. Weichert:<br/>
+_Analytical study of the viscoelastic fibre-reinforced composite materials_,<br/>
+**Workshop Composite-Forschung in der Mechanik (Engl.: Workshop composite research in mechanics)**,<br/>
+Bad Herrenalb, Germany, 01-03 Dec. 2008
 
 
 
