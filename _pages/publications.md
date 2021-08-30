@@ -76,16 +76,42 @@ Download: [[1]](https://doi.org/10.1007/s10665-014-9771-9)<br/>
 2014
 ======
 
-* H. Topol and H. Demirkoparan:
-__Evolution of the fiber density in biological tissues__,
-**Proc. Appl. Math. Mech. 14: 103-104** (2014),
- 10.1002/pamm.201410039
-**Keywords**: hyperelasticity, fibers, collagen, remodeling,
+* H. Topol and H. Demirkoparan:<br/> 
+__Evolution of the fiber density in biological tissues__,<br/> 
+**Proc. Appl. Math. Mech. 14: 103-104** (2014),<br/> 
+**Keywords**: hyperelasticity, fibers, collagen, remodeling,<br/> 
 Download: [[1]](https://doi.org/10.1002/pamm.201410039)<br/> 
 
-* H. Topol, H. Demirkoparan, T. J. Pence, and A. Wineman,
-_A theory for deformation dependent evolution of continuous fiber distribution applicable to biological tissue
-remodeling_,
-**IMA J. Appl. Math. 79: 947-977** (2014),
-**Keywords**: hyperelasticity, fibers, collagen, remodeling
+* H. Topol, H. Demirkoparan, T. J. Pence, and A. Wineman,<br/> 
+_A theory for deformation dependent evolution of continuous fiber distribution applicable to biological tissue remodeling_,<br/> 
+**IMA J. Appl. Math. 79: 947-977** (2014),<br/> 
+**Keywords**: hyperelasticity, fibers, collagen, remodeling,<br/> 
 Download: [[1]](https://doi.org/10.1093/imamat/hxu027)<br/> 
+
+2011
+======
+
+* I.V. Andrianov, V.I. Bolshakov, Y. Kirichek, and H. Topol:
+__Periodical solutions of certain strongly nonlinear wave equations__,
+**AIP Conf. Proc. 1389: 442-44** (2011),
+**Keywords**: wave propagation, asymptotic homogenization, nonlinearity, Murnaghan
+Download: [[1]](https://doi.org/10.1063/1.3636758)<br/> 
+
+* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:
+__Nonlinear elastic waves in a 1D layered composite material: some numerical results__,
+**AIP Conf. Proc. 1389: 438-441** (2011),
+**Keywords**: wave propagation, asymptotic homogenization, nonlinearity, Murnaghan
+Download: [[1]](https://doi.org/10.1063/1.3638045)<br/> 
+
+* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert,
+__Homogenization of a 1D nonlinear dynamical problem for periodic composites__,
+**ZAMM - Z. Angew. Math. Meth. 91: 523-534** (2011),
+ 10.1002/zamm.201000176
+**Keywords**: wave propagation, asymptotic homogenization, nonlinearity, Murnaghan
+Download: [[1]](https://doi.org/10.1002/zamm.201000176)<br/> 
+
+
+* I.V. Andrianov and H. Topol:
+__Asymptotic analysis and synthesis in mechanics of solids and nonlinear dynamics__,
+Download: [[1]](https://arxiv.org/abs/1106.1783)<br/> 
+
