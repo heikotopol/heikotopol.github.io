@@ -12,7 +12,6 @@ I work in different fields of mechanics such as continuum mechanics, biomechanic
 [Igor V. Andrianov](https://scholar.google.com/citations?user=4BW4P2AAAAAJ&hl=en),
 [Vladyslav Danishevskyy](https://scholar.google.com/citations?user=1r-_5HwAAAAJ&hl=en),
 [Hasan Demirkoparan](https://www.qatar.cmu.edu/directory/hasan-demirkoparan/),
-[Kun Gou](https://kungou.wordpress.com/),
 [Thomas J. Pence](https://www.egr.msu.edu/~pence/),
 [Dieter_Weichert](https://de.wikipedia.org/wiki/Dieter_Weichert),
 [Alan Wineman](https://me.engin.umich.edu/people/faculty/alan-wineman).
