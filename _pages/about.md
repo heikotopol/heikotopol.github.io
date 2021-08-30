@@ -13,7 +13,7 @@ I work in different fields of mechanics such as continuum mechanics, biomechanic
 [Vladyslav Danishevskyy](https://scholar.google.com/citations?user=1r-_5HwAAAAJ&hl=en),
 [Hasan Demirkoparan](https://www.qatar.cmu.edu/directory/hasan-demirkoparan/),
 [Thomas J. Pence](https://www.egr.msu.edu/~pence/),
-[Dieter_Weichert](https://de.wikipedia.org/wiki/Dieter_Weichert),
+[Dieter Weichert](https://de.wikipedia.org/wiki/Dieter_Weichert),
 [Alan Wineman](https://me.engin.umich.edu/people/faculty/alan-wineman).
 I have studied and worked in Germany, USA, China, and Qatar. Now I am back in Germany and I work at the [Institute of General Mechanics](https://www.iam.rwth-aachen.de/) of RWTH Aachen University.
 
