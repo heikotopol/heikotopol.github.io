@@ -63,7 +63,7 @@ var addressPoints = [
     "Rhodes, Greece",
     36.4239315,
     28.1966502
-  ]
+  ],
   [
     "Rosemont, IL",
     41.9812432,
