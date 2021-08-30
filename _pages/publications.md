@@ -26,17 +26,24 @@ author_profile: true
 2019
 ======
 
-* H. Topol, H. Demirkoparan, T. J. Pence:<br/> _Morphoelastic fiber remodeling in pressurized thick-walled cylinders with application to soft tissue
-collagenous tubes_,<br/> **Eur. J. Mech. A/Solids 77: 103800** (2019),<br/> **Keywords**: hyperelasticity, collagen, fiber remodeling, homeostasis, cylindrical inflation,<br/> Download: [[1]](https://doi.org/10.1016/j.euromechsol.2019.103800)
+* H. Topol, H. Demirkoparan, T. J. Pence:<br/> 
+_Morphoelastic fiber remodeling in pressurized thick-walled cylinders with application to soft tissue collagenous tubes_,<br/> 
+**Eur. J. Mech. A/Solids 77: 103800** (2019),<br/> 
+**Keywords**: hyperelasticity, collagen, fiber remodeling, homeostasis, cylindrical inflation,<br/> 
+Download: [[1]](https://doi.org/10.1016/j.euromechsol.2019.103800)
 
 2018
 ======
-* H. Topol, K. Gou, H. Demirkoparan, and T. J. Pence:<br/> _Hyperelastic modeling of the combined effects of tissue swelling and deformation-related collagen renewal in fibrous soft tissue_,<br/> **Biomech. Model. Mechanobiol. 17:1543-1567** (2018),<br/> **Keywords**: collagen, swelling, fiber remodeling, hyperelasticity, homeostasis,<br/> Downloads:  [[1]](https://doi.org/10.1007/s10237-018-1043-6),  [[2]](https://pubmed.ncbi.nlm.nih.gov/29931486/)<br/>
+* H. Topol, K. Gou, H. Demirkoparan, and T. J. Pence:<br/> 
+* _Hyperelastic modeling of the combined effects of tissue swelling and deformation-related collagen renewal in fibrous soft tissue_,<br/> 
+* **Biomech. Model. Mechanobiol. 17:1543-1567** (2018),<br/> 
+* **Keywords**: collagen, swelling, fiber remodeling, hyperelasticity, homeostasis,<br/> 
+* Downloads:  [[1]](https://doi.org/10.1007/s10237-018-1043-6),  [[2]](https://pubmed.ncbi.nlm.nih.gov/29931486/)<br/>
 
 * V. Zamani, T. J. Pence, H. Demirkoparan, and H. Topol:<br/> _Hyperelastic Models for the Swelling of Soft Material Plugs in Confined Spaces_,<br/>
 **Int. J. Nonlin. Mech. 106: 297-309** (2018),<br/> **Keywords**: hyperelasticity, swelling,<br/> Download: [[1]](https://doi.org/10.1016/j.ijnonlinmec.2018.04.010)<br/>
 
-* I. V. Andrianov, V. V. Danishevskyy, H. Topol B , and A. S. Luyt:<br/>
+* I. V. Andrianov, V. V. Danishevskyy, H. Topol, and A. S. Luyt:<br/>
 _Shear wave propagation in layered composites with degraded matrices at locations of imperfect bonding_,<br/>
 **Wave Motion 78: 9-31** (2018),<br/>
 **Keywords**: wave propagation, imperfect bonding, graded materials,<br/> 
@@ -62,13 +69,13 @@ Download: [[1]](https://doi.org/10.1007/s00707-016-1765-4)<br/>
 ======
 
 * H. Topol and H. Demirkoparan:<br/>
-__Evolution of mechanical properties in tissues undergoing deformation-related fiber remodeling processes__,<br/>
+_Evolution of mechanical properties in tissues undergoing deformation-related fiber remodeling processes_,<br/>
 **Proc. Appl. Math. Mech. 15: 113-114** (2015),<br/>
 **Keywords**: hyperelasticity, fibers, collagen, remodeling,<br/>
 Download: [[1]](https://doi.org/10.1002/pamm.201510047)<br/> 
 
 * H. Topol, H. Demirkoparan, T. J. Pence, and A. Wineman:<br/>
-__Uniaxial load analysis under stretch-dependent fiber remodeling applicable to collagenous tissue__,<br/>
+_Uniaxial load analysis under stretch-dependent fiber remodeling applicable to collagenous tissue_,<br/>
 **J. Eng. Math. 95: 325-345** (2015),<br/>
 **Keywords**: hyperelasticity, fibers, collagen, remodeling,<br/>
 Download: [[1]](https://doi.org/10.1007/s10665-014-9771-9)<br/> 
@@ -77,7 +84,7 @@ Download: [[1]](https://doi.org/10.1007/s10665-014-9771-9)<br/>
 ======
 
 * H. Topol and H. Demirkoparan:<br/> 
-__Evolution of the fiber density in biological tissues__,<br/> 
+_Evolution of the fiber density in biological tissues_,<br/> 
 **Proc. Appl. Math. Mech. 14: 103-104** (2014),<br/> 
 **Keywords**: hyperelasticity, fibers, collagen, remodeling,<br/> 
 Download: [[1]](https://doi.org/10.1002/pamm.201410039)<br/> 
@@ -92,38 +99,38 @@ Download: [[1]](https://doi.org/10.1093/imamat/hxu027)<br/>
 ======
 
 * I.V. Andrianov, V.I. Bolshakov, Y. Kirichek, and H. Topol:<br/> 
-__Periodical solutions of certain strongly nonlinear wave equations__,<br/> 
+_Periodical solutions of certain strongly nonlinear wave equations_,<br/> 
 **AIP Conf. Proc. 1389: 442-44** (2011),<br/> 
 **Keywords**: wave propagation, asymptotic homogenization, nonlinearity, Murnaghan,<br/> 
 Download: [[1]](https://doi.org/10.1063/1.3636758)<br/> 
 
 * I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
-__Nonlinear elastic waves in a 1D layered composite material: some numerical results__,<br/> 
+_Nonlinear elastic waves in a 1D layered composite material: some numerical results_,<br/> 
 **AIP Conf. Proc. 1389: 438-441** (2011),<br/> 
 **Keywords**: wave propagation, asymptotic homogenization, nonlinearity, Murnaghan,<br/> 
 Download: [[1]](https://doi.org/10.1063/1.3638045)<br/> 
 
 * I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
-__Homogenization of a 1D nonlinear dynamical problem for periodic composites__,<br/> 
+_Homogenization of a 1D nonlinear dynamical problem for periodic composites_,<br/> 
 **ZAMM - Z. Angew. Math. Meth. 91: 523-534** (2011),<br/> 
 **Keywords**: wave propagation, asymptotic homogenization, nonlinearity, Murnaghan,<br/> 
 Download: [[1]](https://doi.org/10.1002/zamm.201000176)<br/> 
 
 * I.V. Andrianov and H. Topol:<br/> 
-__Asymptotic analysis and synthesis in mechanics of solids and nonlinear dynamics__,<br/> 
+_Asymptotic analysis and synthesis in mechanics of solids and nonlinear dynamics_,<br/> 
 Download: [[1]](https://arxiv.org/abs/1106.1783)<br/> 
 
 2010
 ======
 
 * I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
-__Nonlinear dynamic properties of layered composite material__,<br/> 
+_Nonlinear dynamic properties of layered composite material_,<br/> 
 **AIP Conf. Proc. 1281: 821-824** (2010),<br/> 
 Download: [[1]](https://doi.org/10.1063/1.3498612)<br/> 
 
 
 * I. V Andrianov, V. V. Danishevs’kyy, A. I. Ryzhkov, and H. Topol:<br/> 
-__Nonlinear elastic waves and dynamic properties of layered composite material__,<br/> 
+_Nonlinear elastic waves and dynamic properties of layered composite material_,<br/> 
 **Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures, pp. 19-38
 (28-30 June 2010, Dnipropetrovs’k, Ukraine)**,<br/> 
 Editors: V.I. Bolshakov and D. Weichert<br/> 
@@ -138,11 +145,11 @@ Editors: V.I. Bolshakov and D. Weichert
 ======
 
 * I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:
-__Shear wave dispersion in viscoelastic composite with elastic parallelepiped inclusions__,
+_Shear wave dispersion in viscoelastic composite with elastic parallelepiped inclusions_,
 **AIP Conf. Proc. 1168: 848-851** (2009),
 Download: [[1]](https://doi.org/10.1063/1.3241611)<br/> 
 
 * I.V. Andrianov, H. Topol, and D. Weichert:
-__Load transfer in fibre-reinforced composites with viscoelastic matrix: an analytical study__,
+_Load transfer in fibre-reinforced composites with viscoelastic matrix: an analytical study_,
 **Arch. Appl. Mech. 79: 999-1007** (2009),
 Download: [[1]](https://doi.org/10.1007/s00419-008-0265-y)<br/> 
