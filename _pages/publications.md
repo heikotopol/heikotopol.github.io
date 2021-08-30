@@ -91,43 +91,45 @@ Download: [[1]](https://doi.org/10.1093/imamat/hxu027)<br/>
 2011
 ======
 
-* I.V. Andrianov, V.I. Bolshakov, Y. Kirichek, and H. Topol:
-__Periodical solutions of certain strongly nonlinear wave equations__,
-**AIP Conf. Proc. 1389: 442-44** (2011),
-**Keywords**: wave propagation, asymptotic homogenization, nonlinearity, Murnaghan
+* I.V. Andrianov, V.I. Bolshakov, Y. Kirichek, and H. Topol:<br/> 
+__Periodical solutions of certain strongly nonlinear wave equations__,<br/> 
+**AIP Conf. Proc. 1389: 442-44** (2011),<br/> 
+**Keywords**: wave propagation, asymptotic homogenization, nonlinearity, Murnaghan,<br/> 
 Download: [[1]](https://doi.org/10.1063/1.3636758)<br/> 
 
-* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:
-__Nonlinear elastic waves in a 1D layered composite material: some numerical results__,
-**AIP Conf. Proc. 1389: 438-441** (2011),
-**Keywords**: wave propagation, asymptotic homogenization, nonlinearity, Murnaghan
+* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
+__Nonlinear elastic waves in a 1D layered composite material: some numerical results__,<br/> 
+**AIP Conf. Proc. 1389: 438-441** (2011),<br/> 
+**Keywords**: wave propagation, asymptotic homogenization, nonlinearity, Murnaghan,<br/> 
 Download: [[1]](https://doi.org/10.1063/1.3638045)<br/> 
 
-* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert,
-__Homogenization of a 1D nonlinear dynamical problem for periodic composites__,
-**ZAMM - Z. Angew. Math. Meth. 91: 523-534** (2011),
- 10.1002/zamm.201000176
+* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
+__Homogenization of a 1D nonlinear dynamical problem for periodic composites__,<br/> 
+**ZAMM - Z. Angew. Math. Meth. 91: 523-534** (2011),<br/> 
 **Keywords**: wave propagation, asymptotic homogenization, nonlinearity, Murnaghan
 Download: [[1]](https://doi.org/10.1002/zamm.201000176)<br/> 
 
-* I.V. Andrianov and H. Topol:
+* I.V. Andrianov and H. Topol:<br/> 
 __Asymptotic analysis and synthesis in mechanics of solids and nonlinear dynamics__,
 Download: [[1]](https://arxiv.org/abs/1106.1783)<br/> 
 
 2010
 ======
 
-* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert
-Nonlinear dynamic properties of layered composite material
-AIP Conf. Proc. 1281: 821-824 (2010)
- 10.1063/1.3498612
-  I. V Andrianov, V. V. Danishevs’kyy, A. I. Ryzhkov, and H. Topol
- Nonlinear elastic waves and dynamic properties of layered composite material
- Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures, pp. 19-38
-(28-30 June 2010, Dnipropetrovs’k, Ukraine)
- Editors: V.I. Bolshakov and D. Weichert
-  I.V. Andrianov, V.V. Danishevs’kyy, and H. Topol
- Asymptotic homogenization for periodic composite materials with imperfect bonding conditions
- Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures, pp. 39-46
-(28-30 June 2010, Dnipropetrovs’k, Ukraine)
- Editors: V.I. Bolshakov and D. Weichert
+* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:
+__Nonlinear dynamic properties of layered composite material__,
+**AIP Conf. Proc. 1281: 821-824** (2010),
+Download: [[1]](https://doi.org/10.1063/1.3498612)<br/> 
+
+
+* I. V Andrianov, V. V. Danishevs’kyy, A. I. Ryzhkov, and H. Topol:
+__Nonlinear elastic waves and dynamic properties of layered composite material__,
+**Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures, pp. 19-38
+(28-30 June 2010, Dnipropetrovs’k, Ukraine)**,
+Editors: V.I. Bolshakov and D. Weichert,
+
+* I.V. Andrianov, V.V. Danishevs’kyy, and H. Topol:
+_Asymptotic homogenization for periodic composite materials with imperfect bonding conditions_,
+**Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures, pp. 39-46
+(28-30 June 2010, Dnipropetrovs’k, Ukraine)**,
+Editors: V.I. Bolshakov and D. Weichert
