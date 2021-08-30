@@ -10,9 +10,19 @@ var addressPoints = [
     8.4425103
   ],
   [
-    "Beijing, China",
-    39.953288,
-    116.3451314
+    "Bali, Indonesia",
+    -8.4553173,
+    114.7913634
+  ],
+  [
+    "Bhaktapur, Nepal",
+    27.4912263,
+    85.458597
+  ],
+  [
+    "Bochum, Germany",
+    51.4456692,
+    7.2594206
   ],
   [
     "Bochum, Germany",
@@ -65,6 +75,11 @@ var addressPoints = [
     11.0284113
   ],
   [
+    "Kathmandu, Nepal",
+    27.7089972,
+    85.3086232
+  ],
+  [
     "Kuwait City, Kuwait",
     29.3760836,
     47.973112
@@ -95,6 +110,11 @@ var addressPoints = [
     -1.1951883
   ],
   [
+    "Nusa Penida, Indonesia",
+    -8.7454866,
+    115.5026211
+  ],
+  [
     "Pokhara, Nepal",
     28.2298558,
     83.8865788
@@ -123,5 +143,10 @@ var addressPoints = [
     "Tangerang, Indonesia",
     -6.1766011,
     106.6150146
+  ],
+  [
+    "The Last Resort, Nepal",
+    27.8762852,
+    85.8917285
   ]
 ];
