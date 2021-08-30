@@ -1,4 +1,9 @@
 var addressPoints = [
+  [
+    "RWTH Aachen, Germany",
+    50.7777202,
+     6.0797021
+  ],
    [
     "Bad Herrenalb, Germany",
     48.800517,
