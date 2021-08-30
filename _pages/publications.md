@@ -133,3 +133,16 @@ _Asymptotic homogenization for periodic composite materials with imperfect bondi
 **Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures, pp. 39-46
 (28-30 June 2010, Dnipropetrovs’k, Ukraine)**,<br/> 
 Editors: V.I. Bolshakov and D. Weichert
+
+2009
+======
+
+* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:
+__Shear wave dispersion in viscoelastic composite with elastic parallelepiped inclusions__,
+**AIP Conf. Proc. 1168: 848-851** (2009),
+Download: [[1]](https://doi.org/10.1063/1.3241611)<br/> 
+
+* I.V. Andrianov, H. Topol, and D. Weichert:
+__Load transfer in fibre-reinforced composites with viscoelastic matrix: an analytical study__,
+**Arch. Appl. Mech. 79: 999-1007** (2009),
+Download: [[1]](https://doi.org/10.1007/s00419-008-0265-y)<br/> 
