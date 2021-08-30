@@ -25,9 +25,19 @@ var addressPoints = [
     -3.2147719
   ],
   [
+    "Center for Advanced Materials, Qatar",
+    43.3767236,
+    -3.2147719
+  ],
+  [
     "Chalkidiki, Greece",
     40.0601822,
     23.4620749
+  ],
+  [
+    "College Station, TX",
+    30.6196709,
+    -96.3407719
   ],
   [
     "Doha, Qatar",
@@ -57,7 +67,7 @@ var addressPoints = [
   [
     "Nottingham, UK",
     52.9397827,
-    -1.1951883,
+    -1.1951883
   ],
   [
     "Rhodes, Greece",
