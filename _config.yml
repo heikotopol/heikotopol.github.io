@@ -14,7 +14,7 @@ description              : &description "Dr.-Ing., engineering, mechanics, mathe
 url                      : https://heikotopol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "heikotopol/heikotopol.github.io"
-teaser                   : "HT.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : #"HT.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Heiko Topol"
   avatar           : "HT.jpg"
-  bio              : "Dr.-Ing., engineering, mechanics, mathematics, research"
+  bio              : "PhD, engineering, mechanics, mathematics"
   location         : "Aachen, Germany"
   employer         : #"RWTH Aachen University"
   email            : "topol@iam.rwth-aachen.de"
