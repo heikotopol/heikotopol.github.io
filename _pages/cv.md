@@ -13,6 +13,7 @@ Education
 ======
 * Ph.D. (Dr.-Ing.) RWTH Aachen University, 2012
 * Diploma, Ruhr University Bochum, 2007
+* Texas A&M University, DAAD scholarship (one semester)
 
 Work experience
 ======
