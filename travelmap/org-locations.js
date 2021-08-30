@@ -65,6 +65,11 @@ var addressPoints = [
     11.0284113
   ],
   [
+    "La Digue, Seychelles",
+    -4.3534826,
+    55.8245434
+  ],
+  [
     "Lecce, Italy",
     40.3612492,
     18.1666645
@@ -75,6 +80,11 @@ var addressPoints = [
     -1.1951883
   ],
   [
+    "Pokhara, Nepal",
+    28.2298558,
+    83.8865788
+  ],
+  [
     "Rhodes, Greece",
     36.4239315,
     28.1966502
@@ -83,5 +93,10 @@ var addressPoints = [
     "Rosemont, IL",
     41.9812432,
     -87.8611541
+  ],
+  [
+    "Shanghai, China",
+    31.2246325,
+    121.1965749
   ]
 ];
