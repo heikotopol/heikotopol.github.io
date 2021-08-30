@@ -31,8 +31,8 @@ var addressPoints = [
   ],
   [
     "Center for Advanced Materials, Qatar",
-    27.2947751,
-    29.1581219
+    25.3782243,
+    51.4891378
   ],
   [
     "Chalkidiki, Greece",
