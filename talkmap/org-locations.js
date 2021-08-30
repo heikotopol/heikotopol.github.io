@@ -5,6 +5,16 @@ var addressPoints = [
     8.4425103
   ],
   [
+    "Beijing, China",
+    39.953288,
+    116.3451314
+  ],
+  [
+    "Bochum, Germany",
+    51.4456692,
+    7.2594206
+  ],
+  [
     "Bologna, Italy",
     44.5121449,
     11.3605547
@@ -13,6 +23,11 @@ var addressPoints = [
     "Castro Urdiales, Spain",
     43.3767236,
     -3.2147719
+  ],
+  [
+    "Chalkidiki, Greece",
+    40.0601822,
+    23.4620749
   ],
   [
     "Doha, Qatar",
@@ -40,10 +55,15 @@ var addressPoints = [
     18.1666645
   ],
   [
-    "Notingham, UK",
+    "Nottingham, UK",
     52.9397827,
     -1.1951883,
   ],
+  [
+    "Rhodes, Greece",
+    36.4239315,
+    28.1966502
+  ]
   [
     "Rosemont, IL",
     41.9812432,
