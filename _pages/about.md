@@ -15,7 +15,7 @@ I work in different fields of mechanics such as continuum mechanics, biomechanic
 [Thomas J. Pence](https://www.egr.msu.edu/~pence/),
 [Dieter Weichert](https://de.wikipedia.org/wiki/Dieter_Weichert),
 [Alan Wineman](https://me.engin.umich.edu/people/faculty/alan-wineman).
-I have studied and worked in Germany, USA, China, and Qatar. Now I am back in Germany and I work at the [Institute of General Mechanics](https://www.iam.rwth-aachen.de/) of RWTH Aachen University.
+I have studied and worked in Germany, USA, China, and Qatar ([here](https://heikotopol.github.io/talkmap/map) is a map of my universities and conference venues). Now I am back in Germany and I work at the [Institute of General Mechanics](https://www.iam.rwth-aachen.de/) of RWTH Aachen University.
 
 ![Cervix](/images/NEWDIAG2Neg.jpg)
 
