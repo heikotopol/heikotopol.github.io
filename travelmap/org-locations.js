@@ -85,8 +85,8 @@ var addressPoints = [
   ],
   [
     "Dublin, Ireland",
-    52.1839254,
-    -4.8350386
+    53.3242381,
+    -6.3857854
   ],
   [
     "East Lansing, MI",
@@ -129,6 +129,11 @@ var addressPoints = [
     18.1666645
   ],
   [
+    "Luxembourg, Luxembourg",
+    49.6075838,
+    6.0658307
+  ],
+  [
     "Manama, Bahrain",
     26.2266541,
     50.5714822
@@ -137,6 +142,11 @@ var addressPoints = [
     "Muscat, Oman",
     23.5829664,
     58.3544767
+  ],
+  [
+    "New York, NY",
+    40.6971494,
+    -74.2598611
   ],
   [
     "Nizwa, Oman",
