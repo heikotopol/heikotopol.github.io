@@ -80,9 +80,9 @@ Tissue Remodeling
 
 
 
-H. Topol, H. Demirkoparan, T.J. Pence, and A. Wineman
-Evolution of the Fiber Density in Biological Tissues
-85th Annual Meeting of GAMM
+* H. Topol, H. Demirkoparan, T.J. Pence, and A. Wineman,<br/>
+_Evolution of the Fiber Density in Biological Tissues_,<br/>
+**85th Annual Meeting of GAMM**,<br/>
 Erlangen, Germany, 10-14 March 2014
 
 
