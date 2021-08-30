@@ -61,7 +61,7 @@ Download: [[1]](https://doi.org/10.1007/s00707-016-1765-4)<br/>
 2015
 ======
 
-* H. Topol B and H. Demirkoparan:<br/>
+* H. Topol and H. Demirkoparan:<br/>
 __Evolution of mechanical properties in tissues undergoing deformation-related fiber remodeling processes__,<br/>
 **Proc. Appl. Math. Mech. 15: 113-114** (2015),<br/>
 **Keywords**: hyperelasticity, fibers, collagen, remodeling,<br/>
@@ -72,3 +72,20 @@ __Uniaxial load analysis under stretch-dependent fiber remodeling applicable to 
 **J. Eng. Math. 95: 325-345** (2015),<br/>
 **Keywords**: hyperelasticity, fibers, collagen, remodeling,<br/>
 Download: [[1]](https://doi.org/10.1007/s10665-014-9771-9)<br/> 
+
+2014
+======
+
+* H. Topol and H. Demirkoparan:
+__Evolution of the fiber density in biological tissues__,
+**Proc. Appl. Math. Mech. 14: 103-104** (2014),
+ 10.1002/pamm.201410039
+**Keywords**: hyperelasticity, fibers, collagen, remodeling,
+Download: [[1]](https://doi.org/10.1002/pamm.201410039)<br/> 
+
+* H. Topol, H. Demirkoparan, T. J. Pence, and A. Wineman,
+_A theory for deformation dependent evolution of continuous fiber distribution applicable to biological tissue
+remodeling_,
+**IMA J. Appl. Math. 79: 947-977** (2014),
+**Keywords**: hyperelasticity, fibers, collagen, remodeling
+Download: [[1]](https://doi.org/10.1093/imamat/hxu027)<br/> 
