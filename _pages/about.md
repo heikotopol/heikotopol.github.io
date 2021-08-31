@@ -20,7 +20,7 @@ My recent work focuses on the biomechanics of fibrous soft tissue. Different art
 [Kun Gou](https://apps.tamusa.edu/course-information/Profile/Faculty/387?=Kun-Gou) (_Texas A&M University San Antonio_),
 [Thomas J. Pence](https://www.egr.msu.edu/~pence/) (_Michigan State University_), and [Alan Wineman](https://me.engin.umich.edu/people/faculty/alan-wineman) (_University of Michigan_).-->
 
-Welcome to my page. I am a researcher at the [Institute of General Mechanics](https://www.iam.rwth-aachen.de/) of _RWTH Aachen University_. I work in the field of the mechanical behavior of composites (wave propagation and heat transfer in anisotropic media, asymptotic homogenization) together with [Igor V. Andrianov](https://scholar.google.com/citations?user=4BW4P2AAAAAJ&hl=en),
+Welcome to my page. I am a researcher at the [Institute of General Mechanics](https://www.iam.rwth-aachen.de/) of _RWTH Aachen University_. I work in the field of the mechanical behavior of composites together with [Igor V. Andrianov](https://scholar.google.com/citations?user=4BW4P2AAAAAJ&hl=en),
 [Vladyslav V. Danishevskyy](https://scholar.google.com/citations?user=1r-_5HwAAAAJ&hl=en), and
 [Dieter Weichert](https://de.wikipedia.org/wiki/Dieter_Weichert). 
 
