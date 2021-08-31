@@ -121,20 +121,22 @@ Download: [[1]](https://doi.org/10.1063/1.3498612)<br/>
 _Nonlinear elastic waves and dynamic properties of layered composite material_,<br/> 
 **Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures, pp. 19-38
 (28-30 June 2010, Dnipropetrovs’k, Ukraine)**,<br/> 
-Editors: V.I. Bolshakov and D. Weichert<br/> 
+Editors: V.I. Bolshakov and D. Weichert,<br/> 
+Link: [[1]](https://publications.rwth-aachen.de/record/47661)<br/> 
 
 * I.V. Andrianov, V.V. Danishevs’kyy, and H. Topol:<br/> 
 _Asymptotic homogenization for periodic composite materials with imperfect bonding conditions_,<br/> 
 **Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures, pp. 39-46
 (28-30 June 2010, Dnipropetrovs’k, Ukraine)**,<br/> 
-Editors: V.I. Bolshakov and D. Weichert
+Editors: V.I. Bolshakov and D. Weichert,<br/> 
+Link: [[1]](https://publications.rwth-aachen.de/record/47661)<br/> 
 
-* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:
-_Shear wave dispersion in viscoelastic composite with elastic parallelepiped inclusions_,
-**AIP Conf. Proc. 1168: 848-851** (2009),
+* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
+_Shear wave dispersion in viscoelastic composite with elastic parallelepiped inclusions_,<br/> 
+**AIP Conf. Proc. 1168: 848-851** (2009),<br/> 
 Download: [[1]](https://doi.org/10.1063/1.3241611)<br/> 
 
-* I.V. Andrianov, H. Topol, and D. Weichert:
-_Load transfer in fibre-reinforced composites with viscoelastic matrix: an analytical study_,
-**Arch. Appl. Mech. 79: 999-1007** (2009),
+* I.V. Andrianov, H. Topol, and D. Weichert:<br/> 
+_Load transfer in fibre-reinforced composites with viscoelastic matrix: an analytical study_,<br/> 
+**Arch. Appl. Mech. 79: 999-1007** (2009),<br/> 
 Download: [[1]](https://doi.org/10.1007/s00419-008-0265-y)<br/> 
