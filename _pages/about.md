@@ -25,14 +25,10 @@ Welcome to my page. I am a researcher at the [Institute of General Mechanics](ht
 My recent work focuses on the biomechanics of fibrous soft tissue. Different articles that explore the mechano-regulared fiber remodeling processes in collagenous materials have been published in collaboration with [Hasan Demirkoparan](https://www.qatar.cmu.edu/directory/hasan-demirkoparan/),
 [Kun Gou](https://apps.tamusa.edu/course-information/Profile/Faculty/387?=Kun-Gou),
 [Thomas J. Pence](https://www.egr.msu.edu/~pence/), and [Alan Wineman](https://me.engin.umich.edu/people/faculty/alan-wineman).
-
-
 ![Cervix](/images/NEWDIAG2Neg.jpg)
 
  I worked in the field of the mechanical behavior of composites together with [Igor V. Andrianov](https://scholar.google.com/citations?user=4BW4P2AAAAAJ&hl=en),
 [Vladyslav V. Danishevskyy](https://scholar.google.com/citations?user=1r-_5HwAAAAJ&hl=en), and
 [Dieter Weichert](https://de.wikipedia.org/wiki/Dieter_Weichert). 
-
-![Cervix](/images/lin00.png)
 
 
