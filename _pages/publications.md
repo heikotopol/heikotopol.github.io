@@ -17,15 +17,12 @@ author_profile: true
 
 * H. Topol, H. Demirkoparan, and T. J. Pence:<br/> _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,<br/> **J. Mech. Behav. Biomed. Mater. 113: 104154** (2021),<br/> **Keywords**: collagen, remodeling, fibers, morphoelasticity, homeostasis,<br/> Downloads:  [[1]](https://doi.org/10.1016/j.jmbbm.2020.104154),  [[2]](https://pubmed.ncbi.nlm.nih.gov/33158790/)
 
-2020
+2016 - 2020
 ======
 
 * I. V. Andrianov, V. V. Danishevskyy, and H. Topol:<br/> _Local stress distribution in composites for pulled-out fibers with axially varying bonding_,<br/> **Acta Mech. 231: 2065-2083** (2020),<br/> **Keywords**: single fiber pull-out, imperfect bonding, viscoelasticity, <br/> Download: [[1]](https://doi.org/10.1007/s00707-020-02634-6)<br/>
 
 * K. Gou, H. Topol, H. Demirkoparan, T. J. Pence:<br/> _Stress-swelling finite element modeling of cervical response with homeostatic collagen fiber distributions_,<br/> **J. Biomech. Eng. - Trans. ASME 142: 081002** (2020),<br/> **Keywords**: fibers, finite element analysis, modeling, stress, pressure, biological tissues, deformation, engineering simulation, mechanical properties, simulation,<br/> Downloads:  [[1]](https://doi.org/10.1115/1.4045810),  [[2]](https://pubmed.ncbi.nlm.nih.gov/31891375/)
-
-2019
-======
 
 * H. Topol, H. Demirkoparan, T. J. Pence:<br/> 
 _Morphoelastic fiber remodeling in pressurized thick-walled cylinders with application to soft tissue collagenous tubes_,<br/> 
@@ -33,8 +30,6 @@ _Morphoelastic fiber remodeling in pressurized thick-walled cylinders with appli
 **Keywords**: hyperelasticity, collagen, fiber remodeling, homeostasis, cylindrical inflation,<br/> 
 Download: [[1]](https://doi.org/10.1016/j.euromechsol.2019.103800)
 
-2018
-======
 * H. Topol, K. Gou, H. Demirkoparan, and T. J. Pence:<br/> 
  _Hyperelastic modeling of the combined effects of tissue swelling and deformation-related collagen renewal in fibrous soft tissue_,<br/> 
 **Biomech. Model. Mechanobiol. 17:1543-1567** (2018),<br/> 
@@ -50,8 +45,6 @@ _Shear wave propagation in layered composites with degraded matrices at location
 **Keywords**: wave propagation, imperfect bonding, graded materials,<br/> 
 Download: [[1]](https://doi.org/10.1016/j.wavemoti.2017.12.007)
 
-2017
-======
 
 * H. Topol, H. Demirkoparan, T. J. Pence, and A. Wineman,<br/> 
 _Time-Evolving Collagen-Like Structural Fibers in Soft Tissues: Biaxial Loading and Spherical Inflation_,<br/> 
@@ -66,7 +59,7 @@ interface/interphase models for imperfect bonding_,<br/>
 **Keywords**: wave propagation, Floquet-Bloch, plane-wave expansion, imperfect interface, interphase,<br/> 
 Download: [[1]](https://doi.org/10.1007/s00707-016-1765-4)<br/> 
 
-2015
+2011 - 2015
 ======
 
 * H. Topol and H. Demirkoparan:<br/>
@@ -81,9 +74,6 @@ _Uniaxial load analysis under stretch-dependent fiber remodeling applicable to c
 **Keywords**: hyperelasticity, fibers, collagen, remodeling,<br/>
 Download: [[1]](https://doi.org/10.1007/s10665-014-9771-9)<br/> 
 
-2014
-======
-
 * H. Topol and H. Demirkoparan:<br/> 
 _Evolution of the fiber density in biological tissues_,<br/> 
 **Proc. Appl. Math. Mech. 14: 103-104** (2014),<br/> 
@@ -95,9 +85,6 @@ _A theory for deformation dependent evolution of continuous fiber distribution a
 **IMA J. Appl. Math. 79: 947-977** (2014),<br/> 
 **Keywords**: hyperelasticity, fibers, collagen, remodeling,<br/> 
 Download: [[1]](https://doi.org/10.1093/imamat/hxu027)<br/> 
-
-2011
-======
 
 * I.V. Andrianov, V.I. Bolshakov, Y. Kirichek, and H. Topol:<br/> 
 _Periodical solutions of certain strongly nonlinear wave equations_,<br/> 
@@ -121,7 +108,7 @@ Download: [[1]](https://doi.org/10.1002/zamm.201000176)<br/>
 _Asymptotic analysis and synthesis in mechanics of solids and nonlinear dynamics_,<br/> 
 Download: [[1]](https://arxiv.org/abs/1106.1783)<br/> 
 
-2010
+2009 - 2010
 ======
 
 * I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
@@ -141,9 +128,6 @@ _Asymptotic homogenization for periodic composite materials with imperfect bondi
 **Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures, pp. 39-46
 (28-30 June 2010, Dnipropetrovs’k, Ukraine)**,<br/> 
 Editors: V.I. Bolshakov and D. Weichert
-
-2009
-======
 
 * I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:
 _Shear wave dispersion in viscoelastic composite with elastic parallelepiped inclusions_,
