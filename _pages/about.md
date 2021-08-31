@@ -11,15 +11,15 @@ redirect_from:
 About me
 ======
 
-After receiving my engineering degree at _Ruhr University Bochum_, I became a PhD student at _RWTH Aachen University_, where I worked together with 
-[Igor V. Andrianov](https://scholar.google.com/citations?user=4BW4P2AAAAAJ&hl=en),
-[Vladyslav V. Danishevskyy](https://scholar.google.com/citations?user=1r-_5HwAAAAJ&hl=en), and
-[Dieter Weichert](https://de.wikipedia.org/wiki/Dieter_Weichert) in the fields of the mechanics of composites, wave propagation in anisotropic media, and asymptotic homogenization.
 
-In 2013 I moved to Qatar, where I worked at _Qatar University_ and at _Carnegie Mellon University in Qatar_, where in worked together with [Hasan Demirkoparan](https://www.qatar.cmu.edu/directory/hasan-demirkoparan/) (_Carnegie Mellon University in Qatar_), [Thomas J. Pence](https://www.egr.msu.edu/~pence/) (_Michigan State University_), [Alan Wineman](https://me.engin.umich.edu/people/faculty/alan-wineman) (University of Michigan), and [Kun Gou](https://apps.tamusa.edu/course-information/Profile/Faculty/387?=Kun-Gou) (Texas A&M University San Antonio) in order to explore the biomechanics of fibrous soft tissue.
-In the fall of 2020 I became a visiting assistant professor of mathematical sciences at _Carnegie Mellon University in Qatar_
+Welcome to my page. I am a researcher at the [Institute of General Mechanics](https://www.iam.rwth-aachen.de/) of _RWTH Aachen University_. I work in the field of the mechanical behavior of composites (wave propagation and heat transfer in anisotropic media, asymptotic homogenization) together with [Igor V. Andrianov](https://scholar.google.com/citations?user=4BW4P2AAAAAJ&hl=en) (_RWTH Aachen University_),
+[Vladyslav V. Danishevskyy](https://scholar.google.com/citations?user=1r-_5HwAAAAJ&hl=en) (Prydniprovska State Academy of Civil Engineering and Architecture), and
+[Dieter Weichert](https://de.wikipedia.org/wiki/Dieter_Weichert) (_RWTH Aachen University_). 
 
-Now I am back at the [Institute of General Mechanics](https://www.iam.rwth-aachen.de/) of _RWTH Aachen University_, where I continue my biomechanics work.
+My recent work focuses on the biomechanics of fibrous soft tissue. Different articles that explore the mechano-regulared fiber remodeling processes in collagenous materials have been published in collaboration with [Hasan Demirkoparan](https://www.qatar.cmu.edu/directory/hasan-demirkoparan/) (_Carnegie Mellon University in Qatar_),
+[Kun Gou](https://apps.tamusa.edu/course-information/Profile/Faculty/387?=Kun-Gou) (_Texas A&M University San Antonio_),
+[Thomas J. Pence](https://www.egr.msu.edu/~pence/) (_Michigan State University_), and [Alan Wineman](https://me.engin.umich.edu/people/faculty/alan-wineman) (_University of Michigan_).
+
 
 ![Cervix](/images/NEWDIAG2Neg.jpg)
 
