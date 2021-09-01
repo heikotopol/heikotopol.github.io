@@ -9,6 +9,13 @@ author_profile: true
 2021 - now
 ======
  
+* I. V. Andrianov and H. Topol:<br/> 
+_Compatibility conditions: number of independent equations and boundary conditions_ (book chapter),<br/> 
+**Mechanics and Physics of Structured Media - Asymptotic and Integral Equations Methods of Leonid Filshtinsky**,<br/> 
+Editors: I. Andrianov, S. Gluzman, and V. Mityushev,<br/> 
+**Keywords**: linear elasticity, de Saint-Venant compatibility conditions, Beltrami compatibility conditions, problem in stresses, stress function,<br/> 
+Link: [[1]](https://www.elsevier.com/books/mechanics-and-physics-of-structured-media/andrianov/978-0-323-90543-5)<br/> 
+ 
 * H. Topol, H. Demirkoparan, and T. J. Pence:<br/> _Modeling Stretch-Dependent Collagen Fiber Density_,<br/> **Mech. Res. Commun. 116, 103740** (2021),<br/>
 **Keywords**: collagen fibers; remodeling; enzymatic degradation,<br/>
  Download: [[1]](https://doi.org/10.1016/j.mechrescom.2021.103740)<br/>
@@ -86,32 +93,32 @@ _A theory for deformation dependent evolution of continuous fiber distribution a
 **Keywords**: hyperelasticity, fibers, collagen, remodeling,<br/> 
 Download: [[1]](https://doi.org/10.1093/imamat/hxu027)<br/> 
 
-* I.V. Andrianov, V.I. Bolshakov, Y. Kirichek, and H. Topol:<br/> 
+* I. V. Andrianov, V. I. Bolshakov, Y. Kirichek, and H. Topol:<br/> 
 _Periodical solutions of certain strongly nonlinear wave equations_,<br/> 
 **AIP Conf. Proc. 1389: 442-44** (2011),<br/> 
 **Keywords**: wave propagation, asymptotic homogenization, nonlinearity, Murnaghan,<br/> 
 Download: [[1]](https://doi.org/10.1063/1.3636758)<br/> 
 
-* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
+* I. V. Andrianov, V. V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
 _Nonlinear elastic waves in a 1D layered composite material: some numerical results_,<br/> 
 **AIP Conf. Proc. 1389: 438-441** (2011),<br/> 
 **Keywords**: wave propagation, asymptotic homogenization, nonlinearity, Murnaghan,<br/> 
 Download: [[1]](https://doi.org/10.1063/1.3638045)<br/> 
 
-* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
+* I. V. Andrianov, V. V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
 _Homogenization of a 1D nonlinear dynamical problem for periodic composites_,<br/> 
 **ZAMM - Z. Angew. Math. Meth. 91: 523-534** (2011),<br/> 
 **Keywords**: wave propagation, asymptotic homogenization, nonlinearity, Murnaghan,<br/> 
 Download: [[1]](https://doi.org/10.1002/zamm.201000176)<br/> 
 
-* I.V. Andrianov and H. Topol:<br/> 
+* I. V. Andrianov and H. Topol:<br/> 
 _Asymptotic analysis and synthesis in mechanics of solids and nonlinear dynamics_,<br/> 
 Download: [[1]](https://arxiv.org/abs/1106.1783)<br/> 
 
 2009 - 2010
 ======
 
-* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
+* I. V. Andrianov, V. V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
 _Nonlinear dynamic properties of layered composite material_,<br/> 
 **AIP Conf. Proc. 1281: 821-824** (2010),<br/> 
 Download: [[1]](https://doi.org/10.1063/1.3498612)<br/> 
@@ -124,19 +131,19 @@ _Nonlinear elastic waves and dynamic properties of layered composite material_,<
 Editors: V.I. Bolshakov and D. Weichert,<br/> 
 Link: [[1]](https://publications.rwth-aachen.de/record/47661)<br/> 
 
-* I.V. Andrianov, V.V. Danishevs’kyy, and H. Topol:<br/> 
+* I. V. Andrianov, V. V. Danishevs’kyy, and H. Topol:<br/> 
 _Asymptotic homogenization for periodic composite materials with imperfect bonding conditions_,<br/> 
 **Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures, pp. 39-46
 (28-30 June 2010, Dnipropetrovs’k, Ukraine)**,<br/> 
 Editors: V.I. Bolshakov and D. Weichert,<br/> 
 Link: [[1]](https://publications.rwth-aachen.de/record/47661)<br/> 
 
-* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
+* I. V. Andrianov, V. V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
 _Shear wave dispersion in viscoelastic composite with elastic parallelepiped inclusions_,<br/> 
 **AIP Conf. Proc. 1168: 848-851** (2009),<br/> 
 Download: [[1]](https://doi.org/10.1063/1.3241611)<br/> 
 
-* I.V. Andrianov, H. Topol, and D. Weichert:<br/> 
+* I. V. Andrianov, H. Topol, and D. Weichert:<br/> 
 _Load transfer in fibre-reinforced composites with viscoelastic matrix: an analytical study_,<br/> 
 **Arch. Appl. Mech. 79: 999-1007** (2009),<br/> 
 Download: [[1]](https://doi.org/10.1007/s00419-008-0265-y)<br/> 
