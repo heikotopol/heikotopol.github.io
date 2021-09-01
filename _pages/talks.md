@@ -103,11 +103,6 @@ _Nonlinear deformation and failure of fibre composites for the non-dilute case_,
 Warsaw, Poland, Sept. 2010<br/>
 
 * I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
-_Shear wave dispersion in viscoelastic composite with elastic parallelepiped inclusions_,<br/>
-**ICNAAM 2009**,<br/>
-Crete, Greece, 18-22 Sept. 2009<br/>
-
-* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
 _Localization of nonlinear elastic waves in 1D periodic composite material_,<br/>
 **ENOC 2011**,<br/>
 Rome, Italy, 24-29 July 2010<br/>
@@ -121,6 +116,11 @@ Dnipropetrovs’k, Ukraine, 28-30 June 2010<br/>
 _Asymptotic homogenization for periodic composite materials with imperfect bonding conditions_,<br/>
 **Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures**,<br/>
 Dnipropetrovs’k, Ukraine, 28-30 June 2010<br/>
+
+* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
+_Shear wave dispersion in viscoelastic composite with elastic parallelepiped inclusions_,<br/>
+**ICNAAM 2009**,<br/>
+Crete, Greece, 18-22 Sept. 2009<br/>
 
 * I.V. Andrianov, H. Topol, and D. Weichert:<br/>
 _Analytical study of the viscoelastic fibre-reinforced composite materials_,<br/>
