@@ -11,7 +11,7 @@ _Morphoelastic remodeling of collagenous fibers under cyclic loading_,<br/>
 **The Multiscale Spectrum of Constitutive Modeling in Solid Mechanics (hosted by CIEM)**,<br/>
 Castro Urdiales, Spain, 01-05 July 2019<br/>
 
-* H. Topol, H. Demirkoparan, T.J. Pence,
+* H. Topol, H. Demirkoparan, T.J. Pence:
 _Modeling Collagenous Soft Tissue_,
 **General seminar on the QNRF-funded project “New mathematical models for the large strain swelling
 response of biological tissues: Applications to Edema, Inflammation, and Pregnancy” (NPRP 8-2424-1-477)**,
@@ -27,7 +27,7 @@ _Swelling induced shearing twist in a transversely isotropic hyperelastic annulu
 **10th European Solid Mechanics Conference (ESMC)**,<br/>
 Bologna, Italy, 02-06 July 2018<br/>
 
-* H. Topol, H. Demirkoparan, T.J. Pence:
+* H. Topol, H. Demirkoparan, T.J. Pence:<br/>
 _Fiber-Stretch Related Remodeling-Processes Applicable to Dispersed Collagen Fiber-Networks_,<br/>
 **18th U.S. National Congress on Theoretical and Applied Mechanics**,<br/>
 Chicago, USA, 04-09 June 2018<br/>
@@ -52,17 +52,17 @@ _Evolution of Mechanical Properties in Tissues Undergoing Deformation-Related Fi
 **86th Annual Meeting of GAMM**,<br/>
 Lecce, Italy, 23-27 March 2015<br/>
 
-* H. Topol, H. Demirkoparan, T.J. Pence, and A. Wineman,<br/>
+* H. Topol, H. Demirkoparan, T.J. Pence, and A. Wineman:<br/>
 _Remodeling Of Collagen-Fibers in Deformed Tissues_,<br/>
 **Qatar Foundation Annual Research Conference 2014**,<br/>
 Doha, Qatar, 18-19 Nov. 2014<br/>
 
-* H. Topol, H. Demirkoparan, T.J. Pence, and A. Wineman,<br/>
+* H. Topol, H. Demirkoparan, T.J. Pence, and A. Wineman:<br/>
 _Finite Deformation Continuum Mechanics of Stretch Dependent Fiber Turnover with Application to Collagen Tissue Remodeling_,<br/>
 **17th U.S. National Congress on Theoretical and Applied Mechanics**,<br/>
 East Lansing, USA, 15-20 June 2014<br/>
 
-* H. Topol, H. Demirkoparan,<br/>
+* H. Topol, H. Demirkoparan:<br/>
 _Evolution of the Fiber Density in Biological Tissues_,<br/>
 **85th Annual Meeting of GAMM**,<br/>
 Erlangen, Germany, 10-14 March 2014
@@ -72,13 +72,13 @@ _Modelling of Fibril-Ligament Creation and Dissolution in Biological Tissues_,<b
 **EUROMECH Colloquium 551**,<br/>
 Nottingham, UK, 02-05 Sept. 2013<br/>
 
-* H. Topol:
+* H. Topol:<br/>
 _High-Temperature Creep of Nickel Base γ-γ′ Superalloys (PhD presentation)_<br/>
 **Institute of General Mechanics, RWTH Aachen University**,<br/>
 Aachen, Germany, 29. Oct. 2012<br/>
 
-* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert
-Nonlinear elastic waves in a 1D layered composite material: some numerical results_,<br/>
+* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
+_Nonlinear elastic waves in a 1D layered composite material: some numerical results_,<br/>
 **ICNAAM 2011**,<br/>
 Halkidiki, Greece, 19-25 Sept. 2011<br/>
 
