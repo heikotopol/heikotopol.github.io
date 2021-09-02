@@ -11,7 +11,7 @@ author_profile: true
  
 * I. V. Andrianov and H. Topol:<br/> 
 _Compatibility conditions: number of independent equations and boundary conditions_ (book chapter),<br/> 
-**Mechanics and Physics of Structured Media - Asymptotic and Integral Equations Methods of Leonid Filshtinsky**,<br/> 
+**Mechanics and Physics of Structured Media - Asymptotic and Integral Equations Methods of Leonid Filshtinsky** (expected release date: 1 Jan. 2022),<br/> 
 Editors: I. Andrianov, S. Gluzman, and V. Mityushev,<br/> 
 **Keywords**: linear elasticity, de Saint-Venant compatibility conditions, Beltrami compatibility conditions, problem in stresses, stress function,<br/> 
 Link: [[1]](https://www.elsevier.com/books/mechanics-and-physics-of-structured-media/andrianov/978-0-323-90543-5)<br/> 
