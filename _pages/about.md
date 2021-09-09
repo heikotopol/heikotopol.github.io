@@ -12,27 +12,9 @@ About me
 ======
 
 
-<!--Welcome to my page. I am a researcher at the [Institute of General Mechanics](https://www.iam.rwth-aachen.de/) of _RWTH Aachen University_. I work in the field of the mechanical behavior of composites (wave propagation and heat transfer in anisotropic media, asymptotic homogenization) together with [Igor V. Andrianov](https://scholar.google.com/citations?user=4BW4P2AAAAAJ&hl=en) (_RWTH Aachen University_),
-[Vladyslav V. Danishevskyy](https://scholar.google.com/citations?user=1r-_5HwAAAAJ&hl=en) (Prydniprovska State Academy of Civil Engineering and Architecture), and
-[Dieter Weichert](https://de.wikipedia.org/wiki/Dieter_Weichert) (_RWTH Aachen University_). 
-
-My recent work focuses on the biomechanics of fibrous soft tissue. Different articles that explore the mechano-regulared fiber remodeling processes in collagenous materials have been published in collaboration with [Hasan Demirkoparan](https://www.qatar.cmu.edu/directory/hasan-demirkoparan/) (_Carnegie Mellon University in Qatar_),
-[Kun Gou](https://apps.tamusa.edu/course-information/Profile/Faculty/387?=Kun-Gou) (_Texas A&M University San Antonio_),
-[Thomas J. Pence](https://www.egr.msu.edu/~pence/) (_Michigan State University_), and [Alan Wineman](https://me.engin.umich.edu/people/faculty/alan-wineman) (_University of Michigan_).-->
-
-<!--Welcome to my page. I am a researcher at the [Institute of General Mechanics](https://www.iam.rwth-aachen.de/) of _RWTH Aachen University_.
-
-My recent work focuses on the biomechanics of fibrous soft tissue. Different articles that explore the mechano-regulared fiber remodeling processes in collagenous materials have been published in collaboration with [Hasan Demirkoparan](https://www.qatar.cmu.edu/directory/hasan-demirkoparan/),
-[Kun Gou](https://apps.tamusa.edu/course-information/Profile/Faculty/387?=Kun-Gou),
-[Thomas J. Pence](https://www.egr.msu.edu/~pence/), and [Alan Wineman](https://me.engin.umich.edu/people/faculty/alan-wineman).
-![Cervix](/images/Cervix2.png)
-I also study the mechanical behavior of composites (wave propagation and heat transfer in anisotropic media, dispersion, asymptotic homogenization) together with [Igor V. Andrianov](https://scholar.google.com/citations?user=4BW4P2AAAAAJ&hl=en),
-[Vladyslav V. Danishevskyy](https://scholar.google.com/citations?user=1r-_5HwAAAAJ&hl=en), and
-[Dieter Weichert](https://de.wikipedia.org/wiki/Dieter_Weichert). -->
 
 Welcome to my page. I am a researcher at the [Institute of General Mechanics](https://www.iam.rwth-aachen.de/) of _RWTH Aachen University_.
 My work explores the biomechanics of fibrous soft tissue and the mechanical behavior of composites.
-<!--(wave propagation and heat transfer in anisotropic media, dispersion, asymptotic homogenization). -->
 ![Cervix](/images/Cervix2.png)
 
 
@@ -43,7 +25,7 @@ My biomechanics research focuses on the development of the mechanical properties
 [Kun Gou](https://apps.tamusa.edu/course-information/Profile/Faculty/387?=Kun-Gou) (_Texas A&M University San Antonio_),
 [Thomas J. Pence](https://www.egr.msu.edu/~pence/)  (_Michigan State University_), and [Alan Wineman](https://me.engin.umich.edu/people/faculty/alan-wineman) (_University of Michigan_).
 
-My work on the mechanical behavior of composites deals with wave propagation in anisotropic media, heat transfer, asymptotic homogenization.  This research is carried out together with [Igor V. Andrianov](https://scholar.google.com/citations?user=4BW4P2AAAAAJ&hl=en) (_RWTH Aachen University_) and
+My work on the mechanical behavior of composites deals with wave propagation in anisotropic media, heat transfer, and asymptotic homogenization.  This research is carried out together with [Igor V. Andrianov](https://scholar.google.com/citations?user=4BW4P2AAAAAJ&hl=en) (_RWTH Aachen University_) and
 [Vladyslav V. Danishevskyy](https://scholar.google.com/citations?user=1r-_5HwAAAAJ&hl=en) (_Prydniprovska State Academy of Civil Engineering and Architecture_).
 
 
