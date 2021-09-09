@@ -50,8 +50,13 @@ Downloads:  [[1]](https://doi.org/10.1007/s10237-018-1043-6),  [[2]](https://pub
 _Shear wave propagation in layered composites with degraded matrices at locations of imperfect bonding_,<br/>
 **Wave Motion 78: 9-31** (2018),<br/>
 **Keywords**: wave propagation, imperfect bonding, graded materials,<br/> 
-Download: [[1]](https://doi.org/10.1016/j.wavemoti.2017.12.007)
+Download: [[1]](https://doi.org/10.1016/j.wavemoti.2017.12.007)br/> 
 
+* I. V. Andrianov, H. Topol, and V. V. Danishevskyy:<br/>
+_Asymptotic analysis of heat transfer in composite materials with nonlinear thermal properties_,<br/>
+**Int. J. Heat Mass Transfer 111: 736-754** (2017),<br/>
+**Keywords**: asymptotic homogenization, heat transfer, thermal resistance,<br/> 
+Download: [[1]](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124)<br/> 
 
 * H. Topol, H. Demirkoparan, T. J. Pence, and A. Wineman,<br/> 
 _Time-Evolving Collagen-Like Structural Fibers in Soft Tissues: Biaxial Loading and Spherical Inflation_,<br/> 
