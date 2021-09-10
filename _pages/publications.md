@@ -44,13 +44,14 @@ Download: [[1]](https://doi.org/10.1016/j.euromechsol.2019.103800)
 Downloads:  [[1]](https://doi.org/10.1007/s10237-018-1043-6),  [[2]](https://pubmed.ncbi.nlm.nih.gov/29931486/)<br/>
 
 * V. Zamani, T. J. Pence, H. Demirkoparan, and H. Topol:<br/> _Hyperelastic Models for the Swelling of Soft Material Plugs in Confined Spaces_,<br/>
-**Int. J. Nonlin. Mech. 106: 297-309** (2018),<br/> **Keywords**: hyperelasticity, swelling,<br/> Download: [[1]](https://doi.org/10.1016/j.ijnonlinmec.2018.04.010)<br/>
+**Int. J. Nonlin. Mech. 106: 297-309** (2018),<br/> **Keywords**: hyperelasticity, swelling,<br/> 
+Download: [[1]](https://doi.org/10.1016/j.ijnonlinmec.2018.04.010)<br/>
 
 * I. V. Andrianov, V. V. Danishevskyy, H. Topol, and A. S. Luyt:<br/>
 _Shear wave propagation in layered composites with degraded matrices at locations of imperfect bonding_,<br/>
 **Wave Motion 78: 9-31** (2018),<br/>
 **Keywords**: wave propagation, imperfect bonding, graded materials,<br/> 
-Download: [[1]](https://doi.org/10.1016/j.wavemoti.2017.12.007)br/> 
+Download: [[1]](https://doi.org/10.1016/j.wavemoti.2017.12.007)<br/> 
 
 * I. V. Andrianov, H. Topol, and V. V. Danishevskyy:<br/>
 _Asymptotic analysis of heat transfer in composite materials with nonlinear thermal properties_,<br/>
