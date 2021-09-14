@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. (Dr.-Ing.), **RWTH Aachen University**, 2012
-* Diploma, **Ruhr University Bochum**, 2007
+* Ph.D. (Dr.-Ing., with distinction), **RWTH Aachen University**, 2012
+* Diploma (equivalent to a Master's Degree), **Ruhr University Bochum**, 2007
 * DAAD scholarship (one semester), **Texas A&M University**, 2005
 
 Work experience
@@ -25,6 +25,7 @@ Work experience
 * 01/2013 - 08/2015: **Carnegie Mellon University in Qatar**, Postdoctoral Research Associate
 * 04/2012 - 05/2012: **Beijing Jiaotong University**, Lecturer “Mechanics of Materials” for international students (four weeks)
 * 05/2007 - 12/2012: **RWTH Aachen University, Institute of General Mechanics**, PhD Student & Research Associate
+* 11/2003 - 01/2007: **Ruhr University Bochum, Chair of Engineering Mechanics**, Student Research & Teaching Assistant
  
 
   
