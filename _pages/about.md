@@ -21,7 +21,7 @@ My work explores the biomechanics of fibrous soft tissue and the mechanical beha
 Research
 ======
 
-My biomechanics research focuses on the development of the mechanical properties of collagenous soft tissue. Different articles that explore the mechano-regulated fiber remodeling processes in collagenous materials have been published in collaboration with [Hasan Demirkoparan](https://www.qatar.cmu.edu/directory/hasan-demirkoparan/) (_Carnegie Mellon University_),
+My biomechanics research explores on the development of the mechanical properties of collagenous soft tissue. Different articles that explore the mechano-regulated fiber remodeling processes in collagenous materials have been published in collaboration with [Hasan Demirkoparan](https://www.qatar.cmu.edu/directory/hasan-demirkoparan/) (_Carnegie Mellon University_),
 [Kun Gou](https://apps.tamusa.edu/course-information/Profile/Faculty/387?=Kun-Gou) (_Texas A&M University San Antonio_),
 [Thomas J. Pence](https://www.egr.msu.edu/~pence/)  (_Michigan State University_), and [Alan Wineman](https://me.engin.umich.edu/people/faculty/alan-wineman) (_University of Michigan_).
 
