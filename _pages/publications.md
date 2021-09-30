@@ -9,6 +9,9 @@ author_profile: true
 2021 - now
 ======
  
+* H. Topol, H. Demirkoparan, and T. J. Pence:<br/> _Fibrillar collagen: a review of the mechanical
+modeling of strain mediated enzymatic turnover_,<br/> **Appl. Mech. Rev.** (accepted for publication in Sept. 2021),<br/>
+
 * I. V. Andrianov and H. Topol:<br/> 
 _Compatibility conditions: number of independent equations and boundary conditions_ (book chapter),<br/> 
 **Mechanics and Physics of Structured Media - Asymptotic and Integral Equations Methods of Leonid Filshtinsky** (expected release date: 1 Jan. 2022),<br/> 
