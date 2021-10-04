@@ -15,9 +15,6 @@ _Compatibility conditions: number of independent equations and boundary conditio
 Editors: I. Andrianov, S. Gluzman, and V. Mityushev,<br/> 
 **Keywords**: linear elasticity, de Saint-Venant compatibility conditions, Beltrami compatibility conditions, problem in stresses, stress function,<br/> 
 Link: [[1]](https://www.elsevier.com/books/mechanics-and-physics-of-structured-media/andrianov/978-0-323-90543-5)<br/> 
-
-* H. Topol, H. Demirkoparan, and T. J. Pence:<br/> _Fibrillar collagen: a review of the mechanical
-modeling of strain mediated enzymatic turnover_,<br/> **Appl. Mech. Rev.** (accepted for publication in Sept. 2021),<br/>
  
 * H. Topol, H. Demirkoparan, and T. J. Pence:<br/> _Modeling Stretch-Dependent Collagen Fiber Density_,<br/> **Mech. Res. Commun. 116, 103740** (2021),<br/>
 **Keywords**: collagen fibers; remodeling; enzymatic degradation,<br/>
