@@ -25,7 +25,7 @@ Research
 My research is divided into two parts. The first part deals with the continuum mechanics of biological soft tissue with the goal to derive mathematical models that describe the mechanical properties of collagenous tissue.
 The second part focuses on the acoustic, thermal, and mechanical properties of composite materials.
 
-#### Biomechanics
+### Biomechanics
 
 _Biomechanics_ is the study of the mechanical properties, the function, and the motion of biological systems.
 This combines different aspects of engineering and biology in order to gain a deeper insight into the properties of living materials.
@@ -41,7 +41,7 @@ My biomechanics research explores on mechanical properties of collagenous soft t
 
 * My work with [Hasan Demirkoparan](https://www.qatar.cmu.edu/directory/hasan-demirkoparan/) (_Carnegie Mellon University_) and [José Merodio](http://www2.caminos.upm.es/Departamentos/mmcte/Personal/JMerodio/menu.html) (_Technical University of Madrid_) studies instabilities in loaded and inflated cylinders with the application to the formation and propagation of aneurysms in arterial wall tissue.
 
-#### Mechanics of composites 
+### Mechanics of composites 
 
 My work on the mechanical behavior of composites deals with wave propagation and  heat transfer in anisotropic media.
 This research applied different methods such as the _plane wave expansion method_, the _asymptotic homogenization method_, and the _Floquet-Bloch approach_ in order to understand the properties of composites.
