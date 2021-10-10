@@ -22,7 +22,7 @@ I develop mathematical models, which describe the mechanial behavior of heteroge
 Research
 ======
 
-My research is divided into two parts. The first part deals with the continuum mechanics of biological soft tissue with the goal to derive mathematical models that describe the mechanical properties of collagenous tissue.
+My research is divided into two parts. The first part deals with the continuum mechanics of biological soft tissues with goal to derive mathematical models that describe the relation between the applied loading the the resulting deformation.
 The second part focuses on the acoustic, thermal, and mechanical properties of composite materials.
 
 ### Biomechanics
