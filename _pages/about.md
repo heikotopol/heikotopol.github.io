@@ -30,7 +30,7 @@ The second part focuses on the acoustic, thermal, and mechanical properties of c
 
 _Biomechanics_ is the study of the mechanical properties, the function, and the motion of biological systems.
 This field of science combines different aspects of engineering and biology in order to gain a deeper insight into the properties of living materials.
-My biomechanics research explores on mechanical properties of collagenous soft tissue. 
+My biomechanics research focuses on the mechanical properties of collagenous soft tissue. 
 
 * Different articles that explore the mechano-regulated fiber remodeling processes in collagenous materials have been published in collaboration with [Hasan Demirkoparan](https://www.qatar.cmu.edu/directory/hasan-demirkoparan/) (_Carnegie Mellon University_),
 [Thomas J. Pence](https://www.egr.msu.edu/~pence/)  (_Michigan State University_),
