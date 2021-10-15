@@ -19,7 +19,7 @@ Link: [[1]](https://www.elsevier.com/books/mechanics-and-physics-of-structured-m
 * H. Topol, H. Demirkoparan, and T. J. Pence:<br/> _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_,<br/> 
 **Appl. Mech. Rev. (Online)** (2021),<br/>
 **Keywords**: collagen fibers; remodeling; enzymatic degradation,<br/>
- Download: [[1]](https://doi.org/10.1115/1.4052752)<br/>
+ Download: [[1]](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article/doi/10.1115/1.4052752/1121891/Fibrillar-Collagen-A-Review-of-the-Mechanical)<br/>
  
 * H. Topol, H. Demirkoparan, and T. J. Pence:<br/> _Modeling Stretch-Dependent Collagen Fiber Density_,<br/> **Mech. Res. Commun. 116, 103740** (2021),<br/>
 **Keywords**: collagen fibers; remodeling; enzymatic degradation,<br/>
