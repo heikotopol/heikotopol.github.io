@@ -53,6 +53,11 @@ Selected Publications
 (my complete publication list is [here](https://heikotopol.github.io/publications/))
 
 
+* H. Topol, H. Demirkoparan, and T. J. Pence:<br/> _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_,<br/> 
+**Appl. Mech. Rev. (Online)** (2021),<br/>
+**Keywords**: collagen fibers; remodeling; enzymatic degradation,<br/>
+ Download: [[1]](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article/doi/10.1115/1.4052752/1121891/Fibrillar-Collagen-A-Review-of-the-Mechanical)<br/>
+
 * H. Topol, H. Demirkoparan, and T. J. Pence:<br/> _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,<br/> **J. Mech. Behav. Biomed. Mater. 113: 104154** (2021),<br/> **Keywords**: collagen, remodeling, fibers, morphoelasticity, homeostasis,<br/> Downloads:  [[1]](https://doi.org/10.1016/j.jmbbm.2020.104154),  [[2]](https://pubmed.ncbi.nlm.nih.gov/33158790/)
 
 * H. Topol, H. Demirkoparan, T. J. Pence:<br/> 
