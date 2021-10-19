@@ -40,8 +40,8 @@ _Homogenization of a 1D nonlinear dynamical problem for periodic composites_,<br
 Download: [[1]](https://doi.org/10.1002/zamm.201000176)<br/> 
 
 
-Complete Publication List
-======
+## Complete Publication List
+
 
 
 ### 2021 - now
