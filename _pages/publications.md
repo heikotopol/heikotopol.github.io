@@ -8,8 +8,8 @@ author_profile: true
 
 
 
-# Selected Publications 
-======
+## Selected Publications 
+
 
 * H. Topol, H. Demirkoparan, and T. J. Pence:<br/> _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_,<br/> 
 **Appl. Mech. Rev. (Online)** (2021),<br/>
@@ -44,7 +44,7 @@ Complete Publication List
 ======
 
 
-## 2021 - now
+### 2021 - now
 
  
 * I. V. Andrianov and H. Topol:<br/> 
