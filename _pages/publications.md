@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-## Selected Publications 
+## Five Selected Publications 
 
 
 * H. Topol, H. Demirkoparan, and T. J. Pence:<br/> _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_,<br/> 
@@ -34,10 +34,6 @@ _Asymptotic analysis of heat transfer in composite materials with nonlinear ther
 **Int. J. Heat Mass Transfer 111: 736-754** (2017),<br/>
 Download: [[1]](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124)<br/> 
 
-* I. V. Andrianov, V. V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
-_Homogenization of a 1D nonlinear dynamical problem for periodic composites_,<br/> 
-**ZAMM - Z. Angew. Math. Meth. 91: 523-534** (2011),<br/> 
-Download: [[1]](https://doi.org/10.1002/zamm.201000176)<br/> 
 
 
 ## Complete Publication List
@@ -67,12 +63,12 @@ Link: [[1]](https://www.elsevier.com/books/mechanics-and-physics-of-structured-m
 
 * H. Topol, H. Demirkoparan, and T. J. Pence:<br/> _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,<br/> **J. Mech. Behav. Biomed. Mater. 113: 104154** (2021),<br/> **Keywords**: collagen, remodeling, fibers, morphoelasticity, homeostasis,<br/> Downloads:  [[1]](https://doi.org/10.1016/j.jmbbm.2020.104154),  [[2]](https://pubmed.ncbi.nlm.nih.gov/33158790/)
 
-## 2016 - 2020
+### 2016 - 2020
 
 
 * I. V. Andrianov, V. V. Danishevskyy, and H. Topol:<br/> _Local stress distribution in composites for pulled-out fibers with axially varying bonding_,<br/> **Acta Mech. 231: 2065-2083** (2020),<br/> **Keywords**: single fiber pull-out, imperfect bonding, viscoelasticity, <br/> Download: [[1]](https://doi.org/10.1007/s00707-020-02634-6)<br/>
 
-* K. Gou, H. Topol, H. Demirkoparan, T. J. Pence:<br/> _Stress-swelling finite element modeling of cervical response with homeostatic collagen fiber distributions_,<br/> **J. Biomech. Eng. - Trans. ASME 142: 081002** (2020),<br/> **Keywords**: fibers, finite element analysis, modeling, stress, pressure, biological tissues, deformation, engineering simulation, mechanical properties, simulation,<br/> Downloads:  [[1]](https://doi.org/10.1115/1.4045810),  [[2]](https://pubmed.ncbi.nlm.nih.gov/31891375/)
+* K. Gou, H. Topol, H. Demirkoparan, T. J. Pence:<br/> _Stress-swelling finite element modeling of cervical response with homeostatic collagen fiber distributions_,<br/> **J. Biomech. Eng. - Trans. ASME 142: 081002** (2020),<br/> **Keywords**: fibers, finite element analysis, modeling, stress, pressure, biological tissues, deformation, engineering simulation, mechanical properties, simulation,<br/> Downloads:  [[1]](https://doi.org/10.1115/1.4045810),  [[2]](https://pubmed.ncbi.nlm.nih.gov/3189======1375/)
 
 * H. Topol, H. Demirkoparan, T. J. Pence:<br/> 
 _Morphoelastic fiber remodeling in pressurized thick-walled cylinders with application to soft tissue collagenous tubes_,<br/> 
@@ -115,7 +111,7 @@ interface/interphase models for imperfect bonding_,<br/>
 **Keywords**: wave propagation, Floquet-Bloch, plane-wave expansion, imperfect interface, interphase,<br/> 
 Download: [[1]](https://doi.org/10.1007/s00707-016-1765-4)<br/> 
 
-## 2011 - 2015
+### 2011 - 2015
 
 
 * H. Topol and H. Demirkoparan:<br/>
@@ -164,7 +160,7 @@ Download: [[1]](https://doi.org/10.1002/zamm.201000176)<br/>
 _Asymptotic analysis and synthesis in mechanics of solids and nonlinear dynamics_,<br/> 
 Download: [[1]](https://arxiv.org/abs/1106.1783)<br/> 
 
-## 2009 - 2010
+### 2009 - 2010
 
 
 * I. V. Andrianov, V. V. Danishevs’kyy, H. Topol, and D. Weichert:<br/> 
