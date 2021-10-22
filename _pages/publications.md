@@ -41,6 +41,9 @@ _Asymptotic analysis of heat transfer in composite materials with nonlinear ther
 
 
 ### 2021 - now
+* M. J. Al-Chlaihawi, H. Topol, H. Demirkoparan, and J. Merodio: <br/>
+_On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes under Swelling with Application to Aortic Aneurysms_, <br/>
+**Math. Mech. Solids** (accepted in Oct. 2021)
 
  
 * I. V. Andrianov and H. Topol:<br/> 
@@ -51,7 +54,7 @@ Editors: I. Andrianov, S. Gluzman, and V. Mityushev,<br/>
 Link: [[1]](https://www.elsevier.com/books/mechanics-and-physics-of-structured-media/andrianov/978-0-323-90543-5)<br/> 
 
 * H. Topol, H. Demirkoparan, and T. J. Pence:<br/> _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_,<br/> 
-**Appl. Mech. Rev. (Online)** (2021),<br/>
+**Appl. Mech. Rev. (online)** (2021),<br/>
 **Keywords**: collagen fibers; remodeling; enzymatic degradation,<br/>
  Download: [[1]](https://doi.org/10.1115/1.4052752)<br/>
  
