@@ -13,34 +13,35 @@ author_profile: true
 
 * H. Topol, H. Demirkoparan, and T. J. Pence: 
  _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_, 
-**Appl. Mech. Rev. (Online)** (2021), [[1]](https://doi.org/10.1115/1.4052752)<br/>
+**Appl. Mech. Rev. (Online)** (2021). [[1]](https://doi.org/10.1115/1.4052752)<br/>
 
 * H. Topol, H. Demirkoparan, and T. J. Pence:
  _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,
- **J. Mech. Behav. Biomed. Mater. 113: 104154** (2021),   [[1]](https://doi.org/10.1016/j.jmbbm.2020.104154),  [[2]](https://pubmed.ncbi.nlm.nih.gov/33158790/)
+ **J. Mech. Behav. Biomed. Mater. 113: 104154** (2021).  
+ [[1]](https://doi.org/10.1016/j.jmbbm.2020.104154),  [[2]](https://pubmed.ncbi.nlm.nih.gov/33158790/)
 
 * H. Topol, H. Demirkoparan, T. J. Pence:
 _Morphoelastic fiber remodeling in pressurized thick-walled cylinders with application to soft tissue collagenous tubes_,
-**Eur. J. Mech. A/Solids 77: 103800** (2019),
+**Eur. J. Mech. A/Solids 77: 103800** (2019).
 [[1]](https://doi.org/10.1016/j.euromechsol.2019.103800)
 
 * H. Topol, K. Gou, H. Demirkoparan, and T. J. Pence:
  _Hyperelastic modeling of the combined effects of tissue swelling and deformation-related collagen renewal in fibrous soft tissue_,
-**Biomech. Model. Mechanobiol. 17:1543-1567** (2018),
+**Biomech. Model. Mechanobiol. 17:1543-1567** (2018).
   [[1]](https://doi.org/10.1007/s10237-018-1043-6),  [[2]](https://pubmed.ncbi.nlm.nih.gov/29931486/)<br/>
 
 * I. V. Andrianov, H. Topol, and V. V. Danishevskyy:
 _Asymptotic analysis of heat transfer in composite materials with nonlinear thermal properties_,
-**Int. J. Heat Mass Transfer 111: 736-754** (2017),
- [[1]](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124)<br/> 
+**Int. J. Heat Mass Transfer 111: 736-754** (2017).
+ [[1]](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124)<br/> <br/> 
 
 
 
 ## Complete Publication List
 
 
-
 ### 2021 - now
+
 * M. J. Al-Chlaihawi, H. Topol, H. Demirkoparan, and J. Merodio: 
 _On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes under Swelling with Application to Aortic Aneurysms_, 
 **Math. Mech. Solids** (accepted in Oct. 2021)<br/>
