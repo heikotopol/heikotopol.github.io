@@ -42,7 +42,7 @@ _Asymptotic analysis of heat transfer in composite materials with nonlinear ther
 
 ### 2021 - now
 * M. J. Al-Chlaihawi, H. Topol, H. Demirkoparan, and J. Merodio: 
-_On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes under Swelling with Application to Aortic Aneurysms_, <br/>
+_On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes under Swelling with Application to Aortic Aneurysms_, 
 **Math. Mech. Solids** (accepted in Oct. 2021)<br/>
 
 * I. V. Andrianov and H. Topol:
@@ -59,7 +59,7 @@ Editors: I. Andrianov, S. Gluzman, and V. Mityushev.
 * H. Topol, H. Demirkoparan, and T. J. Pence:
  _Modeling Stretch-Dependent Collagen Fiber Density_,
  **Mech. Res. Commun. 116: 103740** (2021).
- Download: [[1]](https://doi.org/10.1016/j.mechrescom.2021.103740)<br/>
+ [[1]](https://doi.org/10.1016/j.mechrescom.2021.103740)<br/>
 
 * H. Topol, M. J. Al-Chlaihawi, H. Demirkoparan, and J. Merodio:
 _Bulging initiation and propagation in fiber reinforced swellable Mooney-Rivlin membranes_,
@@ -160,7 +160,7 @@ _Homogenization of a 1D nonlinear dynamical problem for periodic composites_,
 
 * I. V. Andrianov and H. Topol:
 _Asymptotic analysis and synthesis in mechanics of solids and nonlinear dynamics_,
-Download: [[1]](https://arxiv.org/abs/1106.1783)<br/> 
+[[1]](https://arxiv.org/abs/1106.1783)<br/> 
 
 
 ### 2009 - 2010
