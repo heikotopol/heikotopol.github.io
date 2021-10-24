@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-## Five Selected Publications 
+## Six Selected Publications 
 
 
 * H. Topol, H. Demirkoparan, and T. J. Pence: 
@@ -33,8 +33,12 @@ _Morphoelastic fiber remodeling in pressurized thick-walled cylinders with appli
 * I. V. Andrianov, H. Topol, and V. V. Danishevskyy:
 _Asymptotic analysis of heat transfer in composite materials with nonlinear thermal properties_,
 **Int. J. Heat Mass Transfer 111: 736-754** (2017).
- [[1]](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124)<br/> <br/> 
+ [[1]](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124)<br/> 
 
+* I. V. Andrianov, V. V. Danishevs’kyy, H. Topol, and D. Weichert:
+_Homogenization of a 1D nonlinear dynamical problem for periodic composites_,
+**ZAMM - Z. Angew. Math. Meth. 91: 523-534** (2011). 
+[[1]](https://doi.org/10.1002/zamm.201000176)<br/> <br/> 
 
 
 ## Complete Publication List
