@@ -17,8 +17,7 @@ author_profile: true
 
 * H. Topol, H. Demirkoparan, and T. J. Pence:
  _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,
- **J. Mech. Behav. Biomed. Mater. 113: 104154** (2021).  
- [[1]](https://doi.org/10.1016/j.jmbbm.2020.104154),  [[2]](https://pubmed.ncbi.nlm.nih.gov/33158790/)
+ **J. Mech. Behav. Biomed. Mater. 113: 104154** (2021). [[1]](https://doi.org/10.1016/j.jmbbm.2020.104154),  [[2]](https://pubmed.ncbi.nlm.nih.gov/33158790/)
 
 * H. Topol, H. Demirkoparan, T. J. Pence:
 _Morphoelastic fiber remodeling in pressurized thick-walled cylinders with application to soft tissue collagenous tubes_,
