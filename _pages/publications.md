@@ -13,7 +13,7 @@ author_profile: true
 
 * H. Topol, H. Demirkoparan, and T. J. Pence: 
  _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_, 
-**Appl. Mech. Rev. (Online)** (2021). [[1]](https://doi.org/10.1115/1.4052752)<br/>
+**Appl. Mech. Rev. 73: 050802** (2021). [[1]](https://doi.org/10.1115/1.4052752)<br/>
 
 * H. Topol, H. Demirkoparan, and T. J. Pence:
  _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,
@@ -58,7 +58,7 @@ Editors: I. Andrianov, S. Gluzman, and V. Mityushev.
 
 * H. Topol, H. Demirkoparan, and T. J. Pence:
  _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_,
-**Appl. Mech. Rev. (online)** (2021).
+**Appl. Mech. Rev. 73: 050802** (2021).
 [[1]](https://doi.org/10.1115/1.4052752)<br/>
  
 * H. Topol, H. Demirkoparan, and T. J. Pence:
