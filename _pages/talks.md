@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 
+* H. Topol:<br/>
+_Collagen Remodeling in Swelling Soft Tissue_,<br/>
+**IAM Winter Talk**,<br/>
+Aachen, Germany, 26 Nov 2019<br/>
+
 * H. Topol, H. Demirkoparan, T.J. Pence:<br/>
 _Morphoelastic remodeling of collagenous fibers under cyclic loading_,<br/>
 **The Multiscale Spectrum of Constitutive Modeling in Solid Mechanics (hosted by CIEM)**,<br/>
