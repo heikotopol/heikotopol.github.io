@@ -11,13 +11,13 @@ _Morphoelastic remodeling of collagenous fibers under cyclic loading_,<br/>
 **The Multiscale Spectrum of Constitutive Modeling in Solid Mechanics (hosted by CIEM)**,<br/>
 Castro Urdiales, Spain, 01-05 July 2019<br/>
 
-* H. Topol, H. Demirkoparan, T.J. Pence:
-_Modeling Collagenous Soft Tissue_,
+* H. Topol, H. Demirkoparan, T.J. Pence:<br/>
+_Modeling Collagenous Soft Tissue_,<br/>
 **General seminar on the QNRF-funded project “New mathematical models for the large strain swelling
-response of biological tissues: Applications to Edema, Inflammation, and Pregnancy” (NPRP 8-2424-1-477)**,
+response of biological tissues: Applications to Edema, Inflammation, and Pregnancy” (NPRP 8-2424-1-477)**,<br/>
 Doha, Qatar, 14 October 2018
 
-* H. Topol, H. Demirkoparan, T.J. Pence:
+* H. Topol, H. Demirkoparan, T.J. Pence:<br/>
 _Stretch-dependent remodeling of collagen-like dispersed fibers_,<br/>
 **10th European Solid Mechanics Conference (ESMC)**,<br/>
 Bologna, Italy, 02-06 July 2018
