@@ -8,7 +8,7 @@ author_profile: true
 
 * H. Topol:<br/>
 _Collagen Remodeling in Swelling Soft Tissue_,<br/>
-**IAM Winter Talk**,<br/>
+**IAM Winter Talk 2021/2022**,<br/>
 Aachen, Germany, 26 Nov 2019<br/>
 
 * H. Topol, H. Demirkoparan, T.J. Pence:<br/>
