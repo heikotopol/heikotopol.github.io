@@ -6,9 +6,7 @@ author_profile: true
 ---
 
 
-My research can be roughly divided into two parts. The first part deals with the continuum mechanics of biological soft tissues.
-I derive mathematical models that describe the relation between loading and deformation during mechano-regulated changes of the mechanical properties of the material.
-The second part focuses on the acoustic, thermal, and mechanical properties of composite materials.
+My research can be roughly divided into two parts. 
 
 ### Biomechanics
 
