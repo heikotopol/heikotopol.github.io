@@ -20,12 +20,12 @@ redirect_from:
 
 Exercise courses and lectures for students of mechanical engineering, civil engineering, and industrial engineering
 
-#### Statics:
+### Statics:
 * Winter term 2008/2009
 * Winter term 2007/2008
 
 
-#### Mechanics of Materials:
+### Mechanics of Materials:
 * Summer term 2012
 * Summer term 2011
 * Summer term 2010
@@ -33,7 +33,7 @@ Exercise courses and lectures for students of mechanical engineering, civil engi
 * Summer term 2008
 * Summer term 2007
 
-#### Dynamics:
+### Dynamics:
 * Winter term 2021/2020
 * Winter term 2012/2013
 * Winter term 2011/2012
@@ -59,20 +59,20 @@ and engineering)
 
 Exercise courses for students of mechanical engineering, civil engineering, and environmental engineering.
 
-#### Statics:
+### Statics:
 
 *  Winter term 2005/2006:
 *  Winter term 2004/2005
 
 
-#### Mechanics of Materials:
+### Mechanics of Materials:
 
 *  Summer term 2006: mechanics of materials
 *  Summer term 2005: mechanics of materials
 *  Summer term 2004: mechanics of materials
 
 
-#### Dynamics:
+### Dynamics:
 
 *  Winter term 2005/2006:
 *  Winter term 2004/2005:
