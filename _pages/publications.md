@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+# Submitted Works
+
+* N. K. Jha, S. Moradalizadeh, J. Reinoso, H. Topol, and J. Merodio:
+_On the helical buckling of anisotropic tubes with application to arteries_,
+**Mech. Res. Commun.** (submitted in Nov. 2021)
+
+# Published Works
 
 ### 2021 - now
 
