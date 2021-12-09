@@ -12,8 +12,8 @@ redirect_from:
 
 ## Carnegie Mellon University in Qatar
 
-* Fall 2020: _21-120 Differential and Integral Calculus_
-* Fall 2020: _21-256 Multivariate Analysis_
+* Fall 2020: **21-120 Differential and Integral Calculus**
+* Fall 2020: **21-256 Multivariate Analysis**
 
 
 ## RWTH Aachen University - Institute of General Mechanics
@@ -46,13 +46,13 @@ Exercise courses and lectures for students of mechanical engineering, civil engi
 Lectures in mechanical modeling of composites for students of different backgrounds (physics, chemistry, biology,
 and engineering)
 
-* 2016: _Mechanical Modeling of Composites I: Introduction to Mechanical Modeling
-* 2016: _Mechanical Modeling of Composites II: Modeling in a Continuum Mechanics Framework_
+* 2016: **Mechanical Modeling of Composites I: Introduction to Mechanical Modeling**
+* 2016: **Mechanical Modeling of Composites II: Modeling in a Continuum Mechanics Framework**
 
 
 ## Beijing Jiaotong University:
 
-* April 2012: _mechanics of materials for international students (four weeks)_
+* April 2012: **Mechanics of Materials** (for international students, four weeks)
 
 
 ## Ruhr University Bochum - Institute of Mechanics
