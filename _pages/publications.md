@@ -8,7 +8,11 @@ author_profile: true
 
 ## Soon to be Submitted Works
 
+* H. Topol and T. J. Pence:
+_Softening and Strain Stabilization: Enzymatic Degradation of Collagen Fibers_ (work title)
 
+* H. Topol, M. J. Al-Chlaihawi, H. Demirkoparan, and J. Merodio:
+_Coupling of different Bifurfaction Modes in Fibrous Cylinders_ (work title)
 
 * H. Topol et al.: _Bifurcation of Isotropic Tubes_ (work title)
 
