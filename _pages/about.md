@@ -18,7 +18,7 @@ I develop mathematical models, which describe the mechanial behavior of heteroge
 
 ![Cervix](/images/Cervix2.png)
 
-## Six Selected Publications 
+## Selected Publications 
 
 
 * H. Topol, H. Demirkoparan, and T. J. Pence: 
