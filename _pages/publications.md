@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+## Soon to be Submitted Works
+
+
+
+* H. Topol et al.: _Bifurcation of Isotropic Tubes_ (work title)
+
+* H. Topol et al.: _Inflation and Bulging Bifurcation of Pressurized Fibrous Tubes as a Result of Different Natural Configurations of the Constituents_ (work title)
+
 ## Submitted Works
 
 * N. K. Jha, S. Moradalizadeh, J. Reinoso, H. Topol, and J. Merodio:
