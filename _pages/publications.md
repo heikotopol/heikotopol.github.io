@@ -6,43 +6,6 @@ author_profile: true
 ---
 
 
-
-
-## Six Selected Publications 
-
-
-* H. Topol, H. Demirkoparan, and T. J. Pence: 
- _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_, 
-**Appl. Mech. Rev. 73: 050802** (2021). [[1]](https://doi.org/10.1115/1.4052752)<br/>
-
-* H. Topol, H. Demirkoparan, and T. J. Pence:
- _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,
- **J. Mech. Behav. Biomed. Mater. 113: 104154** (2021). [[1]](https://doi.org/10.1016/j.jmbbm.2020.104154),  [[2]](https://pubmed.ncbi.nlm.nih.gov/33158790/)
-
-* H. Topol, H. Demirkoparan, T. J. Pence:
-_Morphoelastic fiber remodeling in pressurized thick-walled cylinders with application to soft tissue collagenous tubes_,
-**Eur. J. Mech. A/Solids 77: 103800** (2019).
-[[1]](https://doi.org/10.1016/j.euromechsol.2019.103800)
-
-* H. Topol, K. Gou, H. Demirkoparan, and T. J. Pence:
- _Hyperelastic modeling of the combined effects of tissue swelling and deformation-related collagen renewal in fibrous soft tissue_,
-**Biomech. Model. Mechanobiol. 17:1543-1567** (2018).
-  [[1]](https://doi.org/10.1007/s10237-018-1043-6),  [[2]](https://pubmed.ncbi.nlm.nih.gov/29931486/)<br/>
-
-* I. V. Andrianov, H. Topol, and V. V. Danishevskyy:
-_Asymptotic analysis of heat transfer in composite materials with nonlinear thermal properties_,
-**Int. J. Heat Mass Transfer 111: 736-754** (2017).
- [[1]](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124)<br/> 
-
-* I. V. Andrianov, V. V. Danishevs’kyy, H. Topol, and D. Weichert:
-_Homogenization of a 1D nonlinear dynamical problem for periodic composites_,
-**ZAMM - Z. Angew. Math. Meth. 91: 523-534** (2011). 
-[[1]](https://doi.org/10.1002/zamm.201000176)<br/> <br/> 
-
-
-## Complete Publication List
-
-
 ### 2021 - now
 
 * M. J. Al-Chlaihawi, H. Topol, H. Demirkoparan, and J. Merodio: 
@@ -62,17 +25,17 @@ Editors: I. Andrianov, S. Gluzman, and V. Mityushev.
  
 * H. Topol, H. Demirkoparan, and T. J. Pence:
  _Modeling Stretch-Dependent Collagen Fiber Density_,
- **Mech. Res. Commun. 116: 103740** (2021).
+ **Mech. Res. Commun. 116: 103740** (2021, **Open Access**).
  [[1]](https://doi.org/10.1016/j.mechrescom.2021.103740)<br/>
 
 * H. Topol, M. J. Al-Chlaihawi, H. Demirkoparan, and J. Merodio:
 _Bulging initiation and propagation in fiber reinforced swellable Mooney-Rivlin membranes_,
-**J. Eng. Math. 128: 8** (2021).
+**J. Eng. Math. 128: 8** (2021, **Open Access**).
  [[1]](https://doi.org/10.1007/s10665-021-10123-5)<br/>
 
 * H. Topol, H. Demirkoparan, and T. J. Pence:
 _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,
- **J. Mech. Behav. Biomed. Mater. 113: 104154** (2021).
+ **J. Mech. Behav. Biomed. Mater. 113: 104154** (2021, **Open Access**).
  [[1]](https://doi.org/10.1016/j.jmbbm.2020.104154),  [[2]](https://pubmed.ncbi.nlm.nih.gov/33158790/)<br/>
  
 
@@ -80,7 +43,7 @@ _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,
 
 * I. V. Andrianov, V. V. Danishevskyy, and H. Topol:
  _Local stress distribution in composites for pulled-out fibers with axially varying bonding_,
- **Acta Mech. 231: 2065-2083** (2020). 
+ **Acta Mech. 231: 2065-2083** (2020, **Open Access**). 
 [[1]](https://doi.org/10.1007/s00707-020-02634-6)<br/>
 
 * K. Gou, H. Topol, H. Demirkoparan, T. J. Pence:
