@@ -28,5 +28,5 @@ This research applied different methods such as the _plane wave expansion method
 The research is carried out together with [Igor V. Andrianov](https://scholar.google.com/citations?user=4BW4P2AAAAAJ&hl=en) (_RWTH Aachen University_) and
 [Vladyslav V. Danishevskyy](https://scholar.google.com/citations?user=1r-_5HwAAAAJ&hl=en) (_Prydniprovska State Academy of Civil Engineering and Architecture_).
 
-![Cervix](/images/RealNEW.png)
+![Dispersion](/images/RealNEW.png)
 
