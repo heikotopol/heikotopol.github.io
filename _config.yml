@@ -86,7 +86,7 @@ author:
   location         : "Aachen, Germany"
   employer         : #"RWTH Aachen University"
   email            : "topol@iam.rwth-aachen.de"
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Topol+H&cauthor_id=31891375"
+  pubmed           : #"https://pubmed.ncbi.nlm.nih.gov/?term=Topol+H&cauthor_id=31891375"
   googlescholar    : "https://scholar.google.com/citations?user=nZD2stwAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Heiko_Topol"
   uri              :
@@ -127,7 +127,7 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
-  - .jekyll-assets-cache
+  - .jekyll-assets-cache"
   - .sass-cache
   - CHANGELOG
   - Capfile
