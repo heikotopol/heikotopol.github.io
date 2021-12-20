@@ -6,23 +6,6 @@ author_profile: true
 ---
 
 
-## Pipeline of Soon to be Submitted Works
-
-* H. Topol et al.: _Bifurcation of Isotropic Tubes_ (work title)
-
-* H. Topol et al.: _Inflation and Bulging Bifurcation of Pressurized Fibrous Tubes as a Result of Different Natural Configurations of the Constituents_ (work title)
-
-* H. Topol and T. J. Pence:
-_Softening and Strain Stabilization: Enzymatic Degradation of Collagen Fibers_ (work title)
-
-* H. Topol, M. J. Al-Chlaihawi, H. Demirkoparan, and J. Merodio:
-_Coupling of different Bifurfaction Modes in Fibrous Cylinders_ (work title)
-
-## Submitted Works
-
-* N. K. Jha, S. Moradalizadeh, J. Reinoso, H. Topol, and J. Merodio:
-_On the helical buckling of anisotropic tubes with application to arteries_,
-**Mech. Res. Commun.** (submitted in Nov. 2021)
 
 ## Published/Accepted Works
 
