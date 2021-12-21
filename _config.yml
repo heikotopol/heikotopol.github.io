@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Heiko Topol"
-  avatar           : #"HT.jpg"
+  avatar           : "bio-photo.jpg" #"HT.jpg"
   bio              : "PhD, engineering, mechanics, mathematics"
   location         : "Aachen, Germany"
   employer         : #"RWTH Aachen University"
-  email            : "topol@iam.rwth-aachen.de"
+  email            : #"topol@iam.rwth-aachen.de"
   pubmed           : #"https://pubmed.ncbi.nlm.nih.gov/?term=Topol+H&cauthor_id=31891375"
   googlescholar    : #"https://scholar.google.com/citations?user=nZD2stwAAAAJ&hl=en"
   researchgate     : #"https://www.researchgate.net/profile/Heiko_Topol"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "heiko-topol"
+  linkedin         : #"heiko-topol"
   orcid            : #"http://orcid.org/0000-0002-4845-7515"
   pinterest        :
   soundcloud       :
