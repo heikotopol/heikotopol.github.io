@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Under Construction
+About Me
+======
+
 
 
 
