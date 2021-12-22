@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Heiko Topol"
   avatar           : "bio-photo.jpg" #"HT.jpg"
-  bio              : "PhD, engineering, mechanics, mathematics"
-  location         : "Aachen, Germany"
+  bio              : #"PhD, engineering, mechanics, mathematics"
+  location         : "Germany"
   employer         : #"RWTH Aachen University"
   email            : #"topol@iam.rwth-aachen.de"
   pubmed           : #"https://pubmed.ncbi.nlm.nih.gov/?term=Topol+H&cauthor_id=31891375"
