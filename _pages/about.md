@@ -33,7 +33,7 @@ I develop mathematical models, which describe the mechanial behavior of heteroge
 _Morphoelastic fiber remodeling in pressurized thick-walled cylinders with application to soft tissue collagenous tubes_,
 **Eur. J. Mech. A/Solids 77: 103800** (2019).
 [[1]](https://doi.org/10.1016/j.euromechsol.2019.103800)
-
+"bio-photo.jpg" #
 * H. Topol, K. Gou, H. Demirkoparan, and T. J. Pence:
  _Hyperelastic modeling of the combined effects of tissue swelling and deformation-related collagen renewal in fibrous soft tissue_,
 **Biomech. Model. Mechanobiol. 17:1543-1567** (2018).
