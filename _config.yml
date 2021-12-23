@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Heiko Topol"
-  avatar           : "bio-photo.jpg" #"HT.jpg"
+  avatar           : "HT.jpg"
   bio              : #"PhD, engineering, mechanics, mathematics"
   location         : "Germany"
   employer         : #"RWTH Aachen University"
