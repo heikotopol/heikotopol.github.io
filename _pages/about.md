@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ======
 
-Welcome to my page. I develop mathematical models, which describe the mechanial behavior of heterogeneous materials.
+Welcome to my private page. I develop mathematical models, which describe the mechanial behavior of heterogeneous materials.
 
 ![Cervix](/images/Cervix2.png)
 
