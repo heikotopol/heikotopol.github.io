@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 |Semester|Statics |Mechanics of Materials |Dynamics |MMoC I & II  |21-120 |21-256 |
-|:-------|--------| |---------|-------|-------|------:|
+|:-------|:-|:-|:-|:-------|:-------|:------|
 |ST 2004 |        |RUB          |         |       |       |       |
 |WT 2004/05 |        |RUB          |         |       |       |       |
 
