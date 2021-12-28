@@ -15,6 +15,11 @@ redirect_from:
 |ST 2004    |        |RUB |         |             |         |       |
 |WT 2004/05 |RUB     |    |RUB      |             |         |       |
 |ST 2005    |        |RUB |         |             |         |       |
+|WT 2005/06 |RUB     |    |RUB      |             |         |       |
+|ST 2006    |        |RUB |         |             |         |       |
+|ST 2007    |        |RWTH|         |             |         |       |
+|WT 2007/08 |RUB     |    |RUB      |             |         |       |
+
 
 ## Carnegie Mellon University in Qatar
 
