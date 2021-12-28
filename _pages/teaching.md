@@ -10,6 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
+Summary of my teaching activities at Beijing Jiaotong University (**BJU**), Carnegie Mellon University in Qatar (**CMU-Q**), Qatar University (**QU**),
+Ruhr University Bochum (**RUB**), and RWTH Aachen University (**RWTH**).
+
 |Semester       |Mech. I |Mech. II  |Mech. III  |MMoC I & II  |21-120   |21-256 |
 |:--------------|:-------|:---------|:----------|:------------|:--------|:------|
 |**ST 2004**    |        |RUB       |           |             |         |       |
@@ -35,11 +38,6 @@ redirect_from:
 |**WT 2021/22** |        |          |RWTH       |             |         |       |
 
 
-BJU:   Beijing Jiaotong University<br/> 
-CMU-Q: Carnegie Mellon University in Qatar<br/> 
-QU: Qatar University<br/> 
-RUB: Ruhr University Bochum<br/> 
-RWTH: RWTH Aachen University/Rheinisch-Westfälische Technische Hochschule Aachen<br/> 
 <sup>*</sup> Short Term Opportunity<br/> 
 <sup>**</sup> Mini Course
 
