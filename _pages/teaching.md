@@ -34,6 +34,12 @@ redirect_from:
 |**F 2020**     |        |          |           |             |CMU-Q    |CMU-Q  |
 |**WT 2021/22** |        |          |RWTH       |             |         |       |
 
+
+BJU:   Beijing Jiaotong University<br/> 
+CMU-Q: Carnegie Mellon University in Qatar<br/> 
+QU: Qatar University<br/> 
+RUB: Ruhr University Bochum<br/> 
+RWTH: RWTH Aachen University/Rheinisch-Westfälische Technische Hochschule Aachen<br/> 
 <sup>*</sup> Short Term Opportunity<br/> 
 <sup>**</sup> Mini Course
 
