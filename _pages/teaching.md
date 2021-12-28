@@ -28,9 +28,9 @@ redirect_from:
 |**ST 2011**    |        |RWTH      |           |             |         |       |
 |**WT 2011/12** |        |          |RWTH       |             |         |       |
 |**ST 2012**    |        |RWTH      |           |             |         |       |
-|**2012<sup>*</sup>** |          |BJU        |           |             |         |       |
+|**2012<sup>*</sup>** |          |BJU<sup>*</sup> |           |             |         |       |
 |**WT 2012/13** |        |          |RWTH       |             |         |       |
-|**2016<sup>**</sup>** |          |BJU        |           |             |         |       |
+|**2016<sup>*</sup>** |          |       |           |<sup>**</sup>             |         |       |
 
 <sup>*</sup> Short Term Opportunity
 
