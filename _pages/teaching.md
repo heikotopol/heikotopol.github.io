@@ -28,7 +28,9 @@ redirect_from:
 |**ST 2011**    |        |RWTH      |           |             |         |       |
 |**WT 2011/12** |        |          |RWTH       |             |         |       |
 |**ST 2012**    |        |RWTH      |           |             |         |       |
-|**2012<sup>*</sup>**    |        |RWTH      |           |             |         |       |
+|**2012<sup>*</sup>** |          |BJU        |           |             |         |       |
+
+<sup>*</sup> Short Term Opportunity
 
 
 ## Carnegie Mellon University in Qatar
