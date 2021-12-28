@@ -24,6 +24,11 @@ redirect_from:
 |**ST 2009**    |        |RWTH      |           |             |         |       |
 |**WT 2009/10** |        |          |RWTH       |             |         |       |
 |**ST 2010**    |        |RWTH      |           |             |         |       |
+|**WT 2010/11** |        |          |RWTH       |             |         |       |
+|**ST 2011**    |        |RWTH      |           |             |         |       |
+|**WT 2011/12** |        |          |RWTH       |             |         |       |
+|**ST 2012**    |        |RWTH      |           |             |         |       |
+|**2012<sup>*</sup>**    |        |RWTH      |           |             |         |       |
 
 
 ## Carnegie Mellon University in Qatar
