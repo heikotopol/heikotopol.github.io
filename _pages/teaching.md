@@ -31,6 +31,7 @@ redirect_from:
 |**2012<sup>*</sup>** |  |BJU<sup>*</sup> |     |             |         |       |
 |**WT 2012/13** |        |          |RWTH       |             |         |       |
 |**2016<sup>*</sup>** |  |          |           |QU<sup>**</sup>  |     |       |
+|**F 2020**     |        |          |           |             |CMU-Q    |CMU-Q  |
 |**WT 2021/22** |        |          |RWTH       |             |         |       |
 
 <sup>*</sup> Short Term Opportunity
