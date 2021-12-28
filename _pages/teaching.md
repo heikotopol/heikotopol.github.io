@@ -34,7 +34,8 @@ redirect_from:
 |**F 2020**     |        |          |           |             |CMU-Q    |CMU-Q  |
 |**WT 2021/22** |        |          |RWTH       |             |         |       |
 
-<sup>*</sup> Short Term Opportunity
+<sup>*</sup> Short Term Opportunity<br/> 
+<sup>**</sup> Mini Course
 
 
 ## Carnegie Mellon University in Qatar
