@@ -13,7 +13,8 @@ author_profile: true
 
 * M. J. Al-Chlaihawi, H. Topol, H. Demirkoparan, and J. Merodio: 
 _On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes under Swelling with Application to Aortic Aneurysms_, 
-**Math. Mech. Solids** (accepted in Oct. 2021)<br/>
+**Math. Mech. Solids** (First Published Online, 29 December 2021 )<br/>
+[[1]](https://doi.org/10.1177/10812865211058767)
 
 * I. V. Andrianov and H. Topol:
 _Compatibility conditions: number of independent equations and boundary conditions_ (book chapter),
