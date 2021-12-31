@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. (Dr.-Ing., with distinction), **RWTH Aachen University**, 2012
-* Diploma (equivalent to a Master's Degree), **Ruhr University Bochum**, 2007
-* DAAD scholarship (one semester), **Texas A&M University**, 2005
+* 2012, Ph.D. (Dr.-Ing., with distinction), **RWTH Aachen University**
+* 2007, Diploma (equivalent to a Master's Degree), **Ruhr University Bochum**
+* 2005, Academic exchange (DAAD scholarship, one semester), **Texas A&M University**
 
 Work experience
 ======
