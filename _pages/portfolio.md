@@ -34,8 +34,17 @@ My work studies instabilities in loaded and inflated cylinders with the applicat
 ## Transport Properties of Composites
 
 My work on the mechanical behavior of composites deals with wave propagation and  heat transfer in anisotropic media.
-This research applied different methods such as the _plane wave expansion method_, the _asymptotic homogenization method_ ([Andrianov et al. (2011)](https://doi.org/10.1002/zamm.201000176), [Andrianov et al. (2017)](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124)), and the _Floquet-Bloch approach_ in order to understand the properties of composites.
-
-
+This research applied different methods such as the _Floquet-Bloch approach_, the _plane wave expansion method_, the _asymptotic homogenization method_, and the _transfer-matrix method_ in order to understand the properties of composites ([Andrianov et al. (2011)](https://doi.org/10.1002/zamm.201000176), [Andrianov et al. (2017a)](https://doi.org/10.1007/s00707-016-1765-4), [Andrianov et al. (2017b)](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124), [Andrianov et al. (2018)](https://doi.org/10.1016/j.wavemoti.2017.12.007)).
 ![Dispersion](/images/RealNEW.png)
+
+
+## Stress Distribution in Loaded Composites
+In composites, an important method to determine the mechanical properties of the material is the pull-out tests of fibers from matrix. 
+The quality of bonding between two constituents have a crucial role in the functionality of the material.
+Methods that help to understand the development of the mechanical properties with ongoing damage processes guarantees
+an efficient use of composites.
+
+The 
+
+In mechanical modeling, a single interphase layer or a multitude of
 
