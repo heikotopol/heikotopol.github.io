@@ -6,30 +6,38 @@ author_profile: true
 ---
 
 
-My research interests can be divided into the following parts:
+
 
 
 # 1. Soft Tissue Modeling
 
-## 1.1 Mechanoregulated remodeling of collagen fibers
-
 _Biomechanics_ is the study of the mechanical properties, the function, and the motion of biological systems.
 This field of science combines different aspects of engineering and biology in order to gain a deeper insight into the properties of living materials.
-My biomechanics research focuses on the mechanical properties of collagenous soft tissue. 
-Experiments have shown that strain may stabilize collagen fibers to enzyamtic degradation (see [Topol et al. (2021)](https://doi.org/10.1115/1.4052752)). This effect has been modeled in my articles.<br/>
+
+## 1.1 Mechanoregulated remodeling of collagen fibers
+
+
+A part of my biomechanics research focuses on the mechanical properties of collagenous soft tissue. 
+Experiments have shown that strain may stabilize collagen fibers to enzyamtic degradation (see [Topol et al. (2021)](https://doi.org/10.1115/1.4052752)). This effect has been modeled in my articles.
 
 ### 1.1.1 Swelling-induced remodeling processes
 
-In soft biological tissue, swelling is a common process that
-affects the collagen fiber remodeling. The modeling frame-
-work is in the context of large (finite) deformation contin-
-uum mechanics in order to address situations in which the
-swelling causes the tissue to exhibit significant volume change.
+In soft biological tissue, swelling is a common process that affects the collagen fiber remodeling. The modeling framework is in the context of large (finite) deformation continuum mechanics in order to address situations in which the swelling causes the tissue to exhibit significant volume change.
+I had to goal to apply the theory of swellable materials to the fiber remodeling theory.
+In [Topol et al. (2018)](https://doi.org/10.1007/s10237-018-1043-6) my collaborators and I presented a hyperelastic modeling framework of the combined effects of tissue swelling and
+deformation-related collagen renewal in fibrous soft tissue.
+
+
+
 
 ### 1.1.2 Bounded fiber lifespans
 
 The maximum fiber lifespan in the integral form of the fiber strain energy density function (1) is not bounded to an upper
 finite limit. 
+
+ In \cite{TopolDemirkoparanPence2020} we limit the theoretical upper bound of the fiber lifespan to the finite limit $T_{max}$
+
+
 
 ## 1.2 Bifurcation of pressurized cylinders
 
