@@ -41,8 +41,13 @@ This research applied different methods such as the _Floquet-Bloch approach_, th
 ## Stress Distribution in Loaded Composites
 In composites, an important method to determine the mechanical properties of the material is the pull-out tests of fibers from matrix. 
 The quality of bonding between two constituents have a crucial role in the functionality of the material.
+There are numerous factors that lead to imperfect bonding such as cracks, corrosion, or degradation.
 Methods that help to understand the development of the mechanical properties with ongoing damage processes guarantees
 an efficient use of composites.
+
+There are different techniques at account for imperfect bonding between constituents.
+* A popular model is denoted as the _spring-layer model_, in which spings simulate the bonding conditions between the fibers and the matrix.
+* 
 
 The 
 
