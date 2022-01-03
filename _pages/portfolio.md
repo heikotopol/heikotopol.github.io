@@ -9,9 +9,9 @@ author_profile: true
 My research interests can be divided into the following parts:
 
 
-# Soft Fibrous Material Applicable to Tissue Modeling
+# 1. Soft Tissue Modeling
 
-## Mechanoregulated Remodeling of Collagen
+## 1.1 Mechanoregulated Remodeling of Collagen
 
 _Biomechanics_ is the study of the mechanical properties, the function, and the motion of biological systems.
 This field of science combines different aspects of engineering and biology in order to gain a deeper insight into the properties of living materials.
@@ -23,7 +23,7 @@ Experiments have shown that strain may stabilize collagen fibers to enzyamtic de
 (UNDER CONSTRUCTION)
 
 
-## Bifurcation of pressurized Cylinders
+## 1.2 Bifurcation of pressurized Cylinders
 
 Abdominal aortic aneurysms are responsible for a large number of deaths in industrialized countries.
 This motivation many researchers to develop models that capture the formation, development, and rupture of aneurysms.
