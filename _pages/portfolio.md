@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /portfolio/
 author_profile: true
 ---
@@ -18,7 +18,7 @@ This field of science combines different aspects of engineering and biology in o
 
 
 A part of my biomechanics research focuses on the mechanical properties of collagenous soft tissue. 
-Experiments have shown that strain may stabilize collagen fibers to enzyamtic degradation (see [Topol et al. (2021)](https://doi.org/10.1115/1.4052752)). This effect has been modeled in my articles.
+Experiments have shown that strain may stabilize collagen fibers to enzyamtic degradation (see [Topol et al. (2021d)](https://doi.org/10.1115/1.4052752)). This effect has been modeled in my articles.
 
 ### 1.1.1 Strain-stabilization of collagen to enzymatic degradation
 
@@ -30,26 +30,28 @@ my work focused on  fiber models that are applicable to collagenous tissues whic
 This effect has been modeled in my articles.
 [Topol et al. (2014)](https://doi.org/10.1093/imamat/hxu027) illustrate the complaxity in fiber density development for relatively simple deformation scenarios.
 The relation between stress and deformation has then been explored for uniaxial ([Topol et al. (2015)](https://doi.org/10.1007/s10665-014-9771-9)) and mulit-axial deformation problems ([Topol et al. (2017)](https://doi.org/10.1007/s11043-016-9315-y)).
+A study applied the remodeling model to pressurized thick-walled tubes applicable to the modeling of blood vessels ([Topol et al. (2019)](https://doi.org/10.1016/j.euromechsol.2019.103800)).
 
 ### 1.1.2 Swelling-induced remodeling processes
 
 In soft biological tissue, swelling is a common process that affects the collagen fiber remodeling. The modeling framework is in the context of large (finite) deformation continuum mechanics in order to address situations in which the swelling causes the tissue to exhibit significant volume change.
 I had to goal to apply the theory of swellable materials to the fiber remodeling theory.
-In [Topol et al. (2018)](https://doi.org/10.1007/s10237-018-1043-6) my collaborators and I presented a hyperelastic modeling framework of the combined effects of tissue swelling and
+In [Topol et al. (2018)](https://doi.org/10.1007/s10237-018-1043-6), my collaborators and I presented a hyperelastic modeling framework of the combined effects of tissue swelling and
 deformation-related collagen renewal in fibrous soft tissue.
  We also had the goal to apply the swellable material models in finite element studies, which simulate the development of cervical tissue during different stages of pregnancy.
 The numerical calculations were carried out in an in-house _MatLAB_ code,
-which had been continuously extended  with the complexity of the investigated problem [Gout el al. (2020)](https://doi.org/10.1115/1.4045810).
+which had been continuously extended  with the complexity of the investigated problem [Gou el al. (2020)](https://doi.org/10.1115/1.4045810).
 
 
 
 
 ### 1.1.3 Bounded fiber lifespans
 
-The maximum fiber lifespan in the integral form of the fiber strain energy density function (1) is not bounded to an upper
-finite limit. 
 
- In \cite{TopolDemirkoparanPence2020} we limit the theoretical upper bound of the fiber lifespan to the finite limit $T_{max}$
+In the previously mentioned articles on modeling of collagen remodeling, the theoretical upper collagen lifespan was unbounded.
+[Topol et al. (2021a)](https://doi.org/10.1016/j.jmbbm.2020.104154) limit this theoretical upper bound of the fiber lifespan to the finite limit, and it has been shown that the presented model can sufficiently describe observations from experiments on strain stabilization.
+
+While \cite{TopolDemirkoparanPence2020} focuses on rather limited aspects of the fiber density development, our article \cite{TopolDemirkoparanPence2021MRC} elaborates on the synergy between different phenomena in the approach, attainment, and abatement of fiber density extrema. In particular, that article shows how the deferral of stress considerations enables an appreciation of how the collagen density is governed by all of the following: the amount of the overall material deformation, the fiber pre-stretch, and the competing time scales at which the various processes of fiber creation and stretch mediated dissolution act at the microscale.
 
 
 
