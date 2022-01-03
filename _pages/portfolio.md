@@ -13,7 +13,7 @@ My research interests can be divided into the following parts:
 _Biomechanics_ is the study of the mechanical properties, the function, and the motion of biological systems.
 This field of science combines different aspects of engineering and biology in order to gain a deeper insight into the properties of living materials.
 My biomechanics research focuses on the mechanical properties of collagenous soft tissue. 
-Experiments have shown that strain may stabilize collagen fibers to enzyamtic degradation (see [Topol et al. 2021](https://doi.org/10.1115/1.4052752)). This effect has been modeled in my articles.<br/>
+Experiments have shown that strain may stabilize collagen fibers to enzyamtic degradation (see [Topol et al. (2021)](https://doi.org/10.1115/1.4052752)). This effect has been modeled in my articles.<br/>
 
 ## Swelling-induced remodeling processes
 
@@ -29,10 +29,12 @@ My work studies instabilities in loaded and inflated cylinders with the applicat
 
 
 
-# Transport Properties of Composites
+
+# Mechanical Properties of Composites
+## Transport Properties of Composites
 
 My work on the mechanical behavior of composites deals with wave propagation and  heat transfer in anisotropic media.
-This research applied different methods such as the _plane wave expansion method_, the _asymptotic homogenization method_, and the _Floquet-Bloch approach_ in order to understand the properties of composites.
+This research applied different methods such as the _plane wave expansion method_, the _asymptotic homogenization method_ ([Andrianov et al. (2011)](https://doi.org/10.1002/zamm.201000176), [Andrianov et al. (2017)](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124)), and the _Floquet-Bloch approach_ in order to understand the properties of composites.
 
 
 ![Dispersion](/images/RealNEW.png)
