@@ -20,7 +20,18 @@ This field of science combines different aspects of engineering and biology in o
 A part of my biomechanics research focuses on the mechanical properties of collagenous soft tissue. 
 Experiments have shown that strain may stabilize collagen fibers to enzyamtic degradation (see [Topol et al. (2021)](https://doi.org/10.1115/1.4052752)). This effect has been modeled in my articles.
 
-### 1.1.1 Swelling-induced remodeling processes
+### 1.1.1 Strain-stabilization of collagen to enzymatic degradation
+
+My research dealt with the mathematical modeling of biological tissues.
+Biological soft tissues are complex structures, which are composed of  multiple components with different functions and properties. 
+In the framework of my research I considered tissue models that consist of a mixture of a _ground substance material_ and embedded _collagenous fibers_.
+Motivated by experiments on the strain stabilization of collagen to enzymatic degradation,
+my work focused on  fiber models that are applicable to collagenous tissues which undergo _continuous mechano-sensitive remodeling processes_.
+This effect has been modeled in my articles.
+[Topol et al. (2014)](https://doi.org/10.1093/imamat/hxu027) illustrate the complaxity in fiber density development for relatively simple deformation scenarios.
+The relation between stress and deformation has then been explored for uniaxial ([Topol et al. (2015)](https://doi.org/10.1007/s10665-014-9771-9)) and mulit-axial deformation problems ([Topol et al. (2017)](https://doi.org/10.1007/s11043-016-9315-y)).
+
+### 1.1.2 Swelling-induced remodeling processes
 
 In soft biological tissue, swelling is a common process that affects the collagen fiber remodeling. The modeling framework is in the context of large (finite) deformation continuum mechanics in order to address situations in which the swelling causes the tissue to exhibit significant volume change.
 I had to goal to apply the theory of swellable materials to the fiber remodeling theory.
@@ -33,7 +44,7 @@ which had been continuously extended  with the complexity of the investigated pr
 
 
 
-### 1.1.2 Bounded fiber lifespans
+### 1.1.3 Bounded fiber lifespans
 
 The maximum fiber lifespan in the integral form of the fiber strain energy density function (1) is not bounded to an upper
 finite limit. 
