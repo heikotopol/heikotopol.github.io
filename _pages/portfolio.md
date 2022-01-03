@@ -34,6 +34,11 @@ My work studies instabilities in loaded and inflated cylinders with the applicat
 
 
 # 2. Mechanical Properties of Composites
+
+Different  materials can be combined in order to form _composites_. The properties of these composites will depend on the distribution, the geometry, and the interplay of its components. Imported types of composites are _fiber-reinforced composites_, _particle-reinforced composites_, and _laminates_.
+Particle-reinforced composites are relatively isotropic on the macroscale, whereas _fiber-reinforced composites_ may show a strong anisotropic behavior.
+
+
 ## 2.1 Transport Properties of Composites
 
 My work on the mechanical behavior of composites deals with wave propagation and  heat transfer in anisotropic media.
