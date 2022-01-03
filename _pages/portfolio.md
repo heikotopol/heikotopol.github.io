@@ -11,24 +11,34 @@ My research interests can be divided into the following parts:
 
 # 1. Soft Tissue Modeling
 
-## 1.1 Mechanoregulated Remodeling of Collagen
+## 1.1 Mechanoregulated remodeling of collagen fibers
 
 _Biomechanics_ is the study of the mechanical properties, the function, and the motion of biological systems.
 This field of science combines different aspects of engineering and biology in order to gain a deeper insight into the properties of living materials.
 My biomechanics research focuses on the mechanical properties of collagenous soft tissue. 
 Experiments have shown that strain may stabilize collagen fibers to enzyamtic degradation (see [Topol et al. (2021)](https://doi.org/10.1115/1.4052752)). This effect has been modeled in my articles.<br/>
 
-### Swelling-induced remodeling processes
+### 1.1.1 Swelling-induced remodeling processes
 
-(UNDER CONSTRUCTION)
+In soft biological tissue, swelling is a common process that
+affects the collagen fiber remodeling. The modeling frame-
+work is in the context of large (finite) deformation contin-
+uum mechanics in order to address situations in which the
+swelling causes the tissue to exhibit significant volume change.
 
+### 1.1.2 Bounded fiber lifespans
 
-## 1.2 Bifurcation of pressurized Cylinders
+The maximum fiber lifespan in the integral form of the fiber strain energy density function (1) is not bounded to an upper
+finite limit. 
+
+## 1.2 Bifurcation of pressurized cylinders
 
 Abdominal aortic aneurysms are responsible for a large number of deaths in industrialized countries.
 This motivation many researchers to develop models that capture the formation, development, and rupture of aneurysms.
 The geometry, mechanical properties, and numerous biochemical processes play an important role in the formation of dilatations in arteries.
-My work studies instabilities in loaded and inflated cylinders with the application to the formation and propagation of aneurysms in arterial wall tissue.<br/>
+My work studies instabilities in loaded and inflated cylinders with the application to the formation and propagation of aneurysms in arterial wall tissue.
+<br/>
+<br/>
 
 
 
@@ -39,14 +49,14 @@ Different  materials can be combined in order to form _composites_. The properti
 Particle-reinforced composites are relatively isotropic on the macroscale, whereas _fiber-reinforced composites_ may show a strong anisotropic behavior.
 
 
-## 2.1 Transport Properties of Composites
+## 2.1 Transport properties of composites
 
 My work on the mechanical behavior of composites deals with wave propagation and  heat transfer in anisotropic media.
 This research applied different methods such as the _Floquet-Bloch approach_, the _plane wave expansion method_, the _asymptotic homogenization method_, and the _transfer-matrix method_ in order to understand the properties of composites ([Andrianov et al. (2011)](https://doi.org/10.1002/zamm.201000176), [Andrianov et al. (2017a)](https://doi.org/10.1007/s00707-016-1765-4), [Andrianov et al. (2017b)](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124), [Andrianov et al. (2018)](https://doi.org/10.1016/j.wavemoti.2017.12.007)).
 ![Dispersion](/images/RealNEW.png)
 
 
-## 2.2 Stress Distribution in Loaded Composites
+## 2.2 Stress distribution in loaded composites
 In composites, an important method to determine the mechanical properties of the material is the pull-out tests of fibers from matrix. 
 The quality of bonding between two constituents have a crucial role in the functionality of the material.
 There are numerous factors that lead to imperfect bonding such as cracks, corrosion, or degradation.
