@@ -40,7 +40,7 @@ In [Topol et al. (2018)](https://doi.org/10.1007/s10237-018-1043-6), my collabor
 deformation-related collagen renewal in fibrous soft tissue.
  We also had the goal to apply the swellable material models in finite element studies, which simulate the development of cervical tissue during different stages of pregnancy.
 The numerical calculations were carried out in an in-house _MatLAB_ code,
-which had been continuously extended  with the complexity of the investigated problem [Gou el al. (2020)](https://doi.org/10.1115/1.4045810).
+which had been continuously extended  with the complexity of the investigated problem ([Gou el al. (2020)](https://doi.org/10.1115/1.4045810)).
 
 
 
