@@ -26,9 +26,8 @@ In the framework of my research I considered tissue models that consist of a mix
 
 In the framework of my research I considered tissue models that consist of a mixture of a _ground substance material_ and embedded _collagenous fibers_.
 Motivated by experiments that have observed the strain stabilization of collagen to enzymatic degradation  (see the review article by [Topol et al. (2021d)](https://doi.org/10.1115/1.4052752)),
-my work focused on  fiber models that are applicable to collagenous tissues which undergo _continuous mechano-sensitive remodeling processes_.
-This effect has been modeled in my articles.
-[Topol et al. (2014)](https://doi.org/10.1093/imamat/hxu027) illustrate the complaxity in fiber density development for relatively simple deformation scenarios.
+my work focuses on  fiber models that are applicable to collagenous tissues, which undergo _continuous mechano-sensitive remodeling processes_.
+[Topol et al. (2014)](https://doi.org/10.1093/imamat/hxu027) illustrate the complexity in fiber density development for relatively simple deformation scenarios.
 The relation between stress and deformation has then been explored for uniaxial ([Topol et al. (2015)](https://doi.org/10.1007/s10665-014-9771-9)) and mulit-axial deformation problems ([Topol et al. (2017)](https://doi.org/10.1007/s11043-016-9315-y)).
 A study applied the remodeling model to pressurized thick-walled tubes applicable to the modeling of blood vessels ([Topol et al. (2019)](https://doi.org/10.1016/j.euromechsol.2019.103800)).
 ![Degradation](/images/PMAN3.png)
