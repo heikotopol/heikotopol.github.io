@@ -16,16 +16,16 @@ This field of science combines different aspects of engineering and biology in o
 
 ## 1.1 Mechanoregulated remodeling of collagen fibers
 
+My research deals with the mathematical modeling of biological tissues.
+Biological soft tissues are complex structures, which are composed of  multiple components with different functions and properties. 
+In the framework of my research I considered tissue models that consist of a mixture of a _ground substance material_ and embedded _collagenous fibers_.
 
-A part of my biomechanics research focuses on the mechanical properties of collagenous soft tissue. 
-Experiments have shown that strain may stabilize collagen fibers to enzyamtic degradation (see [Topol et al. (2021d)](https://doi.org/10.1115/1.4052752)). This effect has been modeled in my articles.
+
 
 ### 1.1.1 Strain-stabilization of collagen to enzymatic degradation
 
-My research dealt with the mathematical modeling of biological tissues.
-Biological soft tissues are complex structures, which are composed of  multiple components with different functions and properties. 
 In the framework of my research I considered tissue models that consist of a mixture of a _ground substance material_ and embedded _collagenous fibers_.
-Motivated by experiments on the strain stabilization of collagen to enzymatic degradation,
+Motivated by experiments that have observed the strain stabilization of collagen to enzymatic degradation  (see the review article by [Topol et al. (2021d)](https://doi.org/10.1115/1.4052752)),
 my work focused on  fiber models that are applicable to collagenous tissues which undergo _continuous mechano-sensitive remodeling processes_.
 This effect has been modeled in my articles.
 [Topol et al. (2014)](https://doi.org/10.1093/imamat/hxu027) illustrate the complaxity in fiber density development for relatively simple deformation scenarios.
