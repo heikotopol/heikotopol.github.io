@@ -22,7 +22,7 @@ In the framework of my research I considered tissue models that consist of a mix
 
 
 
-### 1.1.1 Strain-stabilization of collagen to enzymatic degradation
+### Strain-stabilization of collagen to enzymatic degradation
 
 In the framework of my research I considered tissue models that consist of a mixture of a _ground substance material_ and embedded _collagenous fibers_.
 Motivated by experiments that have observed the strain stabilization of collagen to enzymatic degradation  (see the review article by [Topol et al. (2021d)](https://doi.org/10.1115/1.4052752)),
@@ -32,7 +32,7 @@ The relation between stress and deformation has then been explored for uniaxial 
 A study applied the remodeling model to pressurized thick-walled tubes applicable to the modeling of blood vessels ([Topol et al. (2019)](https://doi.org/10.1016/j.euromechsol.2019.103800)).
 ![Degradation](/images/PMAN3.png)
 
-### 1.1.2 Swelling-induced remodeling processes
+### Swelling-induced remodeling processes
 
 In soft biological tissue, swelling is a common process that affects the collagen fiber remodeling. The modeling framework is in the context of large (finite) deformation continuum mechanics in order to address situations in which the swelling causes the tissue to exhibit significant volume change.
 I had to goal to apply the theory of swellable materials to the fiber remodeling theory.
@@ -45,7 +45,7 @@ which had been continuously extended  with the complexity of the investigated pr
 
 
 
-### 1.1.3 Bounded fiber lifespans
+### Bounded fiber lifespans
 
 
 In the previously mentioned articles on modeling of collagen remodeling, the theoretical upper collagen lifespan was unbounded.
