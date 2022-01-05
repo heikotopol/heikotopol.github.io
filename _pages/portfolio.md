@@ -19,6 +19,7 @@ This field of science combines different aspects of engineering and biology in o
 My research deals with the mathematical modeling of biological tissues.
 Biological soft tissues are complex structures, which are composed of  multiple components with different functions and properties. 
 In the framework of my research I considered tissue models that consist of a mixture of a _ground substance material_ and embedded _collagenous fibers_.
+The macroscopic properties of the material result from the elastic properties of the constituents, the geometry of the considered problem, the arrangement of the fibers in the ground substance, and the interplay of the constitutents.
 
 
 
