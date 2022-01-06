@@ -65,6 +65,7 @@ My work studies instabilities in loaded and inflated cylinders with the applicat
 
 The initiation and propagation of bulging in fiber reinforced swellable Mooney-Rivlin membranes has been studied by
 [Topol et al. (2021c)](https://doi.org/10.1007/s10665-021-10123-5). Further bifircation modes - prismatic and bending bifurcation - of fiber reinforced elastic and swellable membranes have been treated by [Al-Chlaihawi et al. (2021)](https://doi.org/10.1177/10812865211058767).
+![Degradation](/images/Fig1turnedaNEW.png)
 <br/>
 <br/>
 
