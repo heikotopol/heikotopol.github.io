@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * 2012, Ph.D. (Dr.-Ing., with distinction), **RWTH Aachen University**
 * 2007, Diploma (equivalent to a Master's Degree), **Ruhr University Bochum**
 * 2005, Academic exchange (DAAD scholarship, one semester), **Texas A&M University**
 
-Work experience
-======
+## Work experience
+
 * 04/2021 - 04/2022: **RWTH Aachen University**
 * 09/2020 - 12/2020: **Carnegie Mellon University in Qatar**, Visiting Assistant Professor of Mathematical Sciences
 * 03/2018 - 12/2020: **PADI Divemaster**, Freelancer on the weekends  
