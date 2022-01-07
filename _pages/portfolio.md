@@ -9,22 +9,19 @@ author_profile: true
 
 
 
-# 1. Soft Tissue Modeling
+## 1. Soft Tissue Modeling
 
 _Biomechanics_ is the study of the mechanical properties, the function, and the motion of biological systems.
 This field of science combines different aspects of engineering and biology in order to gain a deeper insight into the properties of living materials.
 
-## 1.1 Mechanoregulated remodeling of collagen fibers
+### 1.1 Mechanoregulated remodeling of collagen fibers
 
 My research deals with the mathematical modeling of biological tissues.
 Biological soft tissues are complex structures, which are composed of  multiple components with different functions and properties. 
 In the framework of my research I considered tissue models that consist of a mixture of a _ground substance material_ and embedded _collagenous fibers_.
 The macroscopic properties of the material result from the elastic properties of the constituents, the geometry of the considered problem, the arrangement of the fibers in the ground substance, and the interplay of the constitutents.
 
-
-
-### Strain-stabilization of collagen to enzymatic degradation
-
+**Strain-stabilization of collagen to enzymatic degradation:**
 In the framework of my research I considered tissue models that consist of a mixture of a _ground substance material_ and embedded _collagenous fibers_.
 Motivated by experiments that have observed the strain stabilization of collagen to enzymatic degradation  (see the review article by [Topol et al. (2021d)](https://doi.org/10.1115/1.4052752)),
 my work focuses on  fiber models that are applicable to collagenous tissues, which undergo _continuous mechano-sensitive remodeling processes_.
@@ -33,8 +30,7 @@ The relation between stress and deformation has then been explored for uniaxial 
 A study applied the remodeling model to pressurized thick-walled tubes applicable to the modeling of blood vessels ([Topol et al. (2019)](https://doi.org/10.1016/j.euromechsol.2019.103800)).
 ![Degradation](/images/PMAN3.png)
 
-### Swelling-induced remodeling processes
-
+**Swelling-induced remodeling processes:** 
 In soft biological tissue, swelling is a common process that affects the collagen fiber remodeling. The modeling framework is in the context of large (finite) deformation continuum mechanics in order to address situations in which the swelling causes the tissue to exhibit significant volume change.
 I had to goal to apply the theory of swellable materials to the fiber remodeling theory.
 In [Topol et al. (2018)](https://doi.org/10.1007/s10237-018-1043-6), my collaborators and I presented a hyperelastic modeling framework of the combined effects of tissue swelling and
@@ -44,11 +40,7 @@ The numerical calculations were carried out in an in-house _MatLAB_ code,
 which had been continuously extended  with the complexity of the investigated problem ([Gou el al. (2020)](https://doi.org/10.1115/1.4045810)).
 
 
-
-
-### Bounded fiber lifespans
-
-
+**Bounded fiber lifespans:**
 In the previously mentioned articles on modeling of collagen remodeling, the theoretical upper collagen lifespan was unbounded.
 [Topol et al. (2021a)](https://doi.org/10.1016/j.jmbbm.2020.104154) limit this theoretical upper bound of the fiber lifespan to the finite limit, and it has been shown that the presented model can sufficiently describe observations from experiments on strain stabilization.
 
@@ -56,7 +48,7 @@ The follow-up work by [Topol et al. (2021b)](https://doi.org/10.1016/j.mechresco
 
 
 
-## 1.2 Bifurcation of pressurized cylinders
+### 1.2 Bifurcation of pressurized cylinders
 
 Abdominal aortic aneurysms are responsible for a large number of deaths in industrialized countries.
 This motivation many researchers to develop models that capture the formation, development, and rupture of aneurysms.
@@ -72,20 +64,20 @@ The initiation and propagation of bulging in fiber reinforced swellable Mooney-R
 
 
 
-# 2. Mechanical Properties of Composites
+## 2. Mechanical Properties of Composites
 
 Different  materials can be combined in order to form _composites_. The properties of these composites will depend on the distribution, the geometry, and the interplay of its components. Imported types of composites are _fiber-reinforced composites_, _particle-reinforced composites_, and _laminates_.
 Particle-reinforced composites are relatively isotropic on the macroscale, whereas _fiber-reinforced composites_ may show a strong anisotropic behavior.
 
 
-## 2.1 Transport properties of composites
+### 2.1 Transport properties of composites
 
 My work on the mechanical behavior of composites deals with wave propagation and  heat transfer in anisotropic media.
 This research applied different methods such as the _Floquet-Bloch approach_, the _plane wave expansion method_, the _asymptotic homogenization method_, and the _transfer-matrix method_ in order to understand the properties of composites ([Andrianov et al. (2011)](https://doi.org/10.1002/zamm.201000176), [Andrianov et al. (2017a)](https://doi.org/10.1007/s00707-016-1765-4), [Andrianov et al. (2017b)](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124), [Andrianov et al. (2018)](https://doi.org/10.1016/j.wavemoti.2017.12.007)).
 ![Dispersion](/images/RealNEW.png)
 
 
-## 2.2 Stress distribution in loaded composites
+### 2.2 Stress distribution in loaded composites
 In composites, an important method to determine the mechanical properties of the material is the pull-out tests of fibers from matrix. 
 The quality of bonding between two constituents have a crucial role in the functionality of the material.
 There are numerous factors that lead to imperfect bonding such as cracks, corrosion, or degradation.
