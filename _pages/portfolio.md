@@ -43,7 +43,6 @@ which had been continuously extended  with the complexity of the investigated pr
 **Bounded fiber lifespans:**
 In the previously mentioned articles on modeling of collagen remodeling, the theoretical upper collagen lifespan was unbounded.
 [Topol et al. (2021a)](https://doi.org/10.1016/j.jmbbm.2020.104154) limit this theoretical upper bound of the fiber lifespan to the finite limit, and it has been shown that the presented model can sufficiently describe observations from experiments on strain stabilization.
-
 The follow-up work by [Topol et al. (2021b)](https://doi.org/10.1016/j.mechrescom.2021.103740) elaborates on the interplay between different phenomena in the approach, attainment, and abatement of fiber density minima and maxima. In particular, that article shows how the deferral of stress considerations enables an appreciation of how the collagen density is governed by all of the following: the amount of the overall material deformation, the fiber pre-stretch, and the competing time scales at which the various processes of fiber creation and stretch mediated dissolution act at the microscale.
 
 
