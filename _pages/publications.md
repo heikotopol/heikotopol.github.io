@@ -26,8 +26,8 @@ Editors: I. Andrianov, S. Gluzman, and V. Mityushev.
  _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_,
 **Appl. Mech. Rev. 73: 050802** (2021).
 [[1]](https://doi.org/10.1115/1.4052752)<br/>
- 
-* H. Topol, H. Demirkoparan, and T. J. Pence:
+
+ * H. Topol, H. Demirkoparan, and T. J. Pence:
  _Modeling Stretch-Dependent Collagen Fiber Density_,
  **Mech. Res. Commun. 116: 103740** (2021, **Open Access**).
  [[1]](https://doi.org/10.1016/j.mechrescom.2021.103740)<br/>
