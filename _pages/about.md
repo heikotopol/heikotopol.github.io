@@ -1,15 +1,14 @@
 ---
 permalink: /
 title: " "
-excerpt: "About me"
+excerpt: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
-======
+
 
 Welcome to my private page. I develop mathematical models, which describe the mechanial behavior of heterogeneous materials.
 
