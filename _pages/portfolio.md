@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-## 1. Soft Tissue Modeling
+## 1. Nonlinear Behavior of Fibrous Soft Tissue
 
 _Biomechanics_ is the study of the mechanical properties, the function, and the motion of biological systems.
 This field of science combines different aspects of engineering and biology in order to gain a deeper insight into the properties of living materials.
