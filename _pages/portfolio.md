@@ -13,6 +13,7 @@ author_profile: true
 
 _Biomechanics_ is the study of the mechanical properties, the function, and the motion of biological systems.
 This field of science combines different aspects of engineering and biology in order to gain a deeper insight into the properties of living materials.
+My biomechanics interests involve the mechanoregulated remodeling of collagen fibers and the bifurcation of pressurized cylinders.
 
 ### 1.1 Mechanoregulated remodeling of collagen fibers
 
