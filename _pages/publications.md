@@ -19,7 +19,7 @@ _On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes und
 * I. V. Andrianov and H. Topol:
 _Compatibility conditions: number of independent equations and boundary conditions_ (book chapter).
 I. Andrianov, S. Gluzman, and V. Mityushev (Editors):
-**Mechanics and Physics of Structured Media - Asymptotic and Integral Equations Methods of Leonid Filshtinsky, 123-140** (2022).
+**Mechanics and Physics of Structured Media - Asymptotic and Integral Equations Methods of Leonid Filshtinsky, 123-140** (Academic Press, 2022).
 Book [[1]](https://www.elsevier.com/books/mechanics-and-physics-of-structured-media/andrianov/978-0-323-90543-5),
 chapter [[2]](https://doi.org/10.1016/B978-0-32-390543-5.00011-6) <br/> 
 
