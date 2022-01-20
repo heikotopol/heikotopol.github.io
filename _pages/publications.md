@@ -17,10 +17,11 @@ _On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes und
 [[1]](https://doi.org/10.1177/10812865211058767)<br/>
 
 * I. V. Andrianov and H. Topol:
-_Compatibility conditions: number of independent equations and boundary conditions_ (book chapter),
-**Mechanics and Physics of Structured Media - Asymptotic and Integral Equations Methods of Leonid Filshtinsky** (expected release date: 17 Jan. 2022),
-Editors: I. Andrianov, S. Gluzman, and V. Mityushev.
- [[1]](https://www.elsevier.com/books/mechanics-and-physics-of-structured-media/andrianov/978-0-323-90543-5)<br/> 
+_Compatibility conditions: number of independent equations and boundary conditions_ (book chapter).
+I. Andrianov, S. Gluzman, and V. Mityushev (Editors):
+**Mechanics and Physics of Structured Media - Asymptotic and Integral Equations Methods of Leonid Filshtinsky, 123-140** (2022).
+Book [[1]](https://www.elsevier.com/books/mechanics-and-physics-of-structured-media/andrianov/978-0-323-90543-5),
+chapter [[2]](https://doi.org/10.1016/B978-0-32-390543-5.00011-6) <br/> 
 
 * H. Topol, H. Demirkoparan, and T. J. Pence:
  _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_,
