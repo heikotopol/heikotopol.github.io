@@ -17,7 +17,7 @@ redirect_from:
 
 ## Work experience
 
-* 04/2021 - 04/2022: **RWTH Aachen University**
+* 04/2021 - now: **RWTH Aachen University**
 * 09/2020 - 12/2020: **Carnegie Mellon University in Qatar**, Visiting Assistant Professor of Mathematical Sciences
 * 03/2018 - 12/2020: **PADI Divemaster**, Freelancer on the weekends  
 * 04/2017 - 08/2020: **Carnegie Mellon University in Qatar**, Postdoctoral Research Associate
