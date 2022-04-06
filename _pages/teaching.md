@@ -11,9 +11,9 @@ redirect_from:
 {% include base_path %}
 
 Summary of my teaching activities at Beijing Jiaotong University (**BJU**), Carnegie Mellon University in Qatar (**CMU-Q**), Qatar University (**QU**),
-Ruhr University Bochum (**RUB**), and RWTH Aachen University (**RWTH**). There I taught the courses _Mechanics I - Statics_ (**Mech. I**), _Mechanics II - Mechanics of Materials_ (**Mech. II**), _Mechanics III - Dynamics_ (**Mech. III**), _Mechanical Modeling of Composites I & II_ (**MMoC I & II**), _Differential and Integral Calculus_ (**21-120**), _Multivariate Analysis_ (**21-256**).
+Ruhr University Bochum (**RUB**), and RWTH Aachen University (**RWTH**). There I taught the courses _Mechanics I - Statics_ (**Mech. I**), _Mechanics II - Mechanics of Materials_ (**Mech. II**), _Mechanics III - Dynamics_ (**Mech. III**), _Mechanical Modeling of Composites I & II_ (**MMoC**), _Differential and Integral Calculus_ (**21-120**), _Multivariate Analysis_ (**21-256**).
 
-|Semester       |Mech. I |Mech. II  |Mech. III  |MMoC I & II  |21-120   |21-256 | BioSem |
+|Semester       |Mech. I |Mech. II  |Mech. III  |MMoC |21-120   |21-256 | BioSem |
 |:---|:-------|:---------|:----------|:---|:---|:---|:---|
 |**ST 2004**    |        |RUB       |           |             |         |       |        |
 |**WT 2004/05** |RUB     |          |RUB        |             |         |       |        |
