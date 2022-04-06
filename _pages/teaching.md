@@ -35,7 +35,9 @@ Ruhr University Bochum (**RUB**), and RWTH Aachen University (**RWTH**). There I
 |**WT 2012/13** |        |          |RWTH       |             |         |       |
 |**2016<sup>*</sup>** |  |          |           |QU<sup>**</sup>  |     |       |
 |**F 2020**     |        |          |           |             |CMU-Q    |CMU-Q  |
+|**ST 2021**    |        |RWTH      |           |             |         |       |
 |**WT 2021/22** |        |          |RWTH       |             |         |       |
+|**ST 2022**    |        |          |           |             |         |       |
 
 
 <sup>*</sup> Short Term Opportunity<br/> 
