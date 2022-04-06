@@ -19,7 +19,7 @@ redirect_from:
 
 * 04/2021 - now: **RWTH Aachen University**
 * 09/2020 - 12/2020: **Carnegie Mellon University in Qatar**, Visiting Assistant Professor of Mathematical Sciences
-* 03/2018 - 12/2020: **PADI Divemaster**, Freelancer on the weekends  
+* 03/2018 - 12/2020: **PDC Qatar**, PADI Divemaster, Freelancer on the weekends  
 * 04/2017 - 08/2020: **Carnegie Mellon University in Qatar**, Postdoctoral Research Associate
 * 02/2016 - 02/2017: **Qatar University, Center for Advanced Materials**, Assistant Research Professor
 * 01/2013 - 08/2015: **Carnegie Mellon University in Qatar**, Postdoctoral Research Associate
