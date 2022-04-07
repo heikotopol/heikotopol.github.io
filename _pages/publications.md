@@ -11,11 +11,6 @@ author_profile: true
 
 ### 2021 - now
 
-* M. J. Al-Chlaihawi, H. Topol, H. Demirkoparan, and J. Merodio: 
-_On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes under Swelling with Application to Aortic Aneurysms_, 
-**Math. Mech. Solids** (First Published Online, 29 December 2021).
-[[1]](https://doi.org/10.1177/10812865211058767)<br/>
-
 * I. V. Andrianov and H. Topol:
 _Compatibility conditions: number of independent equations and boundary conditions_ (book chapter).
 I. Andrianov, S. Gluzman, and V. Mityushev (Editors):
@@ -23,6 +18,11 @@ I. Andrianov, S. Gluzman, and V. Mityushev (Editors):
 Book [[1]](https://www.elsevier.com/books/mechanics-and-physics-of-structured-media/andrianov/978-0-323-90543-5),
 [[2]](https://www.sciencedirect.com/book/9780323905435/mechanics-and-physics-of-structured-media).
 Chapter [[3]](https://doi.org/10.1016/B978-0-32-390543-5.00011-6) <br/> 
+
+* M. J. Al-Chlaihawi, H. Topol, H. Demirkoparan, and J. Merodio: 
+_On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes under Swelling with Application to Aortic Aneurysms_, 
+**Math. Mech. Solids** (First Published Online, 29 December 2021).
+[[1]](https://doi.org/10.1177/10812865211058767)<br/>
 
 * H. Topol, H. Demirkoparan, and T. J. Pence:
  _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_,
