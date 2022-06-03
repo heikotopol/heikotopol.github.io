@@ -13,7 +13,8 @@ author_profile: true
 
 * H. Topol, N. K. Jha, H. Demirkoparan, M. Stoffel, J. Merodio:
 _Bulging of inflated membranes made of fiber reinforced materials with different natural configurations_,
-**Eur. J. Mech. A/Solids** (Accepted, 24 May 2022) <br/> 
+**Eur. J. Mech. A/Solids** (First Published Online, 3 June 2022).
+[[1]](https://doi.org/10.1016/j.euromechsol.2022.104670)<br/> 
 
 * I. V. Andrianov and H. Topol:
 _Compatibility conditions: number of independent equations and boundary conditions_ (book chapter).
