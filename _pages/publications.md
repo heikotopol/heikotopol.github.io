@@ -13,7 +13,7 @@ author_profile: true
 
 * H. Topol, N. K. Jha, H. Demirkoparan, M. Stoffel, J. Merodio:
 _Bulging of inflated membranes made of fiber reinforced materials with different natural configurations_,
-**Eur. J. Mech. A/Solids 96, 104670** (2022).
+**Eur. J. Mech. A/Solids 96, 104670** (2022, **Open Access**).
 [[1]](https://doi.org/10.1016/j.euromechsol.2022.104670)<br/> 
 
 * I. V. Andrianov and H. Topol:
