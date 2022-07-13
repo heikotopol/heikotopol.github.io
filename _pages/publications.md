@@ -13,7 +13,8 @@ author_profile: true
 
 * H. Topol, M. Al-Chlaihawi, H. Demirkoparan, J. Merodio:
 _Bifurcation of Fiber-Reinforced Cylindrical Membranes under Extension, Inflation, and Swelling_,
-**J. Appl. Comput. Mech.** (2022, accepted manuscript)
+**J. Appl. Comput. Mech.** (2022, Online)
+[[1]](https://doi.org/10.22055/JACM.2022.40949.3677)<br/> 
 
 * H. Topol, N. K. Jha, H. Demirkoparan, M. Stoffel, J. Merodio:
 _Bulging of inflated membranes made of fiber reinforced materials with different natural configurations_,
