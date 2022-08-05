@@ -86,5 +86,4 @@ an efficient use of composites.
 There are different techniques at account for imperfect bonding between constituents ([Andrianov et al. (2011)](https://doi.org/10.1007/s00419-008-0265-y), [Andrianov et al. (2018)](https://doi.org/10.1016/j.wavemoti.2017.12.007), [Andrianov et al. (2020)](https://doi.org/10.1007/s00707-020-02634-6)).
 * A popular model is denoted as the _spring-layer model_, in which spings simulate the bonding conditions between the fibers and the matrix.
 * An alternative for modeling imperfect bonding is to introduce one or multiple _artificial modeling layer_ between two constituents. These layers are taken to be thin in comparison to the thickness of the fibers. The geometry and the elastic proeprties of the modeling layer define the bonding wuality between the fibers and the matrix.
-
 -->
