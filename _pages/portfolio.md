@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-
+<!---
 ## 1. Nonlinear Behavior of Fibrous Soft Tissue
 
 _Biomechanics_ is the study of the mechanical properties, the function, and the motion of biological systems.
@@ -87,4 +87,4 @@ There are different techniques at account for imperfect bonding between constitu
 * A popular model is denoted as the _spring-layer model_, in which spings simulate the bonding conditions between the fibers and the matrix.
 * An alternative for modeling imperfect bonding is to introduce one or multiple _artificial modeling layer_ between two constituents. These layers are taken to be thin in comparison to the thickness of the fibers. The geometry and the elastic proeprties of the modeling layer define the bonding wuality between the fibers and the matrix.
 
-
+-->
