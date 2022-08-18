@@ -5,6 +5,22 @@ permalink: /talks/
 author_profile: true
 ---
 
+* H. Topol, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio:<br/>
+_Bifurcation of fiber-reinforced inflated membranes with different natural configu_,<br/>
+**92nd Annual Meeting of GAMM**,<br/>
+Aachen, Germany, 15-19 August 2022
+
+* K. Brenzel, N. Wilmanns, L. Johnen, M. Praster, M. Röhrig, H. Topol, B. Markert, M. Stoffel:<br/>
+_Extension of an in vitro spine test rig to track loaddependent biomechanics of the lumbar spine under
+physiological conditions_,<br/>
+**92nd Annual Meeting of GAMM**,<br/>
+Aachen, Germany, 15-19 August 2022
+
+* R. Salazar Ortiz, G. Dursun, H. Topol, B. Markert, M. Stoffel:<br/>
+_Migration and remodeling in cartilage replacement materials – an in-vitro bioreactor
+study_,<br/>
+**92nd Annual Meeting of GAMM**,<br/>
+Aachen, Germany, 15-19 August 2022
 
 * H. Topol:<br/>
 _Collagen Remodeling in Swelling Soft Tissue_,<br/>
