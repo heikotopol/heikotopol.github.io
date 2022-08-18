@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+### 2021 - now
+
 * H. Topol, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio:<br/>
 _Bifurcation of fiber-reinforced inflated membranes with different natural configu_,<br/>
 **92nd Annual Meeting of GAMM**,<br/>
@@ -26,6 +28,8 @@ Aachen, Germany, 15-19 August 2022
 _Collagen Remodeling in Swelling Soft Tissue_,<br/>
 **IAM Winter Talk 2021/2022**,<br/>
 Aachen, Germany, 26 Nov 2021<br/>
+
+### 2016 - 2020
 
 * H. Topol, H. Demirkoparan, T.J. Pence:<br/>
 _Morphoelastic remodeling of collagenous fibers under cyclic loading_,<br/>
@@ -67,6 +71,8 @@ Doha, Qatar, 18 May 2016<br/>
 _Mechanical Properties of Composites_,
 **Qatar-UK Research Networking Programme**,<br/>
 Doha, Qatar, 8-10 May 2016<br/>
+
+### 2008 - 2015
 
 * H. Topol, H. Demirkoparan, T.J. Pence, and A. Wineman,<br/>
 _Evolution of Mechanical Properties in Tissues Undergoing Deformation-Related Fiber Remodeling Processes_,<br/>
