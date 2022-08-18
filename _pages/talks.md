@@ -72,7 +72,7 @@ _Mechanical Properties of Composites_,
 **Qatar-UK Research Networking Programme**,<br/>
 Doha, Qatar, 8-10 May 2016<br/>
 
-### 2008 - 2015
+### 2011 - 2015
 
 * H. Topol, H. Demirkoparan, T.J. Pence, and A. Wineman,<br/>
 _Evolution of Mechanical Properties in Tissues Undergoing Deformation-Related Fiber Remodeling Processes_,<br/>
@@ -113,6 +113,8 @@ Halkidiki, Greece, 19-25 Sept. 2011<br/>
 _Periodical solutions of certain strongly nonlinear wave equations_,<br/>
 **ICNAAM 2011**,<br/>
 Halkidiki, Greece, 19-25 Sept. 2011<br/>
+
+### 2008 - 2015
 
 * I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
 _Nonlinear dynamic properties of layered composite material_,<br/>
