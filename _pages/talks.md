@@ -76,7 +76,7 @@ Doha, Qatar, 8-10 May 2016<br/>
 
 * H. Topol, H. Demirkoparan, T.J. Pence, and A. Wineman,<br/>
 _Evolution of Mechanical Properties in Tissues Undergoing Deformation-Related Fiber Remodeling Processes_,<br/>
-**86th Annual Meeting of GAMM**,<br/>
+**[86th Annual Meeting of GAMM](https://jahrestagung.gamm-ev.de/annual-meeting-2015/annual-meeting/)**,<br/>
 Lecce, Italy, 23-27 March 2015<br/>
 
 * H. Topol, H. Demirkoparan, T.J. Pence, and A. Wineman:<br/>
