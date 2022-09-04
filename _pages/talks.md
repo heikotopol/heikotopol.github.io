@@ -91,7 +91,7 @@ East Lansing, USA, 15-20 June 2014<br/>
 
 * H. Topol, H. Demirkoparan:<br/>
 _Evolution of the Fiber Density in Biological Tissues_,<br/>
-**85th Annual Meeting of GAMM**,<br/>
+**[85th Annual Meeting of GAMM](https://jahrestagung.gamm-ev.de/annual-meeting-2014/annual-meeting/)**,<br/>
 Erlangen, Germany, 10-14 March 2014
 
 * H. Topol, H. Demirkoparan, T.J. Pence, and A. Wineman:<br/>
@@ -114,7 +114,7 @@ _Periodical solutions of certain strongly nonlinear wave equations_,<br/>
 **ICNAAM 2011**,<br/>
 Halkidiki, Greece, 19-25 Sept. 2011<br/>
 
-### 2008 - 2015
+### 2008 - 2010
 
 * I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
 _Nonlinear dynamic properties of layered composite material_,<br/>
