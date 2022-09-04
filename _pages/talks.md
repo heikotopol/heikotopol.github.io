@@ -96,7 +96,7 @@ Erlangen, Germany, 10-14 March 2014
 
 * H. Topol, H. Demirkoparan, T.J. Pence, and A. Wineman:<br/>
 _Modelling of Fibril-Ligament Creation and Dissolution in Biological Tissues_,<br/>
-**EUROMECH Colloquium 551**,<br/>
+**[EUROMECH Colloquium 551](https://euromech.org/colloquia/2013/551)**,<br/>
 Nottingham, UK, 02-05 Sept. 2013<br/>
 
 * H. Topol:<br/>
