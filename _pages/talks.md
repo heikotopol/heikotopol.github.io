@@ -106,24 +106,24 @@ Aachen, Germany, 29. Oct. 2012<br/>
 
 * I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
 _Nonlinear elastic waves in a 1D layered composite material: some numerical results_,<br/>
-**ICNAAM 2011**,<br/>
+**[ICNAAM 2011](http://history.icnaam.org/icnaam_2011/index.htm)**,<br/>
 Halkidiki, Greece, 19-25 Sept. 2011<br/>
 
 * I.V. Andrianov, V.I. Bolshakov, Y. Kirichek, and H. Topol:<br/>
 _Periodical solutions of certain strongly nonlinear wave equations_,<br/>
-**ICNAAM 2011**,<br/>
+**[ICNAAM 2011](http://history.icnaam.org/icnaam_2011/index.htm)**,<br/>
 Halkidiki, Greece, 19-25 Sept. 2011<br/>
 
 ### 2008 - 2010
 
 * I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
 _Nonlinear dynamic properties of layered composite material_,<br/>
-**ICNAAM 2010**,<br/>
+**[ICNAAM 2010](http://history.icnaam.org/icnaam_2010/index.htm)**,<br/>
 Rhodes, Greece, 19-25 Sept. 2010<br/>
 
 * I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
 _Approximate approach for nonlinear deformation and failure of fibre composites_,<br/>
-**ICNAAM 2010**,<br/>
+**[ICNAAM 2010](http://history.icnaam.org/icnaam_2010/index.htm)**,<br/>
 Rhodes, Greece, 19-25 Sept. 2010<br/>
 
 * I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
@@ -148,7 +148,7 @@ Dnipropetrovs’k, Ukraine, 28-30 June 2010<br/>
 
 * I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
 _Shear wave dispersion in viscoelastic composite with elastic parallelepiped inclusions_,<br/>
-**ICNAAM 2009**,<br/>
+**[ICNAAM 2009](http://history.icnaam.org/icnaam_2009/index.htm)**,<br/>
 Crete, Greece, 18-22 Sept. 2009<br/>
 
 * I.V. Andrianov, H. Topol, and D. Weichert:<br/>
