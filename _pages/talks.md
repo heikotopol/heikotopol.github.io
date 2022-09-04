@@ -44,12 +44,12 @@ Doha, Qatar, 14 October 2018
 
 * H. Topol, H. Demirkoparan, T.J. Pence:<br/>
 _Stretch-dependent remodeling of collagen-like dispersed fibers_,<br/>
-**10th European Solid Mechanics Conference (ESMC)**,<br/>
+**[10th European Solid Mechanics Conference (ESMC)](https://euromech.org/conferences/ESMC/ESMC10)**,<br/>
 Bologna, Italy, 02-06 July 2018
 
 * H. Demirkoparan, T.J. Pence, V. Zamani, H. Topol:<br/>
 _Swelling induced shearing twist in a transversely isotropic hyperelastic annulus_,<br/>
-**10th European Solid Mechanics Conference (ESMC)**,<br/>
+**[10th European Solid Mechanics Conference (ESMC)](https://euromech.org/conferences/ESMC/ESMC10)**,<br/>
 Bologna, Italy, 02-06 July 2018<br/>
 
 * H. Topol, H. Demirkoparan, T.J. Pence:<br/>
