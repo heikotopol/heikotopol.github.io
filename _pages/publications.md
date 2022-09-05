@@ -56,7 +56,7 @@ _Bulging initiation and propagation in fiber reinforced swellable Mooney-Rivlin 
 * H. Topol, H. Demirkoparan, and T. J. Pence:
 _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,
  **J. Mech. Behav. Biomed. Mater. 113: 104154** (2021, **Open Access**).
- [[1]](https://doi.org/10.1016/j.jmbbm.2020.104154),  [[2]](https://pubmed.ncbi.nlm.nih.gov/33158790/)<br/>
+ [[1]](https://doi.org/10.1016/j.jmbbm.2020.104154), PubMed  [[2]](https://pubmed.ncbi.nlm.nih.gov/33158790/)<br/>
  
 
 ### 2016 - 2020
@@ -69,7 +69,7 @@ _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,
 * K. Gou, H. Topol, H. Demirkoparan, T. J. Pence:
  _Stress-swelling finite element modeling of cervical response with homeostatic collagen fiber distributions_,
  **J. Biomech. Eng. - Trans. ASME 142: 081002** (2020).
-[[1]](https://doi.org/10.1115/1.4045810),  [[2]](https://pubmed.ncbi.nlm.nih.gov/3189======1375/)
+[[1]](https://doi.org/10.1115/1.4045810), PubMed  [[2]](https://pubmed.ncbi.nlm.nih.gov/3189======1375/)
 
 * H. Topol, H. Demirkoparan, T. J. Pence:
 _Morphoelastic fiber remodeling in pressurized thick-walled cylinders with application to soft tissue collagenous tubes_,
@@ -79,7 +79,7 @@ _Morphoelastic fiber remodeling in pressurized thick-walled cylinders with appli
 * H. Topol, K. Gou, H. Demirkoparan, and T. J. Pence:
  _Hyperelastic modeling of the combined effects of tissue swelling and deformation-related collagen renewal in fibrous soft tissue_,
 **Biomech. Model. Mechanobiol. 17:1543-1567** (2018).
-[[1]](https://doi.org/10.1007/s10237-018-1043-6),  [[2]](https://pubmed.ncbi.nlm.nih.gov/29931486/)<br/>
+[[1]](https://doi.org/10.1007/s10237-018-1043-6), PubMed [[2]](https://pubmed.ncbi.nlm.nih.gov/29931486/)<br/>
 
 * V. Zamani, T. J. Pence, H. Demirkoparan, and H. Topol:
 _Hyperelastic Models for the Swelling of Soft Material Plugs in Confined Spaces_,
