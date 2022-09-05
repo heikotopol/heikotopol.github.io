@@ -51,12 +51,12 @@ _On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes und
 * H. Topol, M. J. Al-Chlaihawi, H. Demirkoparan, and J. Merodio:
 _Bulging initiation and propagation in fiber reinforced swellable Mooney-Rivlin membranes_,
 **J. Eng. Math. 128: 8** (2021, **Open Access**).
- [[1]](https://doi.org/10.1007/s10665-021-10123-5)<br/>
+ [[1]](https://doi.org/10.1007/s10665-021-10123-5), pdf [[2]](https://link.springer.com/content/pdf/10.1007/s10665-021-10123-5.pdf)<br/>
 
 * H. Topol, H. Demirkoparan, and T. J. Pence:
 _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,
  **J. Mech. Behav. Biomed. Mater. 113: 104154** (2021, **Open Access**).
- [[1]](https://doi.org/10.1016/j.jmbbm.2020.104154), PubMed  [[2]](https://pubmed.ncbi.nlm.nih.gov/33158790/)<br/>
+ [[1]](https://doi.org/10.1016/j.jmbbm.2020.104154), PubMed [[2]](https://pubmed.ncbi.nlm.nih.gov/33158790/), pdf [[3]](https://www.sciencedirect.com/science/article/pii/S1751616120306974/pdfft?md5=cc084c8cb037590a03ce8f0ba960b514&pid=1-s2.0-S1751616120306974-main.pdf)<br/>
  
 
 ### 2016 - 2020
