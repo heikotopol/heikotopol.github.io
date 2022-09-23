@@ -24,7 +24,7 @@ _Bifurcation of Fiber-Reinforced Cylindrical Membranes under Extension, Inflatio
 _Bulging of inflated membranes made of fiber reinforced materials with different natural configurations_,
 [**Eur. J. Mech. A/Solids 96, 104670**](https://doi.org/10.1016/j.euromechsol.2022.104670) (2022, [**Open Access**](https://www.sciencedirect.com/science/article/pii/S0997753822001310/pdfft?md5=6df60cf0761f4d77b9854bd04cf33848&pid=1-s2.0-S0997753822001310-main.pdf)).
 
-* I. V. Andrianov and H. Topol:
+* I. V. Andrianov and **H. Topol**:
 _Compatibility conditions: number of independent equations and boundary conditions_ (book chapter).
 I. Andrianov, S. Gluzman, and V. Mityushev (Editors):
 **Mechanics and Physics of Structured Media - Asymptotic and Integral Equations Methods of Leonid Filshtinsky, 123-140** (Academic Press, 2022).
@@ -117,47 +117,47 @@ _Uniaxial load analysis under stretch-dependent fiber remodeling applicable to c
 **J. Eng. Math. 95: 325-345** (2015).
 [[1]](https://doi.org/10.1007/s10665-014-9771-9)<br/> 
 
-* H. Topol and H. Demirkoparan:
+* **H. Topol** and H. Demirkoparan:
 _Evolution of the fiber density in biological tissues_,
 **Proc. Appl. Math. Mech. 14: 103-104** (2014).
 [[1]](https://doi.org/10.1002/pamm.201410039)<br/> 
 
-* H. Topol, H. Demirkoparan, T. J. Pence, and A. Wineman,
+* **H. Topol**, H. Demirkoparan, T. J. Pence, and A. Wineman,
 _A theory for deformation dependent evolution of continuous fiber distribution applicable to biological tissue remodeling_,
 [**IMA J. Appl. Math. 79: 947-977**](https://doi.org/10.1093/imamat/hxu027) (2014).<br/> 
 
-* I. V. Andrianov, V. I. Bolshakov, Y. Kirichek, and H. Topol:
+* I. V. Andrianov, V. I. Bolshakov, Y. Kirichek, and **H. Topol**:
 _Periodical solutions of certain strongly nonlinear wave equations_,
 [**AIP Conf. Proc. 1389: 442-44**](https://doi.org/10.1063/1.3636758) (2011).<br/> 
 
-* I. V. Andrianov, V. V. Danishevs’kyy, H. Topol, and D. Weichert:
+* I. V. Andrianov, V. V. Danishevs’kyy, **H. Topol** and D. Weichert:
 _Nonlinear elastic waves in a 1D layered composite material: some numerical results_,
 [**AIP Conf. Proc. 1389: 438-441**](https://doi.org/10.1063/1.3638045) (2011).<br/> 
 
-* I. V. Andrianov, V. V. Danishevs’kyy, H. Topol, and D. Weichert:
+* I. V. Andrianov, V. V. Danishevs’kyy, **H. Topol**, and D. Weichert:
 _Homogenization of a 1D nonlinear dynamical problem for periodic composites_,
 [**ZAMM - Z. Angew. Math. Meth. 91: 523-534**](https://doi.org/10.1002/zamm.201000176) (2011). <br/> 
 
-* I. V. Andrianov and H. Topol:
+* I. V. Andrianov and **H. Topol**:
 _Asymptotic analysis and synthesis in mechanics of solids and nonlinear dynamics_,
 [[1]](https://arxiv.org/abs/1106.1783)<br/> 
 
 
 ### 2009 - 2010
 
-* I. V. Andrianov, V. V. Danishevs’kyy, H. Topol, and D. Weichert:
+* I. V. Andrianov, V. V. Danishevs’kyy, **H. Topol**, and D. Weichert:
 _Nonlinear dynamic properties of layered composite material_,
 [**AIP Conf. Proc. 1281: 821-824**](https://doi.org/10.1063/1.3498612) (2010). <br/> 
 
 
-* I. V Andrianov, V. V. Danishevs’kyy, A. I. Ryzhkov, and H. Topol:
+* I. V Andrianov, V. V. Danishevs’kyy, A. I. Ryzhkov, and **H. Topol**:
 _Nonlinear elastic waves and dynamic properties of layered composite material_,
 **Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures, pp. 19-38
 (28-30 June 2010, Dnipropetrovs’k, Ukraine)**,
 Editors: V.I. Bolshakov and D. Weichert,
  [[1]](https://publications.rwth-aachen.de/record/47661)<br/> 
 
-* I. V. Andrianov, V. V. Danishevs’kyy, and H. Topol:
+* I. V. Andrianov, V. V. Danishevs’kyy, and **H. Topol**:
 _Asymptotic homogenization for periodic composite materials with imperfect bonding conditions_,
 **Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures, pp. 39-46
 (28-30 June 2010, Dnipropetrovs’k, Ukraine)**,
