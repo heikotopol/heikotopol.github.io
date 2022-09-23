@@ -124,23 +124,19 @@ _Evolution of the fiber density in biological tissues_,
 
 * H. Topol, H. Demirkoparan, T. J. Pence, and A. Wineman,
 _A theory for deformation dependent evolution of continuous fiber distribution applicable to biological tissue remodeling_,
-**IMA J. Appl. Math. 79: 947-977** (2014).
-[[1]](https://doi.org/10.1093/imamat/hxu027)<br/> 
+[**IMA J. Appl. Math. 79: 947-977**](https://doi.org/10.1093/imamat/hxu027) (2014).<br/> 
 
 * I. V. Andrianov, V. I. Bolshakov, Y. Kirichek, and H. Topol:
 _Periodical solutions of certain strongly nonlinear wave equations_,
-**AIP Conf. Proc. 1389: 442-44** (2011).
-[[1]](https://doi.org/10.1063/1.3636758)<br/> 
+[**AIP Conf. Proc. 1389: 442-44**](https://doi.org/10.1063/1.3636758) (2011).<br/> 
 
 * I. V. Andrianov, V. V. Danishevs’kyy, H. Topol, and D. Weichert:
 _Nonlinear elastic waves in a 1D layered composite material: some numerical results_,
-**AIP Conf. Proc. 1389: 438-441** (2011).
-[[1]](https://doi.org/10.1063/1.3638045)<br/> 
+[**AIP Conf. Proc. 1389: 438-441**](https://doi.org/10.1063/1.3638045) (2011).<br/> 
 
 * I. V. Andrianov, V. V. Danishevs’kyy, H. Topol, and D. Weichert:
 _Homogenization of a 1D nonlinear dynamical problem for periodic composites_,
-**ZAMM - Z. Angew. Math. Meth. 91: 523-534** (2011). 
-[[1]](https://doi.org/10.1002/zamm.201000176)<br/> 
+[**ZAMM - Z. Angew. Math. Meth. 91: 523-534**](https://doi.org/10.1002/zamm.201000176) (2011). <br/> 
 
 * I. V. Andrianov and H. Topol:
 _Asymptotic analysis and synthesis in mechanics of solids and nonlinear dynamics_,
@@ -151,8 +147,7 @@ _Asymptotic analysis and synthesis in mechanics of solids and nonlinear dynamics
 
 * I. V. Andrianov, V. V. Danishevs’kyy, H. Topol, and D. Weichert:
 _Nonlinear dynamic properties of layered composite material_,
-**AIP Conf. Proc. 1281: 821-824** (2010),
-Download: [[1]](https://doi.org/10.1063/1.3498612)<br/> 
+[**AIP Conf. Proc. 1281: 821-824**](https://doi.org/10.1063/1.3498612) (2010). <br/> 
 
 
 * I. V Andrianov, V. V. Danishevs’kyy, A. I. Ryzhkov, and H. Topol:
@@ -169,12 +164,10 @@ _Asymptotic homogenization for periodic composite materials with imperfect bondi
 Editors: V.I. Bolshakov and D. Weichert. 
 [[1]](https://publications.rwth-aachen.de/record/47661)<br/> 
 
-* I. V. Andrianov, V. V. Danishevs’kyy, H. Topol, and D. Weichert:
+* I. V. Andrianov, V. V. Danishevs’kyy, **H. Topol**, and D. Weichert:
 _Shear wave dispersion in viscoelastic composite with elastic parallelepiped inclusions_,
-**AIP Conf. Proc. 1168: 848-851** (2009). 
-[[1]](https://doi.org/10.1063/1.3241611)<br/> 
+[**AIP Conf. Proc. 1168: 848-851**](https://doi.org/10.1063/1.3241611) (2009). <br/> 
 
-* I. V. Andrianov, H. Topol, and D. Weichert:
+* I. V. Andrianov, **H. Topol**, and D. Weichert:
 _Load transfer in fibre-reinforced composites with viscoelastic matrix: an analytical study_,
-**Arch. Appl. Mech. 79: 999-1007** (2009). 
-[[1]](https://doi.org/10.1007/s00419-008-0265-y)<br/> 
+[**Arch. Appl. Mech. 79: 999-1007**](https://doi.org/10.1007/s00419-008-0265-y) (2009). <br/> 
