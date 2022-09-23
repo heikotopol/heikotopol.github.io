@@ -40,8 +40,7 @@ _On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes und
 
 * H. Topol, H. Demirkoparan, and T. J. Pence:
  _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_,
-**Appl. Mech. Rev. 73: 050802** (2021).
-[[1]](https://doi.org/10.1115/1.4052752)<br/>
+[**Appl. Mech. Rev. 73: 050802**](https://doi.org/10.1115/1.4052752) (2021)<br/>
 
  * H. Topol, H. Demirkoparan, and T. J. Pence:
  _Modeling Stretch-Dependent Collagen Fiber Density_,
