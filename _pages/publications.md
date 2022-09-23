@@ -22,8 +22,7 @@ _Bifurcation of Fiber-Reinforced Cylindrical Membranes under Extension, Inflatio
 
 * **H. Topol**, N. K. Jha, H. Demirkoparan, M. Stoffel, J. Merodio:
 _Bulging of inflated membranes made of fiber reinforced materials with different natural configurations_,
-[**Eur. J. Mech. A/Solids 96, 104670**](https://doi.org/10.1016/j.euromechsol.2022.104670) (2022, **Open Access**).
-pdf [[2]](https://www.sciencedirect.com/science/article/pii/S0997753822001310/pdfft?md5=6df60cf0761f4d77b9854bd04cf33848&pid=1-s2.0-S0997753822001310-main.pdf)<br/> 
+[**Eur. J. Mech. A/Solids 96, 104670**](https://doi.org/10.1016/j.euromechsol.2022.104670) (2022, [**Open Access**](https://www.sciencedirect.com/science/article/pii/S0997753822001310/pdfft?md5=6df60cf0761f4d77b9854bd04cf33848&pid=1-s2.0-S0997753822001310-main.pdf)).
 
 * I. V. Andrianov and H. Topol:
 _Compatibility conditions: number of independent equations and boundary conditions_ (book chapter).
@@ -44,8 +43,7 @@ _On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes und
 
  * H. Topol, H. Demirkoparan, and T. J. Pence:
  _Modeling Stretch-Dependent Collagen Fiber Density_,
- **Mech. Res. Commun. 116: 103740** (2021, **Open Access**).
- [[1]](https://doi.org/10.1016/j.mechrescom.2021.103740), pdf [[2]](https://www.sciencedirect.com/science/article/pii/S0093641321000835/pdfft?md5=3688332b762eb2c887acc85575dc2f4f&pid=1-s2.0-S0093641321000835-main.pdf)<br/>
+ [**Mech. Res. Commun. 116: 103740**](https://doi.org/10.1016/j.mechrescom.2021.103740) (2021, [**Open Access**](https://www.sciencedirect.com/science/article/pii/S0093641321000835/pdfft?md5=3688332b762eb2c887acc85575dc2f4f&pid=1-s2.0-S0093641321000835-main.pdf)).
 
 * H. Topol, M. J. Al-Chlaihawi, H. Demirkoparan, and J. Merodio:
 _Bulging initiation and propagation in fiber reinforced swellable Mooney-Rivlin membranes_,
