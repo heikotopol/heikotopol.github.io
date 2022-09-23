@@ -22,8 +22,8 @@ _Bifurcation of Fiber-Reinforced Cylindrical Membranes under Extension, Inflatio
 
 * H. Topol, N. K. Jha, H. Demirkoparan, M. Stoffel, J. Merodio:
 _Bulging of inflated membranes made of fiber reinforced materials with different natural configurations_,
-**Eur. J. Mech. A/Solids 96, 104670** (2022, **Open Access**).
-[[1]](https://doi.org/10.1016/j.euromechsol.2022.104670), pdf [[2]](https://www.sciencedirect.com/science/article/pii/S0997753822001310/pdfft?md5=6df60cf0761f4d77b9854bd04cf33848&pid=1-s2.0-S0997753822001310-main.pdf)<br/> 
+[**Eur. J. Mech. A/Solids 96, 104670**](https://doi.org/10.1016/j.euromechsol.2022.104670) (2022, **Open Access**).
+pdf [[2]](https://www.sciencedirect.com/science/article/pii/S0997753822001310/pdfft?md5=6df60cf0761f4d77b9854bd04cf33848&pid=1-s2.0-S0997753822001310-main.pdf)<br/> 
 
 * I. V. Andrianov and H. Topol:
 _Compatibility conditions: number of independent equations and boundary conditions_ (book chapter).
