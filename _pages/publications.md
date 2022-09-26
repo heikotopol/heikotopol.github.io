@@ -65,8 +65,7 @@ _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,
 
 * K. Gou, <ins>H. Topol</ins>, H. Demirkoparan, T. J. Pence:
  _Stress-swelling finite element modeling of cervical response with homeostatic collagen fiber distributions_,
- **J. Biomech. Eng. - Trans. ASME 142: 081002** (2020).
-[[1]](https://doi.org/10.1115/1.4045810), PubMed  [[2]](https://pubmed.ncbi.nlm.nih.gov/3189======1375/)
+ [**J. Biomech. Eng. - Trans. ASME 142: 081002**](https://doi.org/10.1115/1.4045810) (2020). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31891375/)
 
 * <ins>H. Topol</ins>, H. Demirkoparan, T. J. Pence:
 _Morphoelastic fiber remodeling in pressurized thick-walled cylinders with application to soft tissue collagenous tubes_,
@@ -76,7 +75,7 @@ _Morphoelastic fiber remodeling in pressurized thick-walled cylinders with appli
 * <ins>H. Topol</ins>, K. Gou, H. Demirkoparan, and T. J. Pence:
  _Hyperelastic modeling of the combined effects of tissue swelling and deformation-related collagen renewal in fibrous soft tissue_,
 **Biomech. Model. Mechanobiol. 17:1543-1567** (2018).
-[[1]](https://doi.org/10.1007/s10237-018-1043-6), PubMed [[2]](https://pubmed.ncbi.nlm.nih.gov/29931486/)<br/>
+[[1]](https://doi.org/10.1007/s10237-018-1043-6), [PubMed](https://pubmed.ncbi.nlm.nih.gov/29931486/)<br/>
 
 * V. Zamani, T. J. Pence, H. Demirkoparan, and <ins>H. Topol</ins>:
 _Hyperelastic Models for the Swelling of Soft Material Plugs in Confined Spaces_,
@@ -95,7 +94,7 @@ _Asymptotic analysis of heat transfer in composite materials with nonlinear ther
 
 * <ins>H. Topol</ins>, H. Demirkoparan, T. J. Pence, and A. Wineman,
 _Time-Evolving Collagen-Like Structural Fibers in Soft Tissues: Biaxial Loading and Spherical Inflation_,
-[**Mech. Time-Depend. Mat. 21: 1-29**](https://doi.org/10.1007/s11043-016-9315-y)< (2017).
+[**Mech. Time-Depend. Mat. 21: 1-29**](https://doi.org/10.1007/s11043-016-9315-y) (2017).
 <br/> 
 
 * I. V. Andrianov, V. V. Danishevskyy, <ins>H. Topol</ins>, and G. A. Rogerson:
