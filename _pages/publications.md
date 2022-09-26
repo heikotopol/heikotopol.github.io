@@ -17,8 +17,7 @@ submitted to **PAMM - Proc. Appl. Math. Mech.** on 4 September 2022.
 
 * <ins>H. Topol</ins>, M. Al-Chlaihawi, H. Demirkoparan, J. Merodio:
 _Bifurcation of Fiber-Reinforced Cylindrical Membranes under Extension, Inflation, and Swelling_,
-**J. Appl. Comput. Mech.** (2022, **Open Access**, online first).
-[[1]](https://doi.org/10.22055/JACM.2022.40949.3677), pdf [[2]](https://jacm.scu.ac.ir/article_17657_288228a757d0f496e01686ab2db59de3.pdf)<br/> 
+[**J. Appl. Comput. Mech.**](https://doi.org/10.22055/JACM.2022.40949.3677) (2022, [**Open Access**](https://jacm.scu.ac.ir/article_17657_288228a757d0f496e01686ab2db59de3.pdf), online first).<br/> 
 
 * <ins>H. Topol</ins>, N. K. Jha, H. Demirkoparan, M. Stoffel, J. Merodio:
 _Bulging of inflated membranes made of fiber reinforced materials with different natural configurations_,
@@ -27,15 +26,13 @@ _Bulging of inflated membranes made of fiber reinforced materials with different
 * I. V. Andrianov and <ins>H. Topol</ins>:
 _Compatibility conditions: number of independent equations and boundary conditions_ (book chapter).
 I. Andrianov, S. Gluzman, and V. Mityushev (Editors):
-**Mechanics and Physics of Structured Media - Asymptotic and Integral Equations Methods of Leonid Filshtinsky, 123-140** (Academic Press, 2022).
+[**Mechanics and Physics of Structured Media - Asymptotic and Integral Equations Methods of Leonid Filshtinsky, 123-140**](https://doi.org/10.1016/B978-0-32-390543-5.00011-6)  (Academic Press, 2022).
 Book [[1]](https://www.elsevier.com/books/mechanics-and-physics-of-structured-media/andrianov/978-0-323-90543-5),
-[[2]](https://www.sciencedirect.com/book/9780323905435/mechanics-and-physics-of-structured-media).
-Chapter [[3]](https://doi.org/10.1016/B978-0-32-390543-5.00011-6) <br/> 
+[[2]](https://www.sciencedirect.com/book/9780323905435/mechanics-and-physics-of-structured-media).<br/> 
 
 * M. J. Al-Chlaihawi, <ins>H. Topol</ins>, H. Demirkoparan, and J. Merodio: 
 _On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes under Swelling with Application to Aortic Aneurysms_, 
-**Math. Mech. Solids** (First Published Online, 29 December 2021).
-[[1]](https://doi.org/10.1177/10812865211058767)<br/>
+[**Math. Mech. Solids**](https://doi.org/10.1177/10812865211058767) (First Published Online, 29 December 2021).<br/>
 
 * <ins>H. Topol</ins>, H. Demirkoparan, and T. J. Pence:
  _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_,
@@ -47,21 +44,18 @@ _On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes und
 
 * <ins>H. Topol</ins>, M. J. Al-Chlaihawi, H. Demirkoparan, and J. Merodio:
 _Bulging initiation and propagation in fiber reinforced swellable Mooney-Rivlin membranes_,
-**J. Eng. Math. 128: 8** (2021, **Open Access**).
- [[1]](https://doi.org/10.1007/s10665-021-10123-5), pdf [[2]](https://link.springer.com/content/pdf/10.1007/s10665-021-10123-5.pdf)<br/>
+[**J. Eng. Math. 128: 8**](https://doi.org/10.1007/s10665-021-10123-5) (2021, [**Open Access**](https://link.springer.com/content/pdf/10.1007/s10665-021-10123-5.pdf)).<br/>
 
 * <ins>H. Topol</ins>, H. Demirkoparan, and T. J. Pence:
 _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,
- **J. Mech. Behav. Biomed. Mater. 113: 104154** (2021, **Open Access**).
- [[1]](https://doi.org/10.1016/j.jmbbm.2020.104154), PubMed [[2]](https://pubmed.ncbi.nlm.nih.gov/33158790/), pdf [[3]](https://www.sciencedirect.com/science/article/pii/S1751616120306974/pdfft?md5=cc084c8cb037590a03ce8f0ba960b514&pid=1-s2.0-S1751616120306974-main.pdf)<br/>
+ [**J. Mech. Behav. Biomed. Mater. 113: 104154**](https://doi.org/10.1016/j.jmbbm.2020.104154) (2021, [**Open Access**](https://www.sciencedirect.com/science/article/pii/S1751616120306974/pdfft?md5=cc084c8cb037590a03ce8f0ba960b514&pid=1-s2.0-S1751616120306974-main.pdf)). [PubMed](https://pubmed.ncbi.nlm.nih.gov/33158790/), <br/>
  
 
 ### 2016 - 2020
 
 * I. V. Andrianov, V. V. Danishevskyy, and <ins>H. Topol</ins>:
  _Local stress distribution in composites for pulled-out fibers with axially varying bonding_,
- **Acta Mech. 231: 2065-2083** (2020, **Open Access**). 
-[[1]](https://doi.org/10.1007/s00707-020-02634-6)<br/>
+ [**Acta Mech. 231: 2065-2083**](https://doi.org/10.1007/s00707-020-02634-6) (2020, [**Open Access**](https://link.springer.com/content/pdf/10.1007/s00707-020-02634-6.pdf)).<br/>
 
 * K. Gou, <ins>H. Topol</ins>, H. Demirkoparan, T. J. Pence:
  _Stress-swelling finite element modeling of cervical response with homeostatic collagen fiber distributions_,
@@ -69,40 +63,33 @@ _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,
 
 * <ins>H. Topol</ins>, H. Demirkoparan, T. J. Pence:
 _Morphoelastic fiber remodeling in pressurized thick-walled cylinders with application to soft tissue collagenous tubes_,
-[**Eur. J. Mech. A/Solids 77: 103800**](https://doi.org/10.1016/j.euromechsol.2019.103800) (2019).
-<br/>
+[**Eur. J. Mech. A/Solids 77: 103800**](https://doi.org/10.1016/j.euromechsol.2019.103800) (2019).<br/>
 
 * <ins>H. Topol</ins>, K. Gou, H. Demirkoparan, and T. J. Pence:
  _Hyperelastic modeling of the combined effects of tissue swelling and deformation-related collagen renewal in fibrous soft tissue_,
-**Biomech. Model. Mechanobiol. 17:1543-1567** (2018).
-[[1]](https://doi.org/10.1007/s10237-018-1043-6), [PubMed](https://pubmed.ncbi.nlm.nih.gov/29931486/)<br/>
+[**Biomech. Model. Mechanobiol. 17:1543-1567**](https://doi.org/10.1007/s10237-018-1043-6) (2018).
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/29931486/)<br/>
 
 * V. Zamani, T. J. Pence, H. Demirkoparan, and <ins>H. Topol</ins>:
 _Hyperelastic Models for the Swelling of Soft Material Plugs in Confined Spaces_,
-[**Int. J. Nonlin. Mech. 106: 297-309**](https://doi.org/10.1016/j.ijnonlinmec.2018.04.010) (2018).
-<br/>
+[**Int. J. Nonlin. Mech. 106: 297-309**](https://doi.org/10.1016/j.ijnonlinmec.2018.04.010) (2018).<br/>
 
 * I. V. Andrianov, V. V. Danishevskyy, <ins>H. Topol</ins>, and A. S. Luyt:
 _Shear wave propagation in layered composites with degraded matrices at locations of imperfect bonding_,
-[**Wave Motion 78: 9-31**](https://doi.org/10.1016/j.wavemoti.2017.12.007) (2018).
-<br/> 
+[**Wave Motion 78: 9-31**](https://doi.org/10.1016/j.wavemoti.2017.12.007) (2018).<br/> 
 
 * I. V. Andrianov, <ins>H. Topol</ins>, and V. V. Danishevskyy:
 _Asymptotic analysis of heat transfer in composite materials with nonlinear thermal properties_,
-[**Int. J. Heat Mass Transfer 111: 736-754**](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124) (2017).
-<br/> 
+[**Int. J. Heat Mass Transfer 111: 736-754**](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124) (2017). <br/> 
 
 * <ins>H. Topol</ins>, H. Demirkoparan, T. J. Pence, and A. Wineman,
 _Time-Evolving Collagen-Like Structural Fibers in Soft Tissues: Biaxial Loading and Spherical Inflation_,
-[**Mech. Time-Depend. Mat. 21: 1-29**](https://doi.org/10.1007/s11043-016-9315-y) (2017).
-<br/> 
+[**Mech. Time-Depend. Mat. 21: 1-29**](https://doi.org/10.1007/s11043-016-9315-y) (2017).<br/> 
 
 * I. V. Andrianov, V. V. Danishevskyy, <ins>H. Topol</ins>, and G. A. Rogerson:
 _Propagation of Floquet-Bloch shear waves in viscoelastic composites: analysis and comparison of
 interface/interphase models for imperfect bonding_,
-[**Acta Mech. 228: 1177-1196**](https://doi.org/10.1007/s00707-016-1765-4) (2017).
-<br/> 
-
+[**Acta Mech. 228: 1177-1196**](https://doi.org/10.1007/s00707-016-1765-4) (2017).<br/> 
 
 ### 2011 - 2015
 
