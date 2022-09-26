@@ -15,7 +15,7 @@ submitted to **PAMM - Proc. Appl. Math. Mech.** on 4 September 2022.
 
 ### 2021 - now
 
-* H. Topol, M. Al-Chlaihawi, H. Demirkoparan, J. Merodio:
+* <ins>H. Topol</ins>, M. Al-Chlaihawi, H. Demirkoparan, J. Merodio:
 _Bifurcation of Fiber-Reinforced Cylindrical Membranes under Extension, Inflation, and Swelling_,
 **J. Appl. Comput. Mech.** (2022, **Open Access**, online first).
 [[1]](https://doi.org/10.22055/JACM.2022.40949.3677), pdf [[2]](https://jacm.scu.ac.ir/article_17657_288228a757d0f496e01686ab2db59de3.pdf)<br/> 
