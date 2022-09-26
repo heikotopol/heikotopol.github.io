@@ -7,7 +7,7 @@ author_profile: true
 
 ## Submitted Works
 
-* H. Topol, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio: 
+* <ins>H. Topol</ins>, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio: 
 _Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_,
 submitted to **PAMM - Proc. Appl. Math. Mech.** on 4 September 2022.
 
