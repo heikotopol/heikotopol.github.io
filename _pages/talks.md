@@ -5,44 +5,46 @@ permalink: /talks/
 author_profile: true
 ---
 
+The name of the presenting person is underlined:
+
 ### 2021 - now
 
-* H. Topol, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio:<br/>
+* <ins>H. Topol</ins>, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio:<br/>
 _Bifurcation of fiber-reinforced inflated membranes with different natural configu_,<br/>
 [**92nd Annual Meeting of GAMM**](https://jahrestagung.gamm-ev.de/annual-meeting-2022/annual-meeting/),<br/>
 Aachen, Germany, 15-19 August 2022
 
-* K. Brenzel, N. Wilmanns, L. Johnen, M. Praster, M. Röhrig, H. Topol, B. Markert, M. Stoffel:<br/>
+* <ins>K. Brenzel</ins>, N. Wilmanns, L. Johnen, M. Praster, M. Röhrig, H. Topol, B. Markert, M. Stoffel:<br/>
 _Extension of an in vitro spine test rig to track loaddependent biomechanics of the lumbar spine under
 physiological conditions_,<br/>
 [**92nd Annual Meeting of GAMM**](https://jahrestagung.gamm-ev.de/annual-meeting-2022/annual-meeting/),<br/>
 Aachen, Germany, 15-19 August 2022
 
-* R. Salazar Ortiz, G. Dursun, H. Topol, B. Markert, M. Stoffel:<br/>
+* <ins>R. Salazar Ortiz</ins>, G. Dursun, H. Topol, B. Markert, M. Stoffel:<br/>
 _Migration and remodeling in cartilage replacement materials – an in-vitro bioreactor
 study_,<br/>
 [**92nd Annual Meeting of GAMM**](https://jahrestagung.gamm-ev.de/annual-meeting-2022/annual-meeting/),<br/>
 Aachen, Germany, 15-19 August 2022
 
-* H. Topol:<br/>
+* <ins>H. Topol</ins>:<br/>
 _Collagen Remodeling in Swelling Soft Tissue_,<br/>
 **IAM Winter Talk 2021/2022**,<br/>
 Aachen, Germany, 26 Nov 2021<br/>
 
 ### 2016 - 2020
 
-* H. Topol, H. Demirkoparan, T.J. Pence:<br/>
+* <ins>H. Topol</ins>, H. Demirkoparan, T.J. Pence:<br/>
 _Morphoelastic remodeling of collagenous fibers under cyclic loading_,<br/>
 **The Multiscale Spectrum of Constitutive Modeling in Solid Mechanics (hosted by CIEM)**,<br/>
 Castro Urdiales, Spain, 01-05 July 2019<br/>
 
-* H. Topol, H. Demirkoparan, T.J. Pence:<br/>
+* <ins>H. Topol</ins>, H. Demirkoparan, T.J. Pence:<br/>
 _Modeling Collagenous Soft Tissue_,<br/>
 **General seminar on the QNRF-funded project “New mathematical models for the large strain swelling
 response of biological tissues: Applications to Edema, Inflammation, and Pregnancy” (NPRP 8-2424-1-477)**,<br/>
 Doha, Qatar, 14 October 2018
 
-* H. Topol, H. Demirkoparan, T.J. Pence:<br/>
+* <ins>H. Topol</ins>, H. Demirkoparan, T.J. Pence:<br/>
 _Stretch-dependent remodeling of collagen-like dispersed fibers_,<br/>
 **[10th European Solid Mechanics Conference (ESMC)](https://euromech.org/conferences/ESMC/ESMC10)**,<br/>
 Bologna, Italy, 02-06 July 2018
@@ -52,7 +54,7 @@ _Swelling induced shearing twist in a transversely isotropic hyperelastic annulu
 **[10th European Solid Mechanics Conference (ESMC)](https://euromech.org/conferences/ESMC/ESMC10)**,<br/>
 Bologna, Italy, 02-06 July 2018<br/>
 
-* H. Topol, H. Demirkoparan, T.J. Pence:<br/>
+* <ins>H. Topol</ins>, H. Demirkoparan, T.J. Pence:<br/>
 _Fiber-Stretch Related Remodeling-Processes Applicable to Dispersed Collagen Fiber-Networks_,<br/>
 **18th U.S. National Congress on Theoretical and Applied Mechanics**,<br/>
 Chicago, USA, 04-09 June 2018<br/>
