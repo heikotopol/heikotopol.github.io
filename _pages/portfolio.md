@@ -22,7 +22,7 @@ Biological soft tissues are complex structures, which are composed of  multiple 
 In the framework of my research I considered tissue models that consist of a mixture of a _ground substance material_ and embedded _collagenous fibers_.
 The macroscopic properties of the material result from the elastic properties of the constituents, the geometry of the considered problem, the arrangement of the fibers in the ground substance, and the interplay of the constitutents.
 
-**Strain-stabilization of collagen to enzymatic degradation:**
+* **Strain-stabilization of collagen to enzymatic degradation:**
 In the framework of my research I considered tissue models that consist of a mixture of a _ground substance material_ and embedded _collagenous fibers_.
 Motivated by experiments that have observed the strain stabilization of collagen to enzymatic degradation  (see the review article by [Topol et al. (2021d)](https://doi.org/10.1115/1.4052752)),
 my work focuses on  fiber models that are applicable to collagenous tissues, which undergo _continuous mechano-sensitive remodeling processes_.
@@ -31,7 +31,7 @@ The relation between stress and deformation has then been explored for uniaxial 
 A study applied the remodeling model to pressurized thick-walled tubes applicable to the modeling of blood vessels ([Topol et al. (2019)](https://doi.org/10.1016/j.euromechsol.2019.103800)).
 ![Degradation](/images/PMAN3.png)
 
-**Swelling-induced remodeling processes:** 
+* **Swelling-induced remodeling processes:** 
 In soft biological tissue, swelling is a common process that affects the collagen fiber remodeling. The modeling framework is in the context of large (finite) deformation continuum mechanics in order to address situations in which the swelling causes the tissue to exhibit significant volume change.
 I had to goal to apply the theory of swellable materials to the fiber remodeling theory.
 In [Topol et al. (2018)](https://doi.org/10.1007/s10237-018-1043-6), my collaborators and I presented a hyperelastic modeling framework of the combined effects of tissue swelling and
@@ -41,7 +41,7 @@ The numerical calculations were carried out in an in-house _MatLAB_ code,
 which had been continuously extended  with the complexity of the investigated problem ([Gou el al. (2020)](https://doi.org/10.1115/1.4045810)).
 
 
-**Bounded fiber lifespans:**
+* **Bounded fiber lifespans:**
 In the previously mentioned articles on modeling of collagen remodeling, the theoretical upper collagen lifespan was unbounded.
 [Topol et al. (2021a)](https://doi.org/10.1016/j.jmbbm.2020.104154) limit this theoretical upper bound of the fiber lifespan to the finite limit, and it has been shown that the presented model can sufficiently describe observations from experiments on strain stabilization.
 The follow-up work by [Topol et al. (2021b)](https://doi.org/10.1016/j.mechrescom.2021.103740) elaborates on the interplay between different phenomena in the approach, attainment, and abatement of fiber density minima and maxima. In particular, that article shows how the deferral of stress considerations enables an appreciation of how the collagen density is governed by all of the following: the amount of the overall material deformation, the fiber pre-stretch, and the competing time scales at which the various processes of fiber creation and stretch mediated dissolution act at the microscale.
@@ -55,8 +55,9 @@ This motivation many researchers to develop models that capture the formation, d
 The geometry, mechanical properties, and numerous biochemical processes play an important role in the formation of dilatations in arteries.
 My work studies instabilities in loaded and inflated cylinders with the application to the formation and propagation of aneurysms in arterial wall tissue.
 
+* **Swelling & Fibrous Materials:**
 The initiation and propagation of bulging in fiber reinforced swellable Mooney-Rivlin membranes has been studied by
-[Topol et al. (2021c)](https://doi.org/10.1007/s10665-021-10123-5). Further bifircation modes - prismatic and bending bifurcation - of fiber reinforced elastic and swellable membranes have been treated by [Al-Chlaihawi et al. (2021)](https://doi.org/10.1177/10812865211058767).
+[Topol et al. (2021c)](https://doi.org/10.1007/s10665-021-10123-5). Further bifircation modes - prismatic and bending bifurcation - of fiber reinforced elastic and swellable membranes have been treated by [Al-Chlaihawi et al. (2021)](https://doi.org/10.1177/10812865211058767) and [Topol et al. (2022b)](https://doi.org/10.22055/JACM.2022.40949.3677).
 ![Degradation](/images/Fig1turnedaNEW.png)
 <br/>
 <br/>
