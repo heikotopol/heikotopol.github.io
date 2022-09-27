@@ -16,28 +16,25 @@ Welcome to my private page. I develop mathematical models, which describe the me
 
 ## Selected Publications 
 
-* H. Topol, N. K. Jha, H. Demirkoparan, M. Stoffel, J. Merodio:
+* <ins>H. Topol</ins>, N. K. Jha, H. Demirkoparan, M. Stoffel, J. Merodio:
 _Bulging of inflated membranes made of fiber reinforced materials with different natural configurations_,
-**Eur. J. Mech. A/Solids** (First Published Online, 3 June 2022).
-[[1]](https://doi.org/10.1016/j.euromechsol.2022.104670)<br/> 
+[**Eur. J. Mech. A/Solids 96, 104670**](https://doi.org/10.1016/j.euromechsol.2022.104670) (2022, [**Open Access**](https://www.sciencedirect.com/science/article/pii/S0997753822001310/pdfft?md5=6df60cf0761f4d77b9854bd04cf33848&pid=1-s2.0-S0997753822001310-main.pdf)).
 
-* H. Topol, H. Demirkoparan, and T. J. Pence: 
- _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_, 
-**Appl. Mech. Rev. 73: 050802** (2021). [[1]](https://doi.org/10.1115/1.4052752)<br/>
+* <ins>H. Topol</ins>, H. Demirkoparan, and T. J. Pence:
+ _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_,
+[**Appl. Mech. Rev. 73: 050802**](https://doi.org/10.1115/1.4052752) (2021)<br/>
 
-* H. Topol, H. Demirkoparan, T. J. Pence:
+* <ins>H. Topol</ins>, H. Demirkoparan, T. J. Pence:
 _Morphoelastic fiber remodeling in pressurized thick-walled cylinders with application to soft tissue collagenous tubes_,
-**Eur. J. Mech. A/Solids 77: 103800** (2019).
-[[1]](https://doi.org/10.1016/j.euromechsol.2019.103800)
+[**Eur. J. Mech. A/Solids 77: 103800**](https://doi.org/10.1016/j.euromechsol.2019.103800) (2019).<br/>
 
-* H. Topol, K. Gou, H. Demirkoparan, and T. J. Pence:
+* <ins>H. Topol</ins>, K. Gou, H. Demirkoparan, and T. J. Pence:
  _Hyperelastic modeling of the combined effects of tissue swelling and deformation-related collagen renewal in fibrous soft tissue_,
-**Biomech. Model. Mechanobiol. 17:1543-1567** (2018).
-  [[1]](https://doi.org/10.1007/s10237-018-1043-6),  [[2]](https://pubmed.ncbi.nlm.nih.gov/29931486/)<br/>
+[**Biomech. Model. Mechanobiol. 17:1543-1567**](https://doi.org/10.1007/s10237-018-1043-6) (2018).
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/29931486/)<br/>
 
-* I. V. Andrianov, H. Topol, and V. V. Danishevskyy:
+* I. V. Andrianov, <ins>H. Topol</ins>, and V. V. Danishevskyy:
 _Asymptotic analysis of heat transfer in composite materials with nonlinear thermal properties_,
-**Int. J. Heat Mass Transfer 111: 736-754** (2017).
- [[1]](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124)<br/> 
+[**Int. J. Heat Mass Transfer 111: 736-754**](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124) (2017). <br/> 
 
 
