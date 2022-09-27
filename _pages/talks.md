@@ -59,12 +59,12 @@ _Fiber-Stretch Related Remodeling-Processes Applicable to Dispersed Collagen Fib
 **18th U.S. National Congress on Theoretical and Applied Mechanics**,<br/>
 Chicago, USA, 04-09 June 2018<br/>
 
-* V. Zamani, T. J. Pence, H. Demirkoparan, and H. Topol:<br/>
+* V. Zamani, <ins>T. J. Pence</ins>, H. Demirkoparan, and H. Topol:<br/>
 _Hyperelastic Swelling of Confined Channel Plugs – a Paradigm for a Simple Valve_,<br/>
 **18th U.S. National Congress on Theoretical and Applied Mechanics**,<br/>
 Chicago, USA, 04-09 June 2018<br/>
 
-* H. Topol:<br/>
+* <ins>H. Topol</ins>,:<br/>
 _Mechanical Modeling of Composites in a Continuum Mechanics Framework_,<br/>
 **CAM - Qatar University Seminar**,
 Doha, Qatar, 18 May 2016<br/>
@@ -148,12 +148,12 @@ _Asymptotic homogenization for periodic composite materials with imperfect bondi
 **Advanced Problems in Mechanics of Heterogeneous Media and Thin-Walled Structures**,<br/>
 Dnipropetrovs’k, Ukraine, 28-30 June 2010<br/>
 
-* I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
+* <ins>I.V. Andrianov</ins>, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
 _Shear wave dispersion in viscoelastic composite with elastic parallelepiped inclusions_,<br/>
 **[ICNAAM 2009](http://history.icnaam.org/icnaam_2009/index.htm)**,<br/>
 Crete, Greece, 18-22 Sept. 2009<br/>
 
-* I.V. Andrianov, H. Topol, and D. Weichert:<br/>
+* I.V. Andrianov, <ins>H. Topol</ins>, and D. Weichert:<br/>
 _Analytical study of the viscoelastic fibre-reinforced composite materials_,<br/>
 **Workshop Composite-Forschung in der Mechanik (Engl.: Workshop composite research in mechanics)**,<br/>
 Bad Herrenalb, Germany, 01-03 Dec. 2008
