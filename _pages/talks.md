@@ -135,7 +135,7 @@ Warsaw, Poland, Sept. 2010<br/>
 
 * I.V. Andrianov, V.V. Danishevs’kyy, H. Topol, and D. Weichert:<br/>
 _Localization of nonlinear elastic waves in 1D periodic composite material_,<br/>
-**ENOC 2011**,<br/>
+[**ENOC7 - 7th European Nonlinear Oscillations Conference**](https://euromech.org/conferences/ENOC/ENOC7),<br/>
 Rome, Italy, 24-29 July 2010<br/>
 
 * I. V Andrianov, V. V. Danishevs’kyy, A. I. Ryzhkov, and H. Topol:<br/>
