@@ -14,7 +14,7 @@ In the framework of my research I considered tissue models that consist of a mix
 The macroscopic properties of the material result from the elastic properties of the constituents, the geometry of the considered problem, the arrangement of the fibers in the ground substance, and the interplay of the constitutents.
 -->
 
-<!---Under construction...-->
+Under construction...
 
 <!---
 ## 1. Nonlinear Behavior of Fibrous Soft Tissue
