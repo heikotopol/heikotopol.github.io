@@ -4,16 +4,24 @@ title: ""
 permalink: /portfolio/
 author_profile: true
 ---
+<!---
+## Mechanoregulated Redemodeling of Fibrous Tissue
 
+My research deals with the mathematical modeling of biological tissues.
+Biological soft tissues are complex structures, which are composed of  multiple components with different functions and properties. 
+In the framework of my research I considered tissue models that consist of a mixture of a _ground substance material_ and embedded _collagenous fibers_.
+The macroscopic properties of the material result from the elastic properties of the constituents, the geometry of the considered problem, the arrangement of the fibers in the ground substance, and the interplay of the constitutents.
+-->
 
 <!---Under construction...-->
 
-
+<!---
 ## 1. Nonlinear Behavior of Fibrous Soft Tissue
 
 _Biomechanics_ is the study of the mechanical properties, the function, and the motion of biological systems.
 This field of science combines different aspects of engineering and biology in order to gain a deeper insight into the properties of living materials.
 My biomechanics interests involve the mechanoregulated remodeling of collagen fibers and the bifurcation of pressurized cylinders.
+In the framework of my research I considered tissue models that consist of a mixtuIn the framework of my research I considered tissue models that consist of a mixture of a _ground substance material_ and embedded _collagenous fibers_.re of a _ground substance material_ and embedded _collagenous fibers_.
 
 ### 1.1 Mechanoregulated remodeling of collagen fibers
 
@@ -87,4 +95,4 @@ an efficient use of composites.
 There are different techniques at account for imperfect bonding between constituents ([Andrianov et al. (2011)](https://doi.org/10.1007/s00419-008-0265-y), [Andrianov et al. (2018)](https://doi.org/10.1016/j.wavemoti.2017.12.007), [Andrianov et al. (2020)](https://doi.org/10.1007/s00707-020-02634-6)).
 * A popular model is denoted as the _spring-layer model_, in which spings simulate the bonding conditions between the fibers and the matrix.
 * An alternative for modeling imperfect bonding is to introduce one or multiple _artificial modeling layer_ between two constituents. These layers are taken to be thin in comparison to the thickness of the fibers. The geometry and the elastic proeprties of the modeling layer define the bonding wuality between the fibers and the matrix.
-
+-->
