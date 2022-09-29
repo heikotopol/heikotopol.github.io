@@ -10,7 +10,7 @@ The name of the presenting person is underlined:
 ### 2021 - now
 
 * <ins>H. Topol</ins>, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio:<br/>
-_Bifurcation of fiber-reinforced inflated membranes with different natural configu_,<br/>
+_Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_,<br/>
 [**92nd Annual Meeting of GAMM**](https://jahrestagung.gamm-ev.de/annual-meeting-2022/annual-meeting/),<br/>
 Aachen, Germany, 15-19 August 2022
 
