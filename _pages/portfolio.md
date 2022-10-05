@@ -19,7 +19,7 @@ In the framework of my research I considered tissue models that consist of a mix
 Motivated by experiments that have observed the strain stabilization of collagen to enzymatic degradation  (see the review article by [Topol et al. (2021d)](https://doi.org/10.1115/1.4052752)),
 my work focuses on  fiber models that are applicable to collagenous tissues, which undergo _continuous mechano-sensitive remodeling processes_.
 [Topol et al. (2014)](https://doi.org/10.1093/imamat/hxu027) illustrate the complexity in fiber density development for relatively simple deformation scenarios.
-The relation between stress and deformation has then been explored for uniaxial ([Topol et al. (2015)](https://doi.org/10.1007/s10665-014-9771-9)) and mulit-axial deformation problems ([Topol et al. (2017)](https://doi.org/10.1007/s11043-016-9315-y)).
+The relation between stress and deformation has then been explored for uniaxial ([Topol et al. (2015)](https://doi.org/10.1007/s10665-014-9771-9)) and biaxial deformation problems ([Topol et al. (2017)](https://doi.org/10.1007/s11043-016-9315-y)).
 A study applied the remodeling model to pressurized thick-walled tubes applicable to the modeling of blood vessels ([Topol et al. (2019)](https://doi.org/10.1016/j.euromechsol.2019.103800)).
 ![Degradation](/images/PMAN3.png)
 
@@ -38,6 +38,12 @@ In the previously mentioned articles on modeling of collagen remodeling, the the
 [Topol et al. (2021a)](https://doi.org/10.1016/j.jmbbm.2020.104154) limit this theoretical upper bound of the fiber lifespan to the finite limit, and it has been shown that the presented model can sufficiently describe observations from experiments on strain stabilization.
 The follow-up work by [Topol et al. (2021b)](https://doi.org/10.1016/j.mechrescom.2021.103740) elaborates on the interplay between different phenomena in the approach, attainment, and abatement of fiber density minima and maxima. In particular, that article shows how the deferral of stress considerations enables an appreciation of how the collagen density is governed by all of the following: the amount of the overall material deformation, the fiber pre-stretch, and the competing time scales at which the various processes of fiber creation and stretch mediated dissolution act at the microscale.
 
+
+## Experimental Biomechanics
+
+(under construction)
+
+
 ##  Bifurcation of pressurized cylinders
 
 Abdominal aortic aneurysms are responsible for a large number of deaths in industrialized countries.
@@ -45,14 +51,15 @@ This motivates many researchers to develop models that capture the formation, de
 The geometry, mechanical properties, and numerous biochemical processes play an important role in the formation of dilatations in arteries.
 My work studies instabilities in loaded and inflated cylinders with the application to the formation and propagation of aneurysms in arterial wall tissue.
 
-* **Swelling of Isotropic Materials:** (Under Construction)
 
-* **Swelling of Fibrous Materials:**
+* **Swelling of Isotropic and Fibrous Materials:**
 The initiation and propagation of bulging in fiber reinforced swellable Mooney-Rivlin membranes has been studied by
 [Topol et al. (2021c)](https://doi.org/10.1007/s10665-021-10123-5). Further bifircation modes - prismatic and bending bifurcation - of fiber reinforced elastic and swellable membranes have been treated by [Al-Chlaihawi et al. (2021)](https://doi.org/10.1177/10812865211058767) and [Topol et al. (2022b)](https://doi.org/10.22055/JACM.2022.40949.3677).
 <!---
 ![Degradation](/images/Fig1turnedaNEW.png)
 -->
+
+* **Different Natural Configurations of the Constituents** (Under Contruction)
 
 ## Transport properties of composites
 
@@ -94,7 +101,7 @@ The macroscopic properties of the material result from the elastic properties of
 In the framework of my research I considered tissue models that consist of a mixture of a _ground substance material_ and embedded _collagenous fibers_.
 Motivated by experiments that have observed the strain stabilization of collagen to enzymatic degradation  (see the review article by [Topol et al. (2021d)](https://doi.org/10.1115/1.4052752)),
 my work focuses on  fiber models that are applicable to collagenous tissues, which undergo _continuous mechano-sensitive remodeling processes_.
-[Topol et al. (2014)](https://doi.org/10.1093/imamat/hxu027) illustrate the complexity in fiber density development for relatively simple deformation scenarios.
+[Topol et al. (2014)](https://doi.org/10.1093/imamat/hxu027) illustrate the complexity of the fiber density development for relatively simple deformation scenarios.
 The relation between stress and deformation has then been explored for uniaxial ([Topol et al. (2015)](https://doi.org/10.1007/s10665-014-9771-9)) and mulit-axial deformation problems ([Topol et al. (2017)](https://doi.org/10.1007/s11043-016-9315-y)).
 A study applied the remodeling model to pressurized thick-walled tubes applicable to the modeling of blood vessels ([Topol et al. (2019)](https://doi.org/10.1016/j.euromechsol.2019.103800)).
 ![Degradation](/images/PMAN3.png)
