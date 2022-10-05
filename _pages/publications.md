@@ -9,7 +9,7 @@ author_profile: true
 
 * K. Brenzel, N. Wilmanns, L. Johnen, M. Praster, M. Röhrig, <ins>H. Topol</ins>, C. Brandl, B. Markert, and M. Stoffel: 
 _Extension of an In Vitro Spine Test Rig to Track Load-dependent Biomechanics of the Lumbar Spine under Physiological Conditions_,
-submitted to **PAMM - Proc. Appl. Math. Mech.** on 4 October 2022.
+submitted to **PAMM - Proc. Appl. Math. Mech.** on 5 October 2022.
 
 * <ins>H. Topol</ins>, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio: 
 _Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_,
