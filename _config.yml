@@ -86,7 +86,7 @@ author:
   location         : "Germany"
   employer         : #""
   email            : #""
-  pubmed           : #"https://pubmed.ncbi.nlm.nih.gov/?term=Topol+H&cauthor_id=31891375"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Topol+H&cauthor_id=31891375"
   googlescholar    : "https://scholar.google.com/citations?user=nZD2stwAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Heiko_Topol"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
