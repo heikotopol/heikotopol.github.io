@@ -35,7 +35,7 @@ Aachen, Germany, 26 Nov 2021<br/>
 
 * <ins>H. Topol</ins>, H. Demirkoparan, T.J. Pence:<br/>
 _Morphoelastic remodeling of collagenous fibers under cyclic loading_,<br/>
-**The Multiscale Spectrum of Constitutive Modeling in Solid Mechanics (hosted by CIEM)**,<br/>
+[**The Multiscale Spectrum of Constitutive Modeling in Solid Mechanics (hosted by CIEM)**](https://bigoni.dicam.unitn.it/material/Abstract-Castro-July-2019.pdf),<br/>
 Castro Urdiales, Spain, 01-05 July 2019<br/>
 
 * <ins>H. Topol</ins>, H. Demirkoparan, T.J. Pence:<br/>
