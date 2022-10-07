@@ -47,16 +47,18 @@ _On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes und
 
  * <ins>H. Topol</ins>, H. Demirkoparan, and T. J. Pence:
  _Modeling Stretch-Dependent Collagen Fiber Density_,
- [**Mech. Res. Commun. 116: 103740** (2021)](https://doi.org/10.1016/j.mechrescom.2021.103740), [**Open Access**](https://www.sciencedirect.com/science/article/pii/S0093641321000835/pdfft?md5=3688332b762eb2c887acc85575dc2f4f&pid=1-s2.0-S0093641321000835-main.pdf).
+ [**Mech. Res. Commun. 116: 103740 (2021)**](https://doi.org/10.1016/j.mechrescom.2021.103740), [**Open Access**](https://www.sciencedirect.com/science/article/pii/S0093641321000835/pdfft?md5=3688332b762eb2c887acc85575dc2f4f&pid=1-s2.0-S0093641321000835-main.pdf).
  &rarr;[**BibTeX**](https://heikotopol.github.io/publications/MechResCommun2021.bib).<br/> 
 
 * <ins>H. Topol</ins>, M. J. Al-Chlaihawi, H. Demirkoparan, and J. Merodio:
 _Bulging initiation and propagation in fiber reinforced swellable Mooney-Rivlin membranes_,
-[**J. Eng. Math. 128: 8  (2021)**](https://doi.org/10.1007/s10665-021-10123-5), [**Open Access**](https://link.springer.com/content/pdf/10.1007/s10665-021-10123-5.pdf)).<br/>
+[**J. Eng. Math. 128: 8  (2021)**](https://doi.org/10.1007/s10665-021-10123-5), [**Open Access**](https://link.springer.com/content/pdf/10.1007/s10665-021-10123-5.pdf).
+ &rarr;[**BibTeX**](https://heikotopol.github.io/publications/JEngMath2021.bib).<br/> 
 
 * <ins>H. Topol</ins>, H. Demirkoparan, and T. J. Pence:
 _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,
- [**J. Mech. Behav. Biomed. Mater. 113: 104154 (2021)**](https://doi.org/10.1016/j.jmbbm.2020.104154), [**Open Access**](https://www.sciencedirect.com/science/article/pii/S1751616120306974/pdfft?md5=cc084c8cb037590a03ce8f0ba960b514&pid=1-s2.0-S1751616120306974-main.pdf). [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/33158790/). <br/>
+ [**J. Mech. Behav. Biomed. Mater. 113: 104154 (2021)**](https://doi.org/10.1016/j.jmbbm.2020.104154), [**Open Access**](https://www.sciencedirect.com/science/article/pii/S1751616120306974/pdfft?md5=cc084c8cb037590a03ce8f0ba960b514&pid=1-s2.0-S1751616120306974-main.pdf). [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/33158790/).
+  &rarr;[**BibTeX**](https://heikotopol.github.io/publications/JMechBehavBiomedMater2021.bib).<br/> 
  
 
 ### 2016 - 2020
