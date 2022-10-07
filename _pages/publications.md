@@ -21,11 +21,13 @@ submitted to **PAMM - Proc. Appl. Math. Mech.** on 4 September 2022.
 
 * <ins>H. Topol</ins>, M. Al-Chlaihawi, H. Demirkoparan, J. Merodio:
 _Bifurcation of Fiber-Reinforced Cylindrical Membranes under Extension, Inflation, and Swelling_,
-[**J. Appl. Comput. Mech.**](https://doi.org/10.22055/JACM.2022.40949.3677) (2022, [**Open Access**](https://jacm.scu.ac.ir/article_17657_288228a757d0f496e01686ab2db59de3.pdf), online first).<br/> 
+[**J. Appl. Comput. Mech. 9, 113-128 (2023)**](https://doi.org/10.22055/JACM.2022.40949.3677), [**Open Access**](https://jacm.scu.ac.ir/article_17657_288228a757d0f496e01686ab2db59de3.pdf).
+[**&rarr;<ins>BibTeX</ins>**](https://heikotopol.github.io/publications/JApplComputMech2023.bib).<br/> 
 
 * <ins>H. Topol</ins>, N. K. Jha, H. Demirkoparan, M. Stoffel, J. Merodio:
 _Bulging of inflated membranes made of fiber reinforced materials with different natural configurations_,
-[**Eur. J. Mech. A/Solids 96, 104670**](https://doi.org/10.1016/j.euromechsol.2022.104670) (2022, [**Open Access**](https://www.sciencedirect.com/science/article/pii/S0997753822001310/pdfft?md5=6df60cf0761f4d77b9854bd04cf33848&pid=1-s2.0-S0997753822001310-main.pdf)).
+[**Eur. J. Mech. A/Solids 96, 104670 (2022)**](https://doi.org/10.1016/j.euromechsol.2022.104670), [**Open Access**](https://www.sciencedirect.com/science/article/pii/S0997753822001310/pdfft?md5=6df60cf0761f4d77b9854bd04cf33848&pid=1-s2.0-S0997753822001310-main.pdf).
+  [**&rarr;<ins>BibTeX</ins>**](https://heikotopol.github.io/publications/EurJMechA2022.bib).<br/> 
 
 * I. V. Andrianov and <ins>H. Topol</ins>:
 _Compatibility conditions: number of independent equations and boundary conditions_ (book chapter).
@@ -40,7 +42,8 @@ _On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes und
 
 * <ins>H. Topol</ins>, H. Demirkoparan, and T. J. Pence:
  _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_,
-[**Appl. Mech. Rev. 73: 050802**](https://doi.org/10.1115/1.4052752) (2021)<br/>
+[**Appl. Mech. Rev. 73: 050802 (2021)**](https://doi.org/10.1115/1.4052752).
+[**&rarr;<ins>BibTeX</ins>**](https://heikotopol.github.io/publications/ApplMechRev2021.bib).<br/> 
 
  * <ins>H. Topol</ins>, H. Demirkoparan, and T. J. Pence:
  _Modeling Stretch-Dependent Collagen Fiber Density_,
@@ -48,7 +51,7 @@ _On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes und
 
 * <ins>H. Topol</ins>, M. J. Al-Chlaihawi, H. Demirkoparan, and J. Merodio:
 _Bulging initiation and propagation in fiber reinforced swellable Mooney-Rivlin membranes_,
-[**J. Eng. Math. 128: 8**](https://doi.org/10.1007/s10665-021-10123-5) (2021, [**Open Access**](https://link.springer.com/content/pdf/10.1007/s10665-021-10123-5.pdf)).<br/>
+[**J. Eng. Math. 128: 8  (2021)**](https://doi.org/10.1007/s10665-021-10123-5), [**Open Access**](https://link.springer.com/content/pdf/10.1007/s10665-021-10123-5.pdf)).<br/>
 
 * <ins>H. Topol</ins>, H. Demirkoparan, and T. J. Pence:
 _On Collagen Fiber Morphoelasticity and Homeostatic Remodeling Tone_,
