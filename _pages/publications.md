@@ -34,8 +34,9 @@ _Compatibility conditions: number of independent equations and boundary conditio
 I. Andrianov, S. Gluzman, and V. Mityushev (Editors):
 [**Mechanics and Physics of Structured Media - Asymptotic and Integral Equations Methods of Leonid Filshtinsky, 123-140**](https://doi.org/10.1016/B978-0-32-390543-5.00011-6)  (Academic Press, 2022).
 Book [[1]](https://www.elsevier.com/books/mechanics-and-physics-of-structured-media/andrianov/978-0-323-90543-5),
-[[2]](https://www.sciencedirect.com/book/9780323905435/mechanics-and-physics-of-structured-media).<br/> 
-
+[[2]](https://www.sciencedirect.com/book/9780323905435/mechanics-and-physics-of-structured-media).
+ &rarr;[**BibTeX**](https://heikotopol.github.io/publications/Book2022.bib).<br/>
+ 
 * M. J. Al-Chlaihawi, <ins>H. Topol</ins>, H. Demirkoparan, and J. Merodio: 
 _On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes under Swelling with Application to Aortic Aneurysms_, 
 [**Math. Mech. Solids**](https://doi.org/10.1177/10812865211058767) (First Published Online, 29 December 2021).<br/>
