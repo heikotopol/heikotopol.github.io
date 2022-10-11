@@ -39,7 +39,7 @@ In the previously mentioned articles on modeling collagen remodeling, the theore
 The follow-up work by [Topol et al. (2021b)](https://doi.org/10.1016/j.mechrescom.2021.103740) elaborates on the interplay between different phenomena in the approach, attainment, and abatement of fiber density minima and maxima. In particular, that article shows how the deferral of stress considerations enables an appreciation of how the collagen density is governed by all of the following: the amount of the overall material deformation, the fiber pre-stretch, and the competing time scales at which the various processes of fiber creation and stretch mediated dissolution act at the microscale.
 
 
-## Experimental Biomechanics
+## Experimental Biomechanics & Mechanobiology
 
 (under construction)
 
@@ -54,12 +54,15 @@ My work studies instabilities in loaded and inflated cylinders with the applicat
 
 * **Swelling of Isotropic and Fibrous Materials:**
 The initiation and propagation of bulging in fiber-reinforced swellable Mooney-Rivlin membranes have been studied by
-[Topol et al. (2021c)](https://doi.org/10.1007/s10665-021-10123-5). Further bifurcation modes - prismatic and bending bifurcation - of fiber-reinforced elastic and swellable membranes have been treated by [Al-Chlaihawi et al. (2021)](https://doi.org/10.1177/10812865211058767) and [Topol et al. (2022b)](https://doi.org/10.22055/JACM.2022.40949.3677).
+[Topol et al. (2021c)](https://doi.org/10.1007/s10665-021-10123-5). Further bifurcation modes - prismatic and bending bifurcation - of fiber-reinforced elastic and swellable membranes have been treated by [Al-Chlaihawi et al. (2021)](https://doi.org/10.1177/10812865211058767) and [Topol et al. (2023)](https://doi.org/10.22055/JACM.2022.40949.3677).
 <!---
 ![Degradation](/images/Fig1turnedaNEW.png)
 -->
 
-* **Different Natural Configurations of the Constituents** (Under Contruction)
+* **Different Natural Configurations and Arrangement of the Constituents**: The natural configuration of the constitutens may differ, for example, because the fiber may posses a certain pre-stretched, or because the fiber are limp and they need to be extended until they fully bear tensile forces. The assumption of perfectly parallel fibers is an idealization, which is applied in various modeling work. If this idealization cannot be applied, then techiques such the _angular integration method_ or _structure tensor_ based methods are used in the modeling. The effect of fiber pre-stretch and fiber dispersion on the initiaion of bulging has been studied in [Topol et al. (2022b)](https://doi.org/10.1007/s10665-021-10123-5).
+
+<!---
+-->
 
 ## Transport properties of composites
 
