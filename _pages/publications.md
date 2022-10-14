@@ -7,6 +7,10 @@ author_profile: true
 
 ## Submitted Works
 
+* R. Salazar Ortiz and G. Dursun and H. Topol and B. Markert and M. Stoffel: 
+_Migration and remodeling in cartilage replacement materials – an in-vitro bioreactor study_,
+submitted to **PAMM - Proc. Appl. Math. Mech.** on 14 October 2022.
+
 * K. Brenzel, N. Wilmanns, L. Johnen, M. Praster, M. Röhrig, <ins>H. Topol</ins>, C. Brandl, B. Markert, and M. Stoffel: 
 _Extension of an In Vitro Spine Test Rig to Track Load-dependent Biomechanics of the Lumbar Spine under Physiological Conditions_,
 submitted to **PAMM - Proc. Appl. Math. Mech.** on 5 October 2022.
