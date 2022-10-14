@@ -7,7 +7,7 @@ author_profile: true
 
 ## Submitted Works
 
-* R. Salazar Ortiz and G. Dursun and H. Topol and B. Markert and M. Stoffel: 
+* R. Salazar Ortiz, G. Dursun, H. Topol, B. Markert, and M. Stoffel: 
 _Migration and remodeling in cartilage replacement materials – an in-vitro bioreactor study_,
 submitted to **PAMM - Proc. Appl. Math. Mech.** on 14 October 2022.
 
