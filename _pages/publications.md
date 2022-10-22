@@ -7,7 +7,7 @@ author_profile: true
 
 ## Submitted Works
 
-* R. Salazar Ortiz, G. Dursun, H. Topol, B. Markert, and M. Stoffel: 
+* R. Salazar Ortiz, G. Dursun, <ins>H. Topol</ins>, B. Markert, and M. Stoffel: 
 _Migration and remodeling in cartilage replacement materials – an in-vitro bioreactor study_,
 submitted to **PAMM - Proc. Appl. Math. Mech.** on 14 October 2022.
 
@@ -15,13 +15,13 @@ submitted to **PAMM - Proc. Appl. Math. Mech.** on 14 October 2022.
 _Extension of an In Vitro Spine Test Rig to Track Load-dependent Biomechanics of the Lumbar Spine under Physiological Conditions_,
 submitted to **PAMM - Proc. Appl. Math. Mech.** on 5 October 2022.
 
-* <ins>H. Topol</ins>, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio: 
-_Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_,
-submitted to **PAMM - Proc. Appl. Math. Mech.** on 4 September 2022.
-
 ## Published/Accepted Works
 
 ### 2021 - now
+
+* <ins>H. Topol</ins>, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio: 
+_Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_,
+submitted to [**PAMM - Proc. Appl. Math. Mech.**](https://doi.org/10.1002/pamm.202200004) on 4 September 2022.
 
 * <ins>H. Topol</ins>, M. Al-Chlaihawi, H. Demirkoparan, J. Merodio:
 _Bifurcation of Fiber-Reinforced Cylindrical Membranes under Extension, Inflation, and Swelling_,
