@@ -5,6 +5,11 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+* [Mechanoregulated Redemodeling of Fibrous Tissue](https://github.com/heikotopol/heikotopol.github.io/edit/master/_pages/portfolio.md#mechanoregulated-redemodeling-of-fibrous-tissue)
+* [Experimental Biomechanics & Mechanobiology](https://github.com/heikotopol/heikotopol.github.io/edit/master/_pages/portfolio.md#experimental-biomechanics--mechanobiology)
+*  [Bifurcation of Pressurized Cylinders](https://github.com/heikotopol/heikotopol.github.io/edit/master/_pages/portfolio.md#bifurcation-of-pressurized-cylinders)
+*  [Transport Properties of Composites](https://github.com/heikotopol/heikotopol.github.io/edit/master/_pages/portfolio.md#transport-properties-of-composites)
+*  [Stress Distribution in Loaded Composites](https://github.com/heikotopol/heikotopol.github.io/edit/master/_pages/portfolio.md#stress-distribution-in-loaded-composites)
 
 
 ## Mechanoregulated Redemodeling of Fibrous Tissue
@@ -44,7 +49,7 @@ The follow-up work by [Topol et al. (2021b)](https://doi.org/10.1016/j.mechresco
 (under construction)
 
 
-##  Bifurcation of pressurized cylinders
+##  Bifurcation of Pressurized Cylinders
 
 Abdominal aortic aneurysms are responsible for a large number of deaths in industrialized countries.
 This motivates many researchers to develop models that capture the formation, development, and rupture of aneurysms.
@@ -65,14 +70,14 @@ The initiation and propagation of bulging in fiber-reinforced swellable Mooney-R
 <!---
 -->
 
-## Transport properties of composites
+## Transport Properties of Composites
 
 My work on the mechanical behavior of composites deals with wave propagation and heat transfer in anisotropic media.
 This research applied different methods such as the _Floquet-Bloch approach_, the _plane wave expansion method_, the _asymptotic homogenization method_, and the _transfer-matrix method_ in order to understand the properties of composites ([Andrianov et al. (2011)](https://doi.org/10.1002/zamm.201000176), [Andrianov et al. (2017a)](https://doi.org/10.1007/s00707-016-1765-4), [Andrianov et al. (2017b)](https://doi.org/10.1016/j.ijheatmasstransfer.2017.03.124), [Andrianov et al. (2018)](https://doi.org/10.1016/j.wavemoti.2017.12.007)).
 ![Dispersion](/images/RealNEW.png)
 
 
-## Stress distribution in loaded composites
+## Stress Distribution in Loaded Composites
 In composites, an important method to determine the mechanical properties of the material is the pull-out tests of fibers from the matrix. 
 The quality of bonding between two constituents has a crucial role in the functionality of the material.
 There are numerous factors that lead to imperfect bonding such as cracks, corrosion, or degradation.
