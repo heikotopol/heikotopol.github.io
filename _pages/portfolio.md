@@ -50,6 +50,7 @@ Abdominal aortic aneurysms are responsible for a large number of deaths in indus
 This motivates many researchers to develop models that capture the formation, development, and rupture of aneurysms.
 The geometry, mechanical properties, and numerous biochemical processes play an important role in the formation of dilatations in arteries.
 My work studies instabilities in loaded and inflated cylinders with the application to the formation and propagation of aneurysms in arterial wall tissue.
+![Degradation](/images/BulgingHP.png)
 
 
 * **Swelling of Isotropic and Fibrous Materials:**
