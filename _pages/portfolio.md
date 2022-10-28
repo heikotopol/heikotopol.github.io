@@ -4,7 +4,7 @@ title: ""
 permalink: /portfolio/
 author_profile: true
 ---
-
+By research can be roughly subdivided into the the following topic:
 * [Mechanoregulated Redemodeling of Fibrous Tissue](https://github.com/heikotopol/heikotopol.github.io/edit/master/_pages/portfolio.md#mechanoregulated-redemodeling-of-fibrous-tissue)
 * [Experimental Biomechanics & Mechanobiology](https://github.com/heikotopol/heikotopol.github.io/edit/master/_pages/portfolio.md#experimental-biomechanics--mechanobiology)
 *  [Bifurcation of Pressurized Cylinders](https://github.com/heikotopol/heikotopol.github.io/edit/master/_pages/portfolio.md#bifurcation-of-pressurized-cylinders)
