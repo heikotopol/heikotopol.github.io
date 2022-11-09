@@ -14,7 +14,7 @@ My research can be roughly subdivided into the the following topic:
 *  [Stress Distribution in Loaded Composites](https://github.com/heikotopol/heikotopol.github.io/edit/master/_pages/portfolio.md#stress-distribution-in-loaded-composites)
 -->
 
-## Mechanoregulated Redemodeling of Fibrous Tissue
+## Mechanoregulated Remodeling of Fibrous Tissue
 
 One part of my research deals with the mathematical modeling of biological tissues.
 Biological soft tissues are complex structures, which are composed of  multiple components with different functions and properties. 
