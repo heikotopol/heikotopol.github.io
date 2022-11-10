@@ -67,7 +67,7 @@ The initiation and propagation of bulging in fiber-reinforced swellable Mooney-R
 ![Degradation](/images/Fig1turnedaNEW.png)
 -->
 
-* **Different Natural Configurations and Arrangement of the Constituents**: The natural configuration of the constitutens may differ, for example, because the fiber may posses a certain pre-stretched, or because the fiber are limp and they need to be extended until they fully bear tensile forces. The assumption of perfectly parallel fibers is an idealization, which is applied in various modeling work. If this idealization cannot be applied, then techiques such the _angular integration method_ or _structure tensor_ based methods are used in the modeling. The effect of fiber pre-stretch and fiber dispersion on the initiaion of bulging has been studied in [Topol et al. (2022b)](https://doi.org/10.1007/s10665-021-10123-5).
+* **Different Natural Configurations and Arrangement of the Constituents**: The natural configuration of the constituents may differ, for example, because the fiber may possess a certain pre-stretched, or because the fiber is limp and they need to be extended until they fully bear tensile forces. The assumption of perfectly parallel fibers is an idealization, which is applied in various modeling works. If this idealization cannot be applied, then techniques such as the angular integration method or structure tensor-based methods are used in the modeling. The effect of fiber pre-stretch and fiber dispersion on the initiation of bulging has been studied by [Topol et al. (2022b)](https://doi.org/10.1007/s10665-021-10123-5).
 
 <!---
 -->
