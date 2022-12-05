@@ -20,8 +20,7 @@ submitted to **PAMM - Proc. Appl. Math. Mech.** on 5 October 2022.
 ### 2021 - now
 
 * <ins>H. Topol</ins>, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio: 
-_Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_,
-submitted to [**PAMM - Proc. Appl. Math. Mech.**](https://doi.org/10.1002/pamm.202200004) on 18 October 2022.
+_Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_, [**PAMM - Proc. Appl. Math. Mech.**](https://doi.org/10.1002/pamm.202200004), accepted for publication on 18 October 2022.
 
 * <ins>H. Topol</ins>, M. Al-Chlaihawi, H. Demirkoparan, J. Merodio:
 _Bifurcation of Fiber-Reinforced Cylindrical Membranes under Extension, Inflation, and Swelling_,
