@@ -17,7 +17,7 @@ submitted to **PAMM - Proc. Appl. Math. Mech.** on 5 October 2022.
 
 * R. Salazar Ortiz, G. Dursun, <ins>H. Topol</ins>, B. Markert, and M. Stoffel: 
 _Migration and remodeling in cartilage replacement materials – an in-vitro bioreactor study_,
-submitted to **PAMM - Proc. Appl. Math. Mech.** accepted for publication on 12 December 2022.
+[**PAMM - Proc. Appl. Math. Mech.**](https://doi.org/10.1002/pamm.202200310) accepted for publication on 12 December 2022.
 
 * <ins>H. Topol</ins>, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio: 
 _Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_, [**PAMM - Proc. Appl. Math. Mech.**](https://doi.org/10.1002/pamm.202200004), accepted for publication on 18 October 2022.
