@@ -5,15 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!--
 ## Submitted Works
 
 * K. Brenzel, N. Wilmanns, L. Johnen, M. Praster, M. Röhrig, <ins>H. Topol</ins>, C. Brandl, B. Markert, and M. Stoffel: 
 _Extension of an In Vitro Spine Test Rig to Track Load-dependent Biomechanics of the Lumbar Spine under Physiological Conditions_,
-submitted to **PAMM - Proc. Appl. Math. Mech.** on 5 October 2022.
+**PAMM - Proc. Appl. Math. Mech.** accepted for publication on 12 December 2022.
+
+-->
 
 ## Published/Accepted Works
 
 ### 2021 - now
+
+* K. Brenzel, N. Wilmanns, L. Johnen, M. Praster, M. Röhrig, <ins>H. Topol</ins>, C. Brandl, B. Markert, and M. Stoffel: 
+_Extension of an In Vitro Spine Test Rig to Track Load-dependent Biomechanics of the Lumbar Spine under Physiological Conditions_,
+**PAMM - Proc. Appl. Math. Mech.**  accepted for publication on 16 Januar 2023.
 
 * R. Salazar Ortiz, G. Dursun, <ins>H. Topol</ins>, B. Markert, and M. Stoffel: 
 _Migration and remodeling in cartilage replacement materials – an in-vitro bioreactor study_,
