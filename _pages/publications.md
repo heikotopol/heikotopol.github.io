@@ -11,7 +11,7 @@ author_profile: true
 
 ### 2021 - now
 
-* K. Brenzel, N. Wilmanns, L. Johnen, M. Praster, M. Röhrig, <ins>H. Topol</ins>, C. Brandl, B. Markert, and M. Stoffel: 
+* K. Brenzel, N. Blomeyer, L. Johnen, M. Praster, M. Röhrig, <ins>H. Topol</ins>, C. Brandl, B. Markert, and M. Stoffel: 
 _Extension of an In Vitro Spine Test Rig to Track Load-dependent Biomechanics of the Lumbar Spine under Physiological Conditions_,
 [**PAMM - Proc. Appl. Math. Mech.**](https://doi.org/10.1002/pamm.202200078), accepted for publication on 16 Januar 2023.
 
