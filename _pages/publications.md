@@ -11,7 +11,7 @@ author_profile: true
 
 ### 2021 - now
 
-* N. K. Jha, S. Moradalizadeh, J. Reinoso, <ins>H. Topol</ins>, and J. Merodio: _On the helical buckling of anisotropic tubes with application to arteries_, [**Mech. Res. Commun.**](https://doi.org/10.1016/j.mechrescom.2023.104067), accepted for publication in Feb. 2023.
+* N. K. Jha, S. Moradalizadeh, J. Reinoso, <ins>H. Topol</ins>, and J. Merodio: _On the helical buckling of anisotropic tubes with application to arteries_, [**Mech. Res. Commun.**](https://doi.org/10.1016/j.mechrescom.2023.104067), online first.
 
 * K. Brenzel, N. Blomeyer, L. Johnen, M. Praster, M. Röhrig, <ins>H. Topol</ins>, C. Brandl, B. Markert, and M. Stoffel: 
 _Extension of an In Vitro Spine Test Rig to Track Load-dependent Biomechanics of the Lumbar Spine under Physiological Conditions_,
