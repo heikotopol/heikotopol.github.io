@@ -15,7 +15,7 @@ redirect_from:
 * 2007, Diploma (equivalent to a Master's Degree), **Ruhr University Bochum**
 * 2005, Academic exchange (DAAD scholarship, one semester), **Texas A&M University**
 
-My position in the Academic Tree is shown  [**here**]([https://doi.org/10.1016/j.mechrescom.2023.104067](https://academictree.org/math/tree.php?pid=902945)).
+My position in the Academic Tree is shown  [**here**](https://academictree.org/math/tree.php?pid=902945).
 
 ## Work experience
 
