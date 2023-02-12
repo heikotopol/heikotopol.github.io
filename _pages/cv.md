@@ -15,6 +15,8 @@ redirect_from:
 * 2007, Diploma (equivalent to a Master's Degree), **Ruhr University Bochum**
 * 2005, Academic exchange (DAAD scholarship, one semester), **Texas A&M University**
 
+My position in the Academic Tree is shown  [**here**]([https://doi.org/10.1016/j.mechrescom.2023.104067](https://academictree.org/math/tree.php?pid=902945)).
+
 ## Work experience
 
 * 04/2021 - now: **RWTH Aachen University**
@@ -27,5 +29,3 @@ redirect_from:
 * 05/2007 - 12/2012: **RWTH Aachen University**, Research Associate & Assistant Lecturer
 * 11/2003 - 01/2007: **Ruhr University Bochum**, Student Research & Teaching Assistant
  
-
-  
