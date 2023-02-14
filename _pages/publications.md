@@ -11,8 +11,6 @@ author_profile: true
 
 ### 2021 - now
 
-* N. K. Jha, S. Moradalizadeh, J. Reinoso, <ins>H. Topol</ins>, and J. Merodio: _On the helical buckling of anisotropic tubes with application to arteries_, [**Mech. Res. Commun.**](https://doi.org/10.1016/j.mechrescom.2023.104067), online first.
-
 * K. Brenzel, N. Blomeyer, L. Johnen, M. Praster, M. Röhrig, <ins>H. Topol</ins>, C. Brandl, B. Markert, and M. Stoffel: 
 _Extension of an In Vitro Spine Test Rig to Track Load-dependent Biomechanics of the Lumbar Spine under Physiological Conditions_,
 [**PAMM - Proc. Appl. Math. Mech.**](https://doi.org/10.1002/pamm.202200078), accepted for publication on 16 Januar 2023.
@@ -23,6 +21,9 @@ _Migration and remodeling in cartilage replacement materials – an in-vitro bio
 
 * <ins>H. Topol</ins>, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio: 
 _Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_, [**PAMM - Proc. Appl. Math. Mech.**](https://doi.org/10.1002/pamm.202200004), accepted for publication on 18 October 2022.
+
+* N. K. Jha, S. Moradalizadeh, J. Reinoso, <ins>H. Topol</ins>, and J. Merodio: _On the helical buckling of anisotropic tubes with application to arteries_, [**Mech. Res. Commun. 128, 104067 (2023)**](https://doi.org/10.1016/j.mechrescom.2023.104067).
+&rarr;[**BibTeX**](https://heikotopol.github.io/publications/MechResCommun2023.bib).<br/> 
 
 * <ins>H. Topol</ins>, M. Al-Chlaihawi, H. Demirkoparan, J. Merodio:
 _Bifurcation of Fiber-Reinforced Cylindrical Membranes under Extension, Inflation, and Swelling_,
