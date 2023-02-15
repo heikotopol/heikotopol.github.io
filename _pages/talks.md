@@ -9,6 +9,11 @@ The name of the presenting person is underlined:
 
 ### 2021 - now
 
+* <ins>H. Topol</ins>:<br/>
+_Bulging and Necking in Inflated and Axially Stretched Cylinders_,<br/>
+**IAM Talk 2023**,<br/>
+Institute of General Mechanics, RWTH Aachen University, Aachen, Germany, 15 Feb 2023<br/>
+
 * <ins>H. Topol</ins>, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio:<br/>
 _Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_,<br/>
 [**92nd Annual Meeting of GAMM**](https://jahrestagung.gamm-ev.de/annual-meeting-2022/annual-meeting/),<br/>
@@ -29,7 +34,7 @@ Aachen, Germany, 15-19 August 2022
 * <ins>H. Topol</ins>:<br/>
 _Collagen Remodeling in Swelling Soft Tissue_,<br/>
 **IAM Winter Talk 2021/2022**,<br/>
-Aachen, Germany, 26 Nov 2021<br/>
+Institute of General Mechanics, RWTH Aachen University, Aachen, Germany, 26 Nov 2021<br/>
 
 ### 2016 - 2020
 
