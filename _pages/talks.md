@@ -31,7 +31,7 @@ study_,<br/>
 [**92nd Annual Meeting of GAMM**](https://jahrestagung.gamm-ev.de/annual-meeting-2022/annual-meeting/),<br/>
 Aachen, Germany, 15-19 August 2022
 
-* <ins>H. Topol</ins>:<br/>
+* <ins>H. Topol</ins>:<br/> 
 _Collagen Remodeling in Swelling Soft Tissue_,<br/>
 **IAM Winter Talk 2021/2022**,<br/>
 Institute of General Mechanics, RWTH Aachen University, Aachen, Germany, 26 November 2021<br/>
