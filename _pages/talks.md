@@ -9,7 +9,7 @@ The name of the presenting person is underlined:
 
 ### 2021 - now
 
-* <ins>H. Topol</ins>:<br/>
+* <ins>H. Topol</ins>:<br/> 
 _Bulging and Necking in Inflated and Axially Stretched Cylinders_,<br/>
 **IAM Talk 2023**,<br/>
 Institute of General Mechanics, RWTH Aachen University, Aachen, Germany, 15 February 2023<br/>
