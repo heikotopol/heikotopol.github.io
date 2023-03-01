@@ -13,14 +13,14 @@ author_profile: true
 
 * K. Brenzel, N. Blomeyer, L. Johnen, M. Praster, M. Röhrig, <ins>H. Topol</ins>, C. Brandl, B. Markert, and M. Stoffel: 
 _Extension of an In Vitro Spine Test Rig to Track Load-dependent Biomechanics of the Lumbar Spine under Physiological Conditions_,
-[**PAMM - Proc. Appl. Math. Mech.**](https://doi.org/10.1002/pamm.202200078), accepted for publication on 16 Januar 2023.
+[**PAMM - Proc. Appl. Math. Mech.**](https://doi.org/10.1002/pamm.202200078), accepted for publication in 16 Januar 2023.
 
 * R. Salazar Ortiz, G. Dursun, <ins>H. Topol</ins>, B. Markert, and M. Stoffel: 
 _Migration and remodeling in cartilage replacement materials – an in-vitro bioreactor study_,
-[**PAMM - Proc. Appl. Math. Mech.**](https://doi.org/10.1002/pamm.202200310), accepted for publication on 12 December 2022.
+[**PAMM - Proc. Appl. Math. Mech.**](https://doi.org/10.1002/pamm.202200310), accepted for publication in 12 December 2022.
 
 * <ins>H. Topol</ins>, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio: 
-_Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_, [**PAMM - Proc. Appl. Math. Mech.**](https://doi.org/10.1002/pamm.202200004), accepted for publication on 18 October 2022.
+_Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_, [**PAMM - Proc. Appl. Math. Mech.**](https://doi.org/10.1002/pamm.202200004), accepted for publication in 18 October 2022.
 
 * N. K. Jha, S. Moradalizadeh, J. Reinoso, <ins>H. Topol</ins>, and J. Merodio: _On the helical buckling of anisotropic tubes with application to arteries_, [**Mech. Res. Commun. 128, 104067 (2023)**](https://doi.org/10.1016/j.mechrescom.2023.104067).
 &rarr;[**BibTeX**](https://heikotopol.github.io/publications/MechResCommun2023.bib).<br/> 
