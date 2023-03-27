@@ -20,7 +20,9 @@ _Migration and remodeling in cartilage replacement materials – an in-vitro bio
 [**PAMM - Proc. Appl. Math. Mech. (accepted for publication, 12 December 2022)**](https://doi.org/10.1002/pamm.202200310).
 
 * <ins>H. Topol</ins>, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio: 
-_Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_, [**PAMM - Proc. Appl. Math. Mech. (accepted for publication, 18 October 2022)**](https://doi.org/10.1002/pamm.202200004).
+_Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_, [**PAMM - Proc. Appl. Math. Mech. 22: e202200004 (2923)**](https://doi.org/10.1002/pamm.202200004), [**Open Access**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/pamm.202200004).
+&rarr;[**BibTeX**](https://heikotopol.github.io/publications/PAMM2023HT.bib).<br/> 
+
 
 * N. K. Jha, S. Moradalizadeh, J. Reinoso, <ins>H. Topol</ins>, and J. Merodio: _On the helical buckling of anisotropic tubes with application to arteries_, [**Mech. Res. Commun. 128, 104067 (2023)**](https://doi.org/10.1016/j.mechrescom.2023.104067).
 &rarr;[**BibTeX**](https://heikotopol.github.io/publications/MechResCommun2023.bib).<br/> 
