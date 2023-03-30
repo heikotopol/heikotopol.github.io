@@ -47,7 +47,7 @@ Ruhr University Bochum (**RUB**), and RWTH Aachen University (**RWTH**). At thes
 |**WT 2021/22** |        |          |RWTH       |             |         |       |        |        |        |
 |**ST 2022**    |        |          |           |             |         |       |RWTH    |RWTH    |RWTH    |
 |**WT 2022/23** |        |          |RWTH       |             |         |       |        |        |        |
-
+|**ST 2023**    |        |          |           |             |         |       |RWTH    |RWTH    |RWTH    |
 
 <sup>*</sup> Short Term Opportunity<br/> 
 <sup>**</sup> Mini Course
