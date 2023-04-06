@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Welcome to my private page. I develop mathematical models, which describe the mechanial behavior of heterogeneous materials.
+Welcome to my private page. I develop mathematical models, which describe the mechanical behavior of heterogeneous materials.
 
 ![Cervix](/images/Cervix2.png)
 
