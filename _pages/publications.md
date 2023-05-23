@@ -11,6 +11,10 @@ author_profile: true
 
 ### 2021 - now
 
+* H. Asghari, <ins>H. Topol</ins>, B. Markert, and J. Merodio
+_Application of Sensitivity Analysis in Extension, Inflation, and Torsion of Residually Stressed Circular Cylindrical Tubes_,
+**Probab. Eng. Mech. (accepted for publication, 23 May 2023)**
+
 * K. Brenzel, N. Blomeyer, L. Johnen, M. Praster, M. Röhrig, <ins>H. Topol</ins>, C. Brandl, B. Markert, and M. Stoffel: 
 _Extension of an In Vitro Spine Test Rig to Track Load-dependent Biomechanics of the Lumbar Spine under Physiological Conditions_,
 [**PAMM - Proc. Appl. Math. Mech. (accepted for publication, 16 Januar 2023)**](https://doi.org/10.1002/pamm.202200078).
