@@ -17,11 +17,11 @@ _Application of Sensitivity Analysis in Extension, Inflation, and Torsion of Res
 
 * K. Brenzel, N. Blomeyer, L. Johnen, M. Praster, M. Röhrig, <ins>H. Topol</ins>, C. Brandl, B. Markert, and M. Stoffel: 
 _Extension of an In Vitro Spine Test Rig to Track Load-dependent Biomechanics of the Lumbar Spine under Physiological Conditions_,
-[**PAMM - Proc. Appl. Math. Mech. (accepted for publication, 16 Januar 2023)**](https://doi.org/10.1002/pamm.202200078).
+[**PAMM - Proc. Appl. Math. Mech. 23: e202200078 (2023)**](https://doi.org/10.1002/pamm.202200078).
 
 * R. Salazar Ortiz, G. Dursun, <ins>H. Topol</ins>, B. Markert, and M. Stoffel: 
 _Migration and remodeling in cartilage replacement materials – an in-vitro bioreactor study_,
-[**PAMM - Proc. Appl. Math. Mech. (accepted for publication, 12 December 2022)**](https://doi.org/10.1002/pamm.202200310).
+[**PAMM - Proc. Appl. Math. Mech. 23: e202200310 (2023)**](https://doi.org/10.1002/pamm.202200310).
 
 * <ins>H. Topol</ins>, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio: 
 _Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_, [**PAMM - Proc. Appl. Math. Mech. 22: e202200004 (2023)**](https://doi.org/10.1002/pamm.202200004), [**Open Access**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/pamm.202200004).
