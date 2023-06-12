@@ -19,7 +19,8 @@ My position in the "_Academic Tree_" is shown  [**here**](https://academictree.o
 
 ## Work experience
 
-* 04/2021 - now: **RWTH Aachen University**
+* 04/2022 -: **RWTH Aachen University**, Group Leader Biomechanics
+* 04/2021 - 04/2022: **RWTH Aachen University**, Research and Teaching Associate
 * 09/2020 - 12/2020: **Carnegie Mellon University in Qatar**, Visiting Assistant Professor of Mathematical Sciences
 * 03/2018 - 12/2020: **PDC Qatar**, PADI Divemaster, Freelancer on the weekends  
 * 04/2017 - 08/2020: **Carnegie Mellon University in Qatar**, Postdoctoral Research Associate
