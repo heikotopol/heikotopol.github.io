@@ -10,6 +10,9 @@ author_profile: true
 ## Published/Accepted Works
 
 ### 2021 - now
+* <ins>H. Topol</ins>, H. Asghari, M. Stoffel, B. Markert, and J. Merodio
+_Post-bifurcation of Inflated Fibrous Cylindrical Membranes under Different Fiber Configurations_,
+**Eur. J. Mech. A/Solids (2023)** (accept in June 2023)
 
 * H. Asghari, <ins>H. Topol</ins>, B. Markert, and J. Merodio
 _Application of Sensitivity Analysis in Extension, Inflation, and Torsion of Residually Stressed Circular Cylindrical Tubes_,
