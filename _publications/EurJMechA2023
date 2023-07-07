@@ -1,0 +1,13 @@
+@article{TOPOL2023105065,
+title = {Post-bifurcation of inflated fibrous cylindrical membranes under different fiber configurations},
+journal = {European Journal of Mechanics - A/Solids},
+volume = {101},
+pages = {105065},
+year = {2023},
+issn = {0997-7538},
+doi = {https://doi.org/10.1016/j.euromechsol.2023.105065},
+url = {https://www.sciencedirect.com/science/article/pii/S0997753823001572},
+author = {Heiko Topol and Hadi Asghari and Marcus Stoffel and Bernd Markert and José Merodio},
+keywords = {Bulging bifurcation, Post-bifurcation, Fibers, Fiber dispersion, Cylindrical inflation},
+abstract = {We consider a cylindrical membrane that consists of an isotropic ground substance and fibers symmetrically arranged in two helically distributed families which are mechanically equivalent. Pressurized and axially stretched cylinders will undergo a stable inflation period that may be followed, for example, by the initiation of bulging. The pressure and deformation associated with bulging and post-bifurcation depend on various factors such as geometry and material characteristics. While the initiation of bulging has been well-studied, the post-bifurcation process has received less attention. In the post-bifurcation period, the bulge may propagate axially nucleating new configurations in equilibrium as the pressure of inflation increases. This article studies the effect of the material properties, fiber pre-stretch, fiber dispersion, and loading on both the initiation and post-bifurcation behavior of the cylinder. The results show that fiber pre-stretch may stabilize the material against bulging, whereas fiber dispersion may result in the opposite effect. A large axial stretch of the cylinder and a high fiber stiffness may result in a switch from bulging to necking in the post-bifurcation behavior.}
+}
