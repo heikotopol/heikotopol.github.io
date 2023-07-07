@@ -10,7 +10,7 @@ author_profile: true
 ## Published/Accepted Works
 
 ### 2021 - now
-* <ins>H. Topol</ins>, H. Asghari, M. Stoffel, B. Markert, and J. Merodio:
+* <ins>H. Topol</ins>, H. Asghari, M. Stoffel, B. Markert, and J. Merodio: 
 _Post-bifurcation of Inflated Fibrous Cylindrical Membranes under Different Fiber Configurations_,
 [**Eur. J. Mech. A/Solids 101: 105065 (2023)**](https://doi.org/10.1016/j.euromechsol.2023.105065).
  &rarr;[**BibTeX**](https://heikotopol.github.io/publications/EurJMechA2023.bib).<br/> 
