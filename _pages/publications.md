@@ -9,7 +9,12 @@ author_profile: true
 
 ## Published/Accepted Works
 
-### 2021 - now
+### 2023
+
+* S. Moradalizadeh, <ins>H. Topol</ins>, H. Demirkoparan, A. Melnokov, B. Markert, and J. Merodio:
+  _Remarks on bifurcation of an inflated and extended swellable isotropic tube_,
+**Math. Mech. Solids (2023)** (accepted manuscript)
+
 * <ins>H. Topol</ins>, H. Asghari, M. Stoffel, B. Markert, and J. Merodio: 
 _Post-bifurcation of Inflated Fibrous Cylindrical Membranes under Different Fiber Configurations_,
 [**Eur. J. Mech. A/Solids 101: 105065 (2023)**](https://doi.org/10.1016/j.euromechsol.2023.105065).
@@ -46,7 +51,9 @@ _Bifurcation of Fiber-Reinforced Cylindrical Membranes under Extension, Inflatio
 * M. J. Al-Chlaihawi, <ins>H. Topol</ins>, H. Demirkoparan, and J. Merodio: 
 _On Prismatic and Bending Bifurcations of Fiber Reinforced Elastic Membranes under Swelling with Application to Aortic Aneurysms_, 
 [**Math. Mech. Solids 28: 108 - 123 (2023)**](https://doi.org/10.1177/10812865211058767).
- &rarr;[**BibTeX**](https://heikotopol.github.io/publications/MathMechSolids2023.bib).<br/> 
+ &rarr;[**BibTeX**](https://heikotopol.github.io/publications/MathMechSolids2023.bib).<br/>
+
+### 2022
 
 * <ins>H. Topol</ins>, N. K. Jha, H. Demirkoparan, M. Stoffel, J. Merodio:
 _Bulging of inflated membranes made of fiber reinforced materials with different natural configurations_,
@@ -60,6 +67,8 @@ I. Andrianov, S. Gluzman, and V. Mityushev (Editors):
 Book [[1]](https://www.elsevier.com/books/mechanics-and-physics-of-structured-media/andrianov/978-0-323-90543-5),
 [[2]](https://www.sciencedirect.com/book/9780323905435/mechanics-and-physics-of-structured-media).
  &rarr;[**BibTeX**](https://heikotopol.github.io/publications/Book2022.bib).<br/>
+
+### 2021
 
 * <ins>H. Topol</ins>, H. Demirkoparan, and T. J. Pence:
  _Fibrillar Collagen: A Review of the Mechanical Modeling of Strain Mediated Enzymatic Turnover_,
