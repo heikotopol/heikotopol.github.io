@@ -9,6 +9,11 @@ The name of the presenting person is underlined:
 
 ### 2021 - now
 
+* <ins>H. Topol</ins>, M. Stoffel, B. Markert:
+_Time-dependent behavior of inflated tubular structures applicable to arterial soft tissue_,
+[**X International Conference on Computational Bioengineering (ICCB 2023)**](https://iccb2023.conf.tuwien.ac.at/),
+Vienna, Austria, 20-22 September 2023
+
 * <ins>H. Topol</ins>, M. Stoffel, B. Markert, T. J. Pence:
 _Modeling of Mechanosensitive Remodeling Processes in Collagen Fibers_,
 [**93nd Annual Meeting of GAMM**](https://jahrestagung.gamm-ev.de/annual-meeting-2023),
