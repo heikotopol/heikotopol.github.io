@@ -13,11 +13,13 @@ author_profile: true
 
 *  <ins>H. Topol</ins>, B. Markert, M. Stoffel, and T. J. Pence:
   _Modeling of Mechanosensitive Remodeling Processes in Collagen Fibers_,
-**PAMM - Proc. Appl. Math. Mech. (2023)** (accepted manuscript)
+[**PAMM - Proc. Appl. Math. Mech. (2023)**](https://doi.org/10.1002/pamm.202300007).
+ &rarr;[**BibTeX**](https://heikotopol.github.io/publications/PAMM_GAMM2023Dresden.bib).<br/> 
 
 * S. Moradalizadeh, <ins>H. Topol</ins>, H. Demirkoparan, A. Melnokov, B. Markert, and J. Merodio:
   _Remarks on bifurcation of an inflated and extended swellable isotropic tube_,
-**Math. Mech. Solids (2023)** (accepted manuscript)
+  [**Math. Mech. Solids (2023) (first published online October 9, 2023)**](https://doi.org/10.1177/10812865231190845).
+ &rarr;[**BibTeX**](https://heikotopol.github.io/publications/MathMechSolids2023Isotropic.bib).<br/>
 
 * <ins>H. Topol</ins>, H. Asghari, M. Stoffel, B. Markert, and J. Merodio: 
 _Post-bifurcation of Inflated Fibrous Cylindrical Membranes under Different Fiber Configurations_,
