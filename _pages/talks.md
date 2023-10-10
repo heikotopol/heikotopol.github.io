@@ -11,7 +11,7 @@ The name of the presenting person is underlined:
 
 * H. Topol, <ins>T. J. Pence</ins>:
 _Hyperelastic aspects of active collagen remodeling in soft tissue_
-[**2023 SES Annual Technical Meeting**](https://iccb2023.conf.tuwien.ac.at/](https://2023ses.com/),
+[**2023 SES Annual Technical Meeting**](https://2023ses.com/),
  Minneapolis-St. Paul (MN) USA, 8-11 October 2023
 
 
