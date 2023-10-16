@@ -11,6 +11,10 @@ author_profile: true
 
 ### 2023
 
+* H. Asghari, <ins>H. Topol</ins>, B. Markert, and J. Merodio:
+_Application of the extended Fourier amplitude sensitivity testing (FAST)   method to inflated, axial stretched, and residually stressed cylinders_
+**Appl. Math. Mech. - Engl. Ed. (accepted in Oct. 2023)** 
+
 *  <ins>H. Topol</ins>, B. Markert, M. Stoffel, and T. J. Pence:
   _Modeling of Mechanosensitive Remodeling Processes in Collagen Fibers_,
 [**PAMM - Proc. Appl. Math. Mech. (2023)**](https://doi.org/10.1002/pamm.202300007).
