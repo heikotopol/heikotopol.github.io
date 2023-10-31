@@ -10,11 +10,11 @@ author_profile: true
 ## Published/Accepted Works
 
 ### 2023
-* H. Topol, A. Font, A. Melnikov, J. Lacalle, M. Stoffel, and J. Merodio:
+* <ins>H. Topol</ins>, A. Font, A. Melnikov, J. Lacalle, M. Stoffel, and J. Merodio:
 _On the Inflation, Bulging/Necking Bifurcation and Post-Bifurcation of a Cylindrical Membrane under Limited Extensibility of Its Constituents_,
 **Math. Mech. Solids** (accepted in Oct. 2023).<br/>
 
-* K. Brenzel, L Johnen, M. Praster, N. Blomeyer, A. Weiler, C. Brandl, H. Topol,  M. Stoffel, and B. Markert:
+* K. Brenzel, L Johnen, M. Praster, N. Blomeyer, A. Weiler, C. Brandl, <ins>H. Topol</ins>,  M. Stoffel, and B. Markert:
 _In vitro study design derived from an in vivo lifting task_,
 [**PAMM - Proc. Appl. Math. Mech. (2023)**](https://doi.org/10.1002/pamm.202300208).
 
