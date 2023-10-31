@@ -16,7 +16,7 @@ _On the Inflation, Bulging/Necking Bifurcation and Post-Bifurcation of a Cylindr
 
 * K. Brenzel, L Johnen, M. Praster, N. Blomeyer, A. Weiler, C. Brandl, H. Topol,  M. Stoffel, and B. Markert:
 _In vitro study design derived from an in vivo lifting task_,
-[**PAMM - Proc. Appl. Math. Mech. (2023)**](https://doi.org/10.1002/pamm.202300007).
+[**PAMM - Proc. Appl. Math. Mech. (2023)**](https://doi.org/10.1002/pamm.202300208).
 
 * H. Asghari, <ins>H. Topol</ins>, B. Markert, and J. Merodio:
 _Application of the extended Fourier amplitude sensitivity testing (FAST) method to inflated, axial stretched, and residually stressed cylinders_,
