@@ -9,7 +9,7 @@ author_profile: true
 
 ## Published/Accepted Works
 
-### 2023
+### 2023 
 * <ins>H. Topol</ins>, A. Font, A. Melnikov, J. Lacalle, M. Stoffel, and J. Merodio:
 _On the Inflation, Bulging/Necking Bifurcation and Post-Bifurcation of a Cylindrical Membrane under Limited Extensibility of Its Constituents_,
 **Math. Mech. Solids** (accepted in Oct. 2023).<br/>
