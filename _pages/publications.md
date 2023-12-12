@@ -20,11 +20,12 @@ _In vitro study design derived from an in vivo lifting task_,
 
 * H. Asghari, <ins>H. Topol</ins>, B. Markert, and J. Merodio:
 _Application of the extended Fourier amplitude sensitivity testing (FAST) method to inflated, axial stretched, and residually stressed cylinders_,
-**Appl. Math. Mech. - Engl. Ed. (accepted in Oct. 2023)**.<br/>
+[**Appl. Math. Mech. - Engl. Ed. 44, 2139-2162 (2023)**](https://doi.org/10.1007/s10483-023-3060-6).
+ &rarr;[**BibTeX**](https://heikotopol.github.io/publications/ApplMathMech2023.bib).<br/>
 
 *  <ins>H. Topol</ins>, B. Markert, M. Stoffel, and T. J. Pence:
   _Modeling of Mechanosensitive Remodeling Processes in Collagen Fibers_,
-[**PAMM - Proc. Appl. Math. Mech. (2023)**](https://doi.org/10.1002/pamm.202300007).
+[**PAMM - Proc. Appl. Math. Mech. 23: e202300007 (2023)**](https://doi.org/10.1002/pamm.202300007).
  &rarr;[**BibTeX**](https://heikotopol.github.io/publications/PAMM_GAMM2023Dresden.bib).<br/> 
 
 * S. Moradalizadeh, <ins>H. Topol</ins>, H. Demirkoparan, A. Melnokov, B. Markert, and J. Merodio:
