@@ -16,11 +16,12 @@ _On the Inflation, Bulging/Necking Bifurcation and Post-Bifurcation of a Cylindr
 
 * K. Brenzel, L Johnen, M. Praster, N. Blomeyer, A. Weiler, C. Brandl, <ins>H. Topol</ins>,  M. Stoffel, and B. Markert:
 _In vitro study design derived from an in vivo lifting task_,
-[**PAMM - Proc. Appl. Math. Mech. (2023)**](https://doi.org/10.1002/pamm.202300208).
+[**PAMM - Proc. Appl. Math. Mech. 23: e202300208 (2023)**](https://doi.org/10.1002/pamm.202300208).
+ &rarr;[**BibTeX**](https://heikotopol.github.io/publications/PAMM_GAMM2023DresdenBrenzel.bib).<br/>
 
 * H. Asghari, <ins>H. Topol</ins>, B. Markert, and J. Merodio:
 _Application of the extended Fourier amplitude sensitivity testing (FAST) method to inflated, axial stretched, and residually stressed cylinders_,
-[**Appl. Math. Mech. - Engl. Ed. 44, 2139-2162 (2023)**](https://doi.org/10.1007/s10483-023-3060-6).
+[**Appl. Math. Mech. - Engl. Ed. 44: 2139-2162 (2023)**](https://doi.org/10.1007/s10483-023-3060-6).
  &rarr;[**BibTeX**](https://heikotopol.github.io/publications/ApplMathMech2023.bib).<br/>
 
 *  <ins>H. Topol</ins>, B. Markert, M. Stoffel, and T. J. Pence:
@@ -54,16 +55,18 @@ _Migration and remodeling in cartilage replacement materials – an in-vitro bio
 &rarr;[**BibTeX**](https://heikotopol.github.io/publications/PAMM_GAMM23_Salazar.bib).<br/> 
 
 * <ins>H. Topol</ins>, H. Demirkoparan, M. Stoffel, B. Markert, J. Merodio: 
-_Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_, [**PAMM - Proc. Appl. Math. Mech. 22: e202200004 (2023)**](https://doi.org/10.1002/pamm.202200004), [**Open Access**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/pamm.202200004).
+_Bifurcation of fiber reinforced inflated membranes with different natural configurations of the constituents_,
+[**PAMM - Proc. Appl. Math. Mech. 22: e202200004 (2023)**](https://doi.org/10.1002/pamm.202200004), [**Open Access**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/pamm.202200004).
 &rarr;[**BibTeX**](https://heikotopol.github.io/publications/PAMM2023HT.bib).<br/> 
 
 
-* N. K. Jha, S. Moradalizadeh, J. Reinoso, <ins>H. Topol</ins>, and J. Merodio: _On the helical buckling of anisotropic tubes with application to arteries_, [**Mech. Res. Commun. 128, 104067 (2023)**](https://doi.org/10.1016/j.mechrescom.2023.104067).
+* N. K. Jha, S. Moradalizadeh, J. Reinoso, <ins>H. Topol</ins>, and J. Merodio: _On the helical buckling of anisotropic tubes with application to arteries_,
+[**Mech. Res. Commun. 128: 104067 (2023)**](https://doi.org/10.1016/j.mechrescom.2023.104067).
 &rarr;[**BibTeX**](https://heikotopol.github.io/publications/MechResCommun2023.bib).<br/> 
 
 * <ins>H. Topol</ins>, M. Al-Chlaihawi, H. Demirkoparan, J. Merodio:
 _Bifurcation of Fiber-Reinforced Cylindrical Membranes under Extension, Inflation, and Swelling_,
-[**J. Appl. Comput. Mech. 9, 113-128 (2023)**](https://doi.org/10.22055/JACM.2022.40949.3677), [**Open Access**](https://jacm.scu.ac.ir/article_17657_288228a757d0f496e01686ab2db59de3.pdf).
+[**J. Appl. Comput. Mech. 9: 113-128 (2023)**](https://doi.org/10.22055/JACM.2022.40949.3677), [**Open Access**](https://jacm.scu.ac.ir/article_17657_288228a757d0f496e01686ab2db59de3.pdf).
 &rarr;[**BibTeX**](https://heikotopol.github.io/publications/JApplComputMech2023.bib).<br/> 
 
 * M. J. Al-Chlaihawi, <ins>H. Topol</ins>, H. Demirkoparan, and J. Merodio: 
