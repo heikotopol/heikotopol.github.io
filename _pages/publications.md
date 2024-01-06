@@ -18,7 +18,7 @@ and different natural configurations of its constituents with application to abn
 
 * <ins>H. Topol</ins>, A. Font, A. Melnikov, J. Lacalle, M. Stoffel, and J. Merodio:
 _On the Inflation, Bulging/Necking Bifurcation and Post-Bifurcation of a Cylindrical Membrane under Limited Extensibility of Its Constituents_,
-[**Math. Mech. Solids (2024) (First published online January 3, 2024)**](https://doi.org/10.1177/10812865231214262).<br/>
+[**Math. Mech. Solids (2024) (first published online, January 3, 2024)**](https://doi.org/10.1177/10812865231214262).<br/>
 
 ### 2023 
 
