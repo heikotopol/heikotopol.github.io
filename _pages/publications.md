@@ -11,14 +11,16 @@ author_profile: true
 
 ### 2024
 
-* <ins>H. Topol</ins>, H. Nazari, M. Stoffel, B. Markert, J. Lacalle, J. Merodio:
-_Instabilities of an inflated and extended doubly fiber-reinforced cylindrical membrane under damage processes
-and different natural configurations of its constituents with application to abnormal artery dilation_,
-**Thin Walled Struct. (2024) (accepted for publication, January 3, 2024)**
 
 * <ins>H. Topol</ins>, A. Font, A. Melnikov, J. Lacalle, M. Stoffel, and J. Merodio:
 _On the Inflation, Bulging/Necking Bifurcation and Post-Bifurcation of a Cylindrical Membrane under Limited Extensibility of Its Constituents_,
 [**Math. Mech. Solids (2024) (first published online, January 3, 2024)**](https://doi.org/10.1177/10812865231214262).<br/>
+
+* <ins>H. Topol</ins>, H. Nazari, M. Stoffel, B. Markert, J. Lacalle, J. Merodio:
+_Instabilities of an inflated and extended doubly fiber-reinforced cylindrical membrane under damage processes
+and different natural configurations of its constituents with application to abnormal artery dilation_,
+[**Thin Walled Struct. 197: 111562 (2024)**](https://doi.org/10.1016/j.tws.2024.111562).
+&rarr;[**BibTex**](https://heikotopol.github.io/publications/ThinWalledStruct2024.bib).<br/>
 
 ### 2023 
 
