@@ -22,6 +22,11 @@ and different natural configurations of its constituents with application to abn
 [**Thin Walled Struct. 197: 111562 (2024)**](https://doi.org/10.1016/j.tws.2024.111562).
 &rarr;[**BibTex**](https://heikotopol.github.io/publications/ThinWalledStruct2024.bib).<br/>
 
+* S. Moradalizadeh, <ins>H. Topol</ins>, H. Demirkoparan, A. Melnokov, B. Markert, and J. Merodio:
+  _Remarks on bifurcation of an inflated and extended swellable isotropic tube_,
+  [**Math. Mech. Solids 29: 474-493 (2024)**](https://doi.org/10.1177/10812865231190845).
+ &rarr;[**BibTeX**](https://heikotopol.github.io/publications/MathMechSolids2023Isotropic.bib).<br/>
+
 ### 2023 
 
 * K. Brenzel, L Johnen, M. Praster, N. Blomeyer, A. Weiler, C. Brandl, <ins>H. Topol</ins>,  M. Stoffel, and B. Markert:
@@ -38,11 +43,6 @@ _Application of the extended Fourier amplitude sensitivity testing (FAST) method
   _Modeling of Mechanosensitive Remodeling Processes in Collagen Fibers_,
 [**PAMM - Proc. Appl. Math. Mech. 23: e202300007 (2023)**](https://doi.org/10.1002/pamm.202300007).
  &rarr;[**BibTeX**](https://heikotopol.github.io/publications/PAMM_GAMM2023Dresden.bib).<br/> 
-
-* S. Moradalizadeh, <ins>H. Topol</ins>, H. Demirkoparan, A. Melnokov, B. Markert, and J. Merodio:
-  _Remarks on bifurcation of an inflated and extended swellable isotropic tube_,
-  [**Math. Mech. Solids (2023) (first published online October 9, 2023)**](https://doi.org/10.1177/10812865231190845).
- &rarr;[**BibTeX**](https://heikotopol.github.io/publications/MathMechSolids2023Isotropic.bib).<br/>
 
 * <ins>H. Topol</ins>, H. Asghari, M. Stoffel, B. Markert, and J. Merodio: 
 _Post-bifurcation of Inflated Fibrous Cylindrical Membranes under Different Fiber Configurations_,
