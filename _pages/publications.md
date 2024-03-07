@@ -25,7 +25,7 @@ and different natural configurations of its constituents with application to abn
 * S. Moradalizadeh, <ins>H. Topol</ins>, H. Demirkoparan, A. Melnokov, B. Markert, and J. Merodio:
   _Remarks on bifurcation of an inflated and extended swellable isotropic tube_,
   [**Math. Mech. Solids 29: 474-493 (2024)**](https://doi.org/10.1177/10812865231190845).
- &rarr;[**BibTeX**](https://heikotopol.github.io/publications/MathMechSolids2023Isotropic.bib).<br/>
+ &rarr;[**BibTeX**](https://heikotopol.github.io/publications/MathMechSolids2024a.bib).<br/>
 
 ### 2023 
 
