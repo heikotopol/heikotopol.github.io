@@ -12,7 +12,7 @@ The name of the presenting person is underlined:
 
 * <ins>H. Lee</ins>, S. Tandale, H. Topol, M. Stoffel:
 _Cell-preserving Scheme for Mechanobiological Research on Dedifferentiation of Chondrocyt_,
-[**94nd Annual Meeting of GAMM**](https://jahrestagung.gamm-ev.de/annual-meeting-2023),
+[**94nd Annual Meeting of GAMM**](https://jahrestagung.gamm-ev.de/annual-meeting-2024),
 Magdeburg, Germany, 18 - 22 March 2024
 
 
