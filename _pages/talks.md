@@ -9,6 +9,14 @@ The name of the presenting person is underlined:
 
 ### 2021 - now
 
+
+* <ins>H. Lee</ins>, S. Tandale, H. Topol, M. Stoffel:
+_Cell-preserving Scheme for Mechanobiological Research on Dedifferentiation of Chondrocyt_,
+[**94nd Annual Meeting of GAMM**](https://jahrestagung.gamm-ev.de/annual-meeting-2023),
+Magdeburg, Germany, 18 - 22 March 2024
+
+
+
 * H. Topol, <ins>T. J. Pence</ins>:
 _Hyperelastic aspects of active collagen remodeling in soft tissue_,
 [**2023 SES Annual Technical Meeting**](https://2023ses.com/),
