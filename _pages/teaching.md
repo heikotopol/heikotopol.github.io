@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Summary of my teaching activities at Beijing Jiaotong University (**BJU**), Carnegie Mellon University in Qatar (**CMU-Q**), Qatar University (**QU**),
+Summary of my teaching activities at Beijing Jiaotong University (**BJU**), Carnegie Mellon University in Qatar (**CMU-Q**), New Uzbekistan University (**NewUU**), Qatar University (**QU**),
 Ruhr University Bochum (**RUB**), and RWTH Aachen University (**RWTH**). At these institutions, I taught the courses 
 * _Mechanics I - Statics_ (**Mech. I**)
 * _Mechanics II - Mechanics of Materials_ (**Mech. II**)
@@ -20,6 +20,7 @@ Ruhr University Bochum (**RUB**), and RWTH Aachen University (**RWTH**). At thes
 * _Biomechanics Seminar_ (**BioSem**)
 *  _Biomechanics and Mechanobiology for soft biological tissues_ (**BMSBT**)
 *  _Basics of the Biomechanics of the Musculoskeletal System_  (**BBMS**)
+*  _Machine Elements_ (**ME**)
 
 |Semester       |Mech. I |Mech. II  |Mech. III  |MMoC |21-120   |21-256 | BioSem | BMSBT | BBMS | ME |
 |:---|:-------|:---------|:----------|:---|:---|:---|:---|:---|:---|:---|
@@ -50,6 +51,7 @@ Ruhr University Bochum (**RUB**), and RWTH Aachen University (**RWTH**). At thes
 |**ST 2023**    |        |          |           |             |         |       |RWTH    |RWTH    |RWTH    |        |
 |**S 2024**     |        |NewUU     |           |             |         |       |        |        |        |NewUU   |
 
+German universities apply summer (**ST**) and winter terms (**WT**), foreign universities apply spring (**S**) and fall terms (**F**)  
 <sup>*</sup> Short Term Opportunity<br/> 
 <sup>**</sup> Mini Course
 
