@@ -11,6 +11,8 @@ author_profile: true
 
 ### 2024
 
+* H. Asghari, <ins>H. Topol</ins>, J. Lacalle, J. Merodio: _Sensitivity analysis of fibrous thick-walled tubes with mechano-sensitive remodeling fibers in homeostasis_, **Acta Mech. (2024, accepted for publication)**
+
 * H. Asghari, <ins>H. Topol</ins>, J. Lacalle, J. Merodio: _Sensitivity analysis of an inflated and extended fiber-reinforced membrane with different natural configurations of its constituents_, **Math. Mech. Solids (2024, accepted for publication)**
 
 * <ins>H. Topol</ins>, A. Font, A. Melnikov, J. Lacalle, M. Stoffel, and J. Merodio:
