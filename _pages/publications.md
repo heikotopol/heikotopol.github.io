@@ -11,9 +11,11 @@ author_profile: true
 
 ### 2024
 
-* H. Asghari, <ins>H. Topol</ins>, J. Lacalle, J. Merodio: _Sensitivity analysis of fibrous thick-walled tubes with mechano-sensitive remodeling fibers in homeostasis_, **Acta Mech. (2024, accepted for publication)**
+* H. Asghari, <ins>H. Topol</ins>, J. Lacalle, J. Merodio: _Sensitivity analysis of an inflated and extended fiber-reinforced membrane with different natural configurations of its constituents_, **Math. Mech. Solids (2024, accepted for publication)**.<br/>
 
-* H. Asghari, <ins>H. Topol</ins>, J. Lacalle, J. Merodio: _Sensitivity analysis of an inflated and extended fiber-reinforced membrane with different natural configurations of its constituents_, **Math. Mech. Solids (2024, accepted for publication)**
+* H. Asghari, <ins>H. Topol</ins>, J. Lacalle, J. Merodio:
+  _Sensitivity analysis of fibrous thick-walled tubes with mechano-sensitive remodeling fibers in homeostasis_, 
+  [**Acta Mech. (first published online, 9 July 2024)**](https://doi.org/10.1007/s00707-024-04017-7), [**Open Access**](https://link.springer.com/content/pdf/10.1007/s00707-024-04017-7.pdf).<br/>
 
 * <ins>H. Topol</ins>, A. Font, A. Melnikov, J. Lacalle, M. Stoffel, and J. Merodio:
 _On the Inflation, Bulging/Necking Bifurcation and Post-Bifurcation of a Cylindrical Membrane under Limited Extensibility of Its Constituents_,
