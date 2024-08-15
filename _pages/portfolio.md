@@ -16,19 +16,14 @@ My research can be roughly subdivided into the the following topic:
 
 ## Mechanoregulated Remodeling of Fibrous Tissue
 
-One part of my research deals with the mathematical modeling of biological tissues.
-Biological soft tissues are complex structures, which are composed of  multiple components with different functions and properties. 
-In the framework of my research, I considered tissue models that consist of a mixture of a _ground substance material_ and embedded _collagenous fibers_.
-The macroscopic properties of the material result from the elastic properties of the constituents, the geometry of the considered problem, the arrangement of the fibers in the ground substance, and the interplay of the constituents.
+One aspect of my research focuses on the mathematical modeling of biological tissues. These soft tissues are intricate structures composed of multiple components, each with distinct functions and properties. In my work, I have developed tissue models that represent a combination of a _ground substance material_ and embedded _collagenous fibers_. The macroscopic properties of these materials emerge from the elastic characteristics of the individual constituents, the geometry of the problem, the fiber arrangement within the ground substance, and the interaction between these elements.
+
 
 * **Strain-stabilization of collagen to enzymatic degradation:**
-In the framework of my research I considered tissue models that consist of a mixture of a _ground substance material_ and embedded _collagenous fibers_.
-Motivated by experiments that have observed the strain stabilization of collagen to enzymatic degradation  (see the review article by [Topol et al. (2021d)](https://doi.org/10.1115/1.4052752)),
-my work focuses on  fiber models that are applicable to collagenous tissues, which undergo _continuous mechano-sensitive remodeling processes_.
-[Topol et al. (2014)](https://doi.org/10.1093/imamat/hxu027) illustrate the complexity of fiber density development for relatively simple deformation scenarios.
-The relationship between stress and deformation has then been explored for uniaxial ([Topol et al. (2015)](https://doi.org/10.1007/s10665-014-9771-9)) and biaxial deformation problems ([Topol et al. (2017)](https://doi.org/10.1007/s11043-016-9315-y)).
-A study applied the remodeling model to pressurized thick-walled tubes applicable to the modeling of blood vessels ([Topol et al. (2019)](https://doi.org/10.1016/j.euromechsol.2019.103800)).
+In my research, I explored tissue models composed of a mixture of _ground substance material_ and embedded _collagenous fibers_. Inspired by experiments that observed strain stabilization of collagen during enzymatic degradation (refer to the review by [Topol et al. (2021)](https://doi.org/10.1115/1.4052752)), my work specifically targets fiber models relevant to collagenous tissues undergoing _continuous mechano-sensitive remodeling processes_. The complexity of fiber density development, even under relatively simple deformation scenarios, is well-illustrated by [Topol et al. (2014)](https://doi.org/10.1093/imamat/hxu027). The relationship between stress and deformation has been further examined in uniaxial ([Topol et al. (2015)](https://doi.org/10.1007/s10665-014-9771-9)) and biaxial deformation contexts ([Topol et al. (2017)](https://doi.org/10.1007/s11043-016-9315-y)).
+Additionally, a study applied the remodeling model to pressurized thick-walled tubes, which is particularly relevant for modeling blood vessels ([Topol et al. (2019)](https://doi.org/10.1016/j.euromechsol.2019.103800)).
 ![Degradation](/images/PMAN3.png)
+
 
 * **Swelling-induced remodeling processes:** 
 In soft biological tissue, swelling is a typical process that affects collagen fiber remodeling. The modeling framework is in the context of large (finite) deformation continuum mechanics in order to address situations in which the swelling causes the tissue to exhibit significant volume change.
