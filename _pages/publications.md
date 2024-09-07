@@ -13,7 +13,7 @@ author_profile: true
 
 * H. Lee, N. Panitschewski, <ins>H. Topol</ins>, S. Tandale, and Marcus Stoffel, _Cell-preserving scheme for mechanobiological research on dedifferentiation of chondrocytes_, **PAMM - Proc. Appl. Math. Mech. (Accepted on Sept. 05, 2023)**
 
-* <ins>H. Topol</ins>, T. J. Pence: _Homeostatic Collagen Remodeling: Enzymatic Strain Stabilization and Large Strain Softening in Pressurized Thick-walled Cylindrical Vessels_, **Mech. Soft Mater. (2024) (accepted, August 27, 2024)**
+* <ins>H. Topol</ins>, T. J. Pence: _Homeostatic Collagen Remodeling: Enzymatic Strain Stabilization and Large Strain Softening in Pressurized Thick-walled Cylindrical Vessels_, [**Mech. Soft Mater. (2024) (accepted, August 27, 2024)**](https://doi.org/10.1007/s42558-024-00062-3).<br/>
 
 * H. Asghari, <ins>H. Topol</ins>, J. Lacalle, J. Merodio: _Sensitivity analysis of an inflated and extended fiber-reinforced membrane with different natural configurations of its constituents_,
 [**Math. Mech. Solids (2024) (first published online, August 19, 2024)**](https://doi.org/10.1177/10812865241259129).<br/>
