@@ -11,7 +11,7 @@ author_profile: true
 
 ### 2024
 
-* H. Lee, N. Panitschewski, <ins>H. Topol</ins>, S. Tandale, and Marcus Stoffel, _Cell-preserving scheme for mechanobiological research on dedifferentiation of chondrocytes_, **PAMM - Proc. Appl. Math. Mech. (Accepted on Sept. 05, 2023)**
+* H. Lee, N. Panitschewski, <ins>H. Topol</ins>, S. Tandale, and Marcus Stoffel, _Cell-preserving scheme for mechanobiological research on dedifferentiation of chondrocytes_, [**PAMM - Proc. Appl. Math. Mech. 2024: e202400172 (2024)**](https://doi.org/10.1002/pamm.202400172)
 
 * <ins>H. Topol</ins>, T. J. Pence: _Homeostatic Collagen Remodeling: Enzymatic Strain Stabilization and Large Strain Softening in Pressurized Thick-walled Cylindrical Vessels_, [**Mech. Soft Mater. (2024) (accepted, August 27, 2024)**](https://doi.org/10.1007/s42558-024-00062-3).<br/>
 
