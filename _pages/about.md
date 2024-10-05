@@ -10,11 +10,16 @@ redirect_from:
 
 
 
-Welcome to my private page. I develop mathematical models, which describe the mechanical behavior of heterogeneous materials.
+Welcome to my private page. 
+I work at **New Uzbekistan University**, an emerging university in Central Asia, which was funded in 2021. 
+At the **Department of Mechanical Engineering**, I develop mathematical models, which describe the mechanical behavior of heterogeneous materials. 
+A particular emphasis is placed on the modeling of biological soft tissue.
 
+<!---
 ![Cervix](/images/Cervix2.png)
+--->
 
-## Five Selected Publications 
+#### Five Selected Publications 
 
 * <ins>H. Topol</ins>, N. K. Jha, H. Demirkoparan, M. Stoffel, J. Merodio:
 _Bulging of inflated membranes made of fiber reinforced materials with different natural configurations_,
