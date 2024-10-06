@@ -19,7 +19,7 @@ A particular emphasis is placed on the modeling of biological soft tissue.
 ![Cervix](/images/Cervix2.png)
 --->
 
-#### Five Selected Publications 
+## Five Selected Publications 
 
 * <ins>H. Topol</ins>, N. K. Jha, H. Demirkoparan, M. Stoffel, J. Merodio:
 _Bulging of inflated membranes made of fiber reinforced materials with different natural configurations_,
