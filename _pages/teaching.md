@@ -12,7 +12,7 @@ redirect_from:
 
 Summary of my teaching activities at Beijing Jiaotong University (**BJU**), Carnegie Mellon University in Qatar (**CMU-Q**), New Uzbekistan University (**NewUU**), Qatar University (**QU**),
 Ruhr University Bochum (**RUB**), and RWTH Aachen University (**RWTH**). At these institutions, I taught the courses 
-* _Mechanics I - Statics_ (**Mech. I**)
+* _Mechanics I - Statics_ (**Mech. I**): is a foundational course in mechanical engineering that focuses on the study of forces, moments, and their effects on bodies at rest or in equilibrium. The course introduces the principles of vector mechanics and applies them to analyze and solve problems related to rigid bodies, structures, and mechanical systems. Key topics include the equilibrium of particles and rigid bodies, free-body diagrams, centroids, moments of inertia, and the analysis of trusses, frames, and beams. This course equips students with critical problem-solving skills necessary for more advanced studies in mechanics and engineering design.
 * _Mechanics II - Mechanics of Materials_ (**Mech. II**)
 * _Mechanics III - Dynamics_ (**Mech. III**)
 * _Mechanical Modeling of Composites I & II_ (**MMoC**)
