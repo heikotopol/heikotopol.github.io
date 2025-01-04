@@ -9,9 +9,18 @@ author_profile: true
 
 ## Published/Accepted Works
 
+
+### 2025
+
+* S. Moradalizadeh, H. Nazari, H. Topol, and J. Merodio: _Bulging bifurcation in residually stressed cylindrical double-layered thick-walled cylinders applicable to the
+modeling of arteries_, [**J. Appl. Comput. Mech. (2025)**](https://doi.org/10.22055/jacm.2025.48058.4949)
+
+
 ### 2024
 
-* H. Lee, N. Panitschewski, <ins>H. Topol</ins>, S. Tandale, and Marcus Stoffel, _Cell-preserving scheme for mechanobiological research on dedifferentiation of chondrocytes_, [**PAMM - Proc. Appl. Math. Mech. 2024: e202400172 (2024)**](https://doi.org/10.1002/pamm.202400172)
+* M. J. Al-Chlaihawi, D. Desena-Galarza, H. Topol B, and J. Merodio: _Computational modeling of a residually stressed thick-walled cylinder under the combined action of axial extension and inflation_, **Finite Elem. Anal. Des. (accepted in December 2024)**
+
+* H. Lee, N. Panitschewski, <ins>H. Topol</ins>, S. Tandale, and Marcus Stoffel: _Cell-preserving scheme for mechanobiological research on dedifferentiation of chondrocytes_, [**PAMM - Proc. Appl. Math. Mech. 2024: e202400172 (2024)**](https://doi.org/10.1002/pamm.202400172)
 
 * <ins>H. Topol</ins>, T. J. Pence: _Homeostatic Collagen Remodeling: Enzymatic Strain Stabilization and Large Strain Softening in Pressurized Thick-walled Cylindrical Vessels_, [**Mech. Soft Mater. 6: Article 7 (2024)**](https://doi.org/10.1007/s42558-024-00062-3).<br/>
 
