@@ -20,7 +20,7 @@ My position in the "_Academic Tree_" is shown  [**here**](https://academictree.o
 ## Work experience
 
 * 01/2024 - now : **New Uzbekistan University**, Associate Professor
-* 01/2024 - now : **New Uzbekistan University**, Head of Mechancial Engineering Department
+* 01/2024 - now : **New Uzbekistan University**, Head of Mechanical Engineering Department
 * 04/2022 - 12/2023: **RWTH Aachen University**, Group Leader Biomechanics
 * 04/2021 - 04/2022: **RWTH Aachen University**, Research and Teaching Associate
 * 09/2020 - 12/2020: **Carnegie Mellon University in Qatar**, Visiting Assistant Professor of Mathematical Sciences
