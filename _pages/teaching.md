@@ -63,8 +63,8 @@ Ruhr University Bochum (**RUB**), and RWTH Aachen University (**RWTH**). At thes
 |**WT 2022/23** |        |          |RWTH       |             |         |       |        |        |        |        |        |        |
 |**ST 2023**    |        |          |           |             |         |       |RWTH    |RWTH    |RWTH    |        |        |        |
 |**S 2024**     |        |NewUU     |           |             |         |       |        |        |        |NewUU   |        |        |
-|**F 2025**     |        |          |           |             |         |       |        |        |        |NewUU   | NewUU  |        |
-|**S 2025**     |        |          |           |             |         |       |        |        |        |NewUU   |        | NewUU  | 
+|**F 2024**     |        |          |           |             |         |       |        |        |        |NewUU   | NewUU  |        |
+|**S 2025**     |        |          |NewUU      |             |         |       |        |        |        |        |        | NewUU  | 
 
 German universities apply summer (**ST**) and winter terms (**WT**), foreign universities apply spring (**S**) and fall terms (**F**)  
 <sup>*</sup> Short Term Opportunity<br/> 
