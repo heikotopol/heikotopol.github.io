@@ -35,35 +35,36 @@ Ruhr University Bochum (**RUB**), and RWTH Aachen University (**RWTH**). At thes
 
 * <ins> _Fluid Mechanics_   (**FM**)</ins>: This course, Fluid Mechanics, introduces the fundamental principles governing fluid behavior and flow dynamics, essential for solving engineering problems in mechanical systems. The course covers fluid statics, fluid dynamics, and the conservation laws of mass, momentum, and energy
 
-|Semester       |Mech. I |Mech. II  |Mech. III  |MMoC |21-120   |21-256 | BioSem | BMSBT | BBMS | ME | FM |
-|:---|:-------|:---------|:----------|:---|:---|:---|:---|:---|:---|:---|:---|
-|**ST 2004**    |        |RUB       |           |             |         |       |        |        |        |        |        |
-|**WT 2004/05** |RUB     |          |RUB        |             |         |       |        |        |        |        |        |
-|**ST 2005**    |        |RUB       |           |             |         |       |        |        |        |        |        |
-|**WT 2005/06** |RUB     |          |RUB        |             |         |       |        |        |        |        |        |
-|**ST 2006**    |        |RUB       |           |             |         |       |        |        |        |        |        |
-|**ST 2007**    |        |RWTH      |           |             |         |       |        |        |        |        |        |
-|**WT 2007/08** |RWTH    |          |           |             |         |       |        |        |        |        |        |
-|**ST 2008**    |        |RWTH      |           |             |         |       |        |        |        |        |        |
-|**WT 2008/09** |RWTH    |          |           |             |         |       |        |        |        |        |        |  
-|**ST 2009**    |        |RWTH      |           |             |         |       |        |        |        |        |        |
-|**WT 2009/10** |        |          |RWTH       |             |         |       |        |        |        |        |        |
-|**ST 2010**    |        |RWTH      |           |             |         |       |        |        |        |        |        |
-|**WT 2010/11** |        |          |RWTH       |             |         |       |        |        |        |        |        |
-|**ST 2011**    |        |RWTH      |           |             |         |       |        |        |        |        |        |
-|**WT 2011/12** |        |          |RWTH       |             |         |       |        |        |        |        |        |
-|**ST 2012**    |        |RWTH      |           |             |         |       |        |        |        |        |        |
-|**2012<sup>*</sup>** |  |BJU<sup>*</sup> |     |             |         |       |        |        |        |        |        |
-|**WT 2012/13** |        |          |RWTH       |             |         |       |        |        |        |        |        |
-|**2016<sup>*</sup>** |  |          |           |QU<sup>**</sup>  |     |       |        |        |        |        |        |
-|**F 2020**     |        |          |           |             |CMU-Q    |CMU-Q  |        |        |        |        |        |
-|**ST 2021**    |        |RWTH      |           |             |         |       |        |        |        |        |        |
-|**WT 2021/22** |        |          |RWTH       |             |         |       |        |        |        |        |        |
-|**ST 2022**    |        |          |           |             |         |       |RWTH    |RWTH    |RWTH    |        |        |
-|**WT 2022/23** |        |          |RWTH       |             |         |       |        |        |        |        |        |
-|**ST 2023**    |        |          |           |             |         |       |RWTH    |RWTH    |RWTH    |        |        |
-|**S 2024**     |        |NewUU     |           |             |         |       |        |        |        |NewUU   |        |
-|**F 2025**     |        |          |           |             |         |       |        |        |        |NewUU   | NewUU  |
+|Semester       |Mech. I |Mech. II  |Mech. III  |MMoC |21-120   |21-256 | BioSem | BMSBT | BBMS | ME | FM | HTP |
+|:---|:-------|:---------|:----------|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|**ST 2004**    |        |RUB       |           |             |         |       |        |        |        |        |        |        |
+|**WT 2004/05** |RUB     |          |RUB        |             |         |       |        |        |        |        |        |        |
+|**ST 2005**    |        |RUB       |           |             |         |       |        |        |        |        |        |        |
+|**WT 2005/06** |RUB     |          |RUB        |             |         |       |        |        |        |        |        |        |
+|**ST 2006**    |        |RUB       |           |             |         |       |        |        |        |        |        |        |
+|**ST 2007**    |        |RWTH      |           |             |         |       |        |        |        |        |        |        |
+|**WT 2007/08** |RWTH    |          |           |             |         |       |        |        |        |        |        |        |
+|**ST 2008**    |        |RWTH      |           |             |         |       |        |        |        |        |        |        |
+|**WT 2008/09** |RWTH    |          |           |             |         |       |        |        |        |        |        |        |
+|**ST 2009**    |        |RWTH      |           |             |         |       |        |        |        |        |        |        |
+|**WT 2009/10** |        |          |RWTH       |             |         |       |        |        |        |        |        |        |
+|**ST 2010**    |        |RWTH      |           |             |         |       |        |        |        |        |        |        |
+|**WT 2010/11** |        |          |RWTH       |             |         |       |        |        |        |        |        |        |
+|**ST 2011**    |        |RWTH      |           |             |         |       |        |        |        |        |        |        |
+|**WT 2011/12** |        |          |RWTH       |             |         |       |        |        |        |        |        |        |
+|**ST 2012**    |        |RWTH      |           |             |         |       |        |        |        |        |        |        |
+|**2012<sup>*</sup>** |  |BJU<sup>*</sup> |     |             |         |       |        |        |        |        |        |        |
+|**WT 2012/13** |        |          |RWTH       |             |         |       |        |        |        |        |        |        |
+|**2016<sup>*</sup>** |  |          |           |QU<sup>**</sup>  |     |       |        |        |        |        |        |        |
+|**F 2020**     |        |          |           |             |CMU-Q    |CMU-Q  |        |        |        |        |        |        |
+|**ST 2021**    |        |RWTH      |           |             |         |       |        |        |        |        |        |        |
+|**WT 2021/22** |        |          |RWTH       |             |         |       |        |        |        |        |        |        |
+|**ST 2022**    |        |          |           |             |         |       |RWTH    |RWTH    |RWTH    |        |        |        |
+|**WT 2022/23** |        |          |RWTH       |             |         |       |        |        |        |        |        |        |
+|**ST 2023**    |        |          |           |             |         |       |RWTH    |RWTH    |RWTH    |        |        |        |
+|**S 2024**     |        |NewUU     |           |             |         |       |        |        |        |NewUU   |        |        |
+|**F 2025**     |        |          |           |             |         |       |        |        |        |NewUU   | NewUU  |        |
+|**S 2025**     |        |          |           |             |         |       |        |        |        |NewUU   |        | NewUU  | 
 
 German universities apply summer (**ST**) and winter terms (**WT**), foreign universities apply spring (**S**) and fall terms (**F**)  
 <sup>*</sup> Short Term Opportunity<br/> 
