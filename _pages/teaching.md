@@ -29,11 +29,16 @@ Ruhr University Bochum (**RUB**), and RWTH Aachen University (**RWTH**). At thes
 
 *  <ins>_Biomechanics and Mechanobiology for soft biological tissues_ (**BMSBT**)</ins>: This course explores the fundamental principles of biomechanics and mechanobiology as applied to soft biological tissues, such as muscles, skin, blood vessels, and connective tissues. It combines mechanical engineering concepts with biological systems to understand how mechanical forces influence tissue development, growth, and repair. Key topics include the mechanical properties of soft tissues, stress-strain relationships, viscoelasticity, and the role of mechanotransduction in cellular behavior.
 
-*  _Basics of the Biomechanics of the Musculoskeletal System_  (**BBMS**)
+*  <ins>_Basics of the Biomechanics of the Musculoskeletal System_  (**BBMS**)</ins>
 
 *  <ins>_Machine Elements_ (**ME**)</ins>:  This course introduces students to the fundamental principles and practices of mechanical design, focusing on the analysis, selection, and application of standard components used in machinery. Topics include the design of shafts, bearings, gears, fasteners, springs, and couplings, with an emphasis on strength, fatigue, and failure criteria. The course also covers material selection, safety factors, and the integration of these elements into larger mechanical systems. 
 
 * <ins> _Fluid Mechanics_   (**FM**)</ins>: This course, Fluid Mechanics, introduces the fundamental principles governing fluid behavior and flow dynamics, essential for solving engineering problems in mechanical systems. The course covers fluid statics, fluid dynamics, and the conservation laws of mass, momentum, and energy
+
+*  <ins> _Heat Transfer Phenomena_   (**HTP**)</ins>:
+Heat transfer is the study of thermal energy transfer between materials due to a temperature difference. It involves heat propagation through solids and fluids, or can take place through a vacuum. The objective of this course is to provide a first exposure for students to the study of heat transfer. The underlying  physical mechanism of heat transfer and techniques for analysing heat transfer in engineering systems will be presented.
+
+
 
 |Semester       |Mech. I |Mech. II  |Mech. III  |MMoC |21-120   |21-256 | BioSem | BMSBT | BBMS | ME | FM | HTP |
 |:---|:-------|:---------|:----------|:---|:---|:---|:---|:---|:---|:---|:---|:---|
