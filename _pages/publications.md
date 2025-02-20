@@ -12,6 +12,10 @@ author_profile: true
 
 ### 2025
 
+* <ins>H. Topol</ins>, A. Font, A. Melnikov, J. Lacalle, M. Stoffel, and J. Merodio:
+_On the Inflation, Bulging/Necking Bifurcation and Post-Bifurcation of a Cylindrical Membrane under Limited Extensibility of Its Constituents_,
+[**Math. Mech. Solids 30: 381-405 (2025)**](https://doi.org/10.1177/10812865231214262).<br/>
+
 * M. J. Al-Chlaihawi, D. Desena-Galarza, <ins>H. Topol</ins>, and J. Merodio: _Computational modeling of a residually stressed thick-walled cylinder under the combined action of axial extension and inflation_, [**Finite Elem. Anal. Des. 244: 104309 (2025)**](https://doi.org/10.1016/j.finel.2024.104309)
 
 * S. Moradalizadeh, H. Nazari, H. Topol, and J. Merodio: _Bulging bifurcation in residually stressed cylindrical double-layered thick-walled cylinders applicable to the
@@ -25,10 +29,6 @@ modeling of arteries_, [**J. Appl. Comput. Mech. (2025)**](https://doi.org/10.22
 
 * H. Asghari, <ins>H. Topol</ins>, J. Lacalle, J. Merodio: _Sensitivity analysis of an inflated and extended fiber-reinforced membrane with different natural configurations of its constituents_,
 [**Math. Mech. Solids (2024) (first published online, August 19, 2024)**](https://doi.org/10.1177/10812865241259129).<br/>
-
-* <ins>H. Topol</ins>, A. Font, A. Melnikov, J. Lacalle, M. Stoffel, and J. Merodio:
-_On the Inflation, Bulging/Necking Bifurcation and Post-Bifurcation of a Cylindrical Membrane under Limited Extensibility of Its Constituents_,
-[**Math. Mech. Solids (2024) (first published online, January 3, 2024)**](https://doi.org/10.1177/10812865231214262).<br/>
 
 * H. Asghari, <ins>H. Topol</ins>, J. Lacalle, J. Merodio:
   _Sensitivity analysis of fibrous thick-walled tubes with mechano-sensitive remodeling fibers in homeostasis_, 
