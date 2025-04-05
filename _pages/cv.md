@@ -11,6 +11,7 @@ redirect_from:
 
 ## Education
 
+* 2025, DSc. (Doctor of Sciences)
 * 2012, Ph.D. (Dr.-Ing., with distinction), **RWTH Aachen University**
 * 2007, Diploma (equivalent to a Master's Degree), **Ruhr University Bochum**
 * 2005, Academic exchange (DAAD scholarship, one semester), **Texas A&M University**
