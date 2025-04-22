@@ -12,6 +12,10 @@ author_profile: true
 
 ### 2025
 
+* H. Nazari,  <ins>H. Topol</ins>, H. Demirkoparan, H. Ghandvar, J. Merodio:
+_Material Volume Changes in Residually Stressed Idealized Arteries_,
+ [**Eur. J. Mech. A/Solids: 105676 (2025)**](https://doi.org/10.1016/j.euromechsol.2025.105676).<br/> 
+
 * <ins>H. Topol</ins>, A. Font, A. Melnikov, J. Lacalle, M. Stoffel, and J. Merodio:
 _On the Inflation, Bulging/Necking Bifurcation and Post-Bifurcation of a Cylindrical Membrane under Limited Extensibility of Its Constituents_,
 [**Math. Mech. Solids 30: 381-405 (2025)**](https://doi.org/10.1177/10812865231214262).<br/>
