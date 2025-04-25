@@ -14,25 +14,27 @@ author_profile: true
 
 * H. Nazari,  <ins>H. Topol</ins>, H. Demirkoparan, H. Ghandvar, J. Merodio:
 _Material Volume Changes in Residually Stressed Idealized Arteries_,
- [**Eur. J. Mech. A/Solids: 105676 (2025)**](https://doi.org/10.1016/j.euromechsol.2025.105676).<br/> 
+ [**Eur. J. Mech. A/Solids 112: 105676 (2025)**](https://doi.org/10.1016/j.euromechsol.2025.105676).<br/> 
 
 * <ins>H. Topol</ins>, A. Font, A. Melnikov, J. Lacalle, M. Stoffel, and J. Merodio:
 _On the Inflation, Bulging/Necking Bifurcation and Post-Bifurcation of a Cylindrical Membrane under Limited Extensibility of Its Constituents_,
 [**Math. Mech. Solids 30: 381-405 (2025)**](https://doi.org/10.1177/10812865231214262).<br/>
 
-* M. J. Al-Chlaihawi, D. Desena-Galarza, <ins>H. Topol</ins>, and J. Merodio: _Computational modeling of a residually stressed thick-walled cylinder under the combined action of axial extension and inflation_, [**Finite Elem. Anal. Des. 244: 104309 (2025)**](https://doi.org/10.1016/j.finel.2024.104309)
+* H. Asghari, <ins>H. Topol</ins>, J. Lacalle, J. Merodio: _Sensitivity analysis of an inflated and extended fiber-reinforced membrane with different natural configurations of its constituents_,
+[**Math. Mech. Solids 30:  942 - 978 (2025)**](https://doi.org/10.1177/10812865241259129).<br/>
+
+* M. J. Al-Chlaihawi, D. Desena-Galarza, <ins>H. Topol</ins>, and J. Merodio: _Computational modeling of a residually stressed thick-walled cylinder under the combined action of axial extension and inflation_, [**Finite Elem. Anal. Des. 244: 104309 (2025)**](https://doi.org/10.1016/j.finel.2024.104309).<br/>
 
 * S. Moradalizadeh, H. Nazari, H. Topol, and J. Merodio: _Bulging bifurcation in residually stressed cylindrical double-layered thick-walled cylinders applicable to the
-modeling of arteries_, [**J. Appl. Comput. Mech. (2025)**](https://doi.org/10.22055/jacm.2025.48058.4949)
+modeling of arteries_, [**J. Appl. Comput. Mech. (2025)**](https://doi.org/10.22055/jacm.2025.48058.4949).<br/>
+
+
 
 ### 2024
 
 * H. Lee, N. Panitschewski, <ins>H. Topol</ins>, S. Tandale, and Marcus Stoffel: _Cell-preserving scheme for mechanobiological research on dedifferentiation of chondrocytes_, [**PAMM - Proc. Appl. Math. Mech. 2024: e202400172 (2024)**](https://doi.org/10.1002/pamm.202400172)
 
 * <ins>H. Topol</ins>, T. J. Pence: _Homeostatic Collagen Remodeling: Enzymatic Strain Stabilization and Large Strain Softening in Pressurized Thick-walled Cylindrical Vessels_, [**Mech. Soft Mater. 6: Article 7 (2024)**](https://doi.org/10.1007/s42558-024-00062-3).<br/>
-
-* H. Asghari, <ins>H. Topol</ins>, J. Lacalle, J. Merodio: _Sensitivity analysis of an inflated and extended fiber-reinforced membrane with different natural configurations of its constituents_,
-[**Math. Mech. Solids (2024) (first published online, August 19, 2024)**](https://doi.org/10.1177/10812865241259129).<br/>
 
 * H. Asghari, <ins>H. Topol</ins>, J. Lacalle, J. Merodio:
   _Sensitivity analysis of fibrous thick-walled tubes with mechano-sensitive remodeling fibers in homeostasis_, 
