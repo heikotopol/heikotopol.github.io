@@ -12,6 +12,9 @@ author_profile: true
 
 ### 2025
 
+* H Asghari, <ins>H. Topol</ins>, A. Melnikov, C. Spitas, J. Merodio: _Inflation and extension of soft fibrous membranes that account for fiber dispersion and pre-stretch: a sensitivity analysis"_,
+**Math. Mech. Solids (accepted in June 2025)**.<br/> 
+
 * H. Nazari,  <ins>H. Topol</ins>, H. Demirkoparan, H. Ghandvar, J. Merodio:
 _Material Volume Changes in Residually Stressed Idealized Arteries_,
  [**Eur. J. Mech. A/Solids 112: 105676 (2025)**](https://doi.org/10.1016/j.euromechsol.2025.105676).<br/> 
