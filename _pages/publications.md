@@ -29,7 +29,7 @@ _On the Inflation, Bulging/Necking Bifurcation and Post-Bifurcation of a Cylindr
 * M. J. Al-Chlaihawi, D. Desena-Galarza, <ins>H. Topol</ins>, and J. Merodio: _Computational modeling of a residually stressed thick-walled cylinder under the combined action of axial extension and inflation_, [**Finite Elem. Anal. Des. 244: 104309 (2025)**](https://doi.org/10.1016/j.finel.2024.104309).<br/>
 
 * S. Moradalizadeh, H. Nazari, H. Topol, and J. Merodio: _Bulging bifurcation in residually stressed cylindrical double-layered thick-walled cylinders applicable to the
-modeling of arteries_, [**J. Appl. Comput. Mech. (2025)**](https://doi.org/10.22055/jacm.2025.48058.4949).<br/>
+modeling of arteries_, [**J. Appl. Comput. Mech. 11: 1060-1074 (2025)**](https://doi.org/10.22055/jacm.2025.48058.4949).<br/>
 
 
 
