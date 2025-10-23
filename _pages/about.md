@@ -11,8 +11,7 @@ redirect_from:
 
 
 Welcome to my private page. 
-I work at [**New Uzbekistan University**](https://newuu.uz/), an emerging university in Central Asia, which was funded in 2021. 
-At the **Department of Mechanical Engineering**, I develop mathematical models, which describe the mechanical behavior of heterogeneous materials. 
+I develop mathematical models that describe the mechanical behavior of heterogeneous materials. 
 A particular emphasis is placed on the modeling of biological soft tissue.
 
 <!---
