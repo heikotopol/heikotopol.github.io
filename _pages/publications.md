@@ -12,7 +12,10 @@ author_profile: true
 
 ### 2025
 
-* H Asghari, <ins>H. Topol</ins>, A. Melnikov, C. Spitas, J. Merodio: _Inflation and extension of soft fibrous membranes that account for fiber dispersion and pre-stretch: a sensitivity analysis"_,
+
+* I. P. Nanda, N. Rayimov, H. Ghandvar, <ins>H. Topol</ins>, A. Arafat, T. A. Abu Bakar: _Effect of thermomechanical processing on microstructure and tensile properties of Al-20% Mg2Si-xCe Composites_, [Int. J. Lightweight Mater. Manuf. (Accepted in October 2025)]([Int. J. Lightweight Mater. Manuf.](https://www.sciencedirect.com/science/article/pii/S2588840425000824)).<br/> 
+
+* H Asghari, <ins>H. Topol</ins>, A. Melnikov, C. Spitas, J. Merodio: _Inflation and extension of soft fibrous membranes that account for fiber dispersion and pre-stretch: a sensitivity analysis_,
 [**Math. Mech. Solids (accepted in September 2025)**](https://journals.sagepub.com/doi/10.1177/10812865251357854)).<br/> 
 
 * H. Nazari,  <ins>H. Topol</ins>, H. Demirkoparan, H. Ghandvar, J. Merodio:
@@ -28,7 +31,7 @@ _On the Inflation, Bulging/Necking Bifurcation and Post-Bifurcation of a Cylindr
 
 * M. J. Al-Chlaihawi, D. Desena-Galarza, <ins>H. Topol</ins>, and J. Merodio: _Computational modeling of a residually stressed thick-walled cylinder under the combined action of axial extension and inflation_, [**Finite Elem. Anal. Des. 244: 104309 (2025)**](https://doi.org/10.1016/j.finel.2024.104309).<br/>
 
-* S. Moradalizadeh, H. Nazari, H. Topol, and J. Merodio: _Bulging bifurcation in residually stressed cylindrical double-layered thick-walled cylinders applicable to the
+* S. Moradalizadeh, H. Nazari, <ins>H. Topol</ins>, and J. Merodio: _Bulging bifurcation in residually stressed cylindrical double-layered thick-walled cylinders applicable to the
 modeling of arteries_, [**J. Appl. Comput. Mech. 11: 1060-1074 (2025)**](https://doi.org/10.22055/jacm.2025.48058.4949).<br/>
 
 
