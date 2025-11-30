@@ -13,7 +13,7 @@ author_profile: true
 ### 2025
 
 
-* I. P. Nanda, N. Rayimov, H. Ghandvar, <ins>H. Topol</ins>, A. Arafat, T. A. Abu Bakar: _Effect of thermomechanical processing on microstructure and tensile properties of Al-20% Mg2Si-xCe Composites_, [Int. J. Lightweight Mater. Manuf. (Accepted in October 2025)]([Int. J. Lightweight Mater. Manuf.](https://www.sciencedirect.com/science/article/pii/S2588840425000824)).<br/> 
+* I. P. Nanda, N. Rayimov, H. Ghandvar, <ins>H. Topol</ins>, A. Arafat, T. A. Abu Bakar: _Effect of thermomechanical processing on microstructure and tensile properties of Al-20% Mg2Si-xCe Composites_, [Int. J. Lightweight Mater. Manuf. (Accepted in October 2025)]([Int. J. Lightweight Mater. Manuf.](https://www.sciencedirect.com/science/article/pii/S2588840425000824).<br/> 
 
 * H Asghari, <ins>H. Topol</ins>, A. Melnikov, C. Spitas, J. Merodio: _Inflation and extension of soft fibrous membranes that account for fiber dispersion and pre-stretch: a sensitivity analysis_,
 [**Math. Mech. Solids (accepted in September 2025)**](https://journals.sagepub.com/doi/10.1177/10812865251357854)).<br/> 
