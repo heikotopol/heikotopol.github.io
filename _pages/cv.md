@@ -20,7 +20,7 @@ My position in the "_Academic Tree_" is shown  [**here**](https://academictree.o
 
 ## Work experience
 
-* 12/2025 - now: Associate Dean, School of Engineering
+* 12/2025 - now: **New Uzbekistan University**, Associate Dean, School of Engineering
 * 09/2025 - 12/2025: **New Uzbekistan University**, Department for Development of Cooperation with Research and Industry
 * 01/2024 - 09/2025: **New Uzbekistan University**, Head of Mechanical Engineering Department & Associate Professor
 * 04/2022 - 12/2023: **RWTH Aachen University**, Group Leader Biomechanics
