@@ -9,14 +9,18 @@ author_profile: true
 
 ## Published/Accepted Works
 
+### 2026
 
-### 2025
+* <ins>H. Topol</ins>, Z. Eshmatova, B. Davirani, J. Merodio: _Bulging bifurcation and Post-bifurcation of hyperelastic membranes: Remarks on Two-Parameter_,
+[Proc. Roy. Soc. A: 482: 20260244 (2026)](https://www.sciencedirect.com/science/article/pii/S2588840425000824).<br/>
 
-
-* I. P. Nanda, N. Rayimov, H. Ghandvar, <ins>H. Topol</ins>, A. Arafat, T. A. Abu Bakar: _Effect of thermomechanical processing on microstructure and tensile properties of Al-20% Mg2Si-xCe Composites_, [Int. J. Lightweight Mater. Manuf. (Accepted in October 2025)](https://www.sciencedirect.com/science/article/pii/S2588840425000824).<br/> 
+* I. P. Nanda, N. Rayimov, H. Ghandvar, <ins>H. Topol</ins>, A. Arafat, T. A. Abu Bakar: _Effect of thermomechanical processing on microstructure and tensile properties of Al-20% Mg2Si-xCe Composites_, [Int. J. Lightweight Mater. Manuf. 9: 395-411 (2026)](https://www.sciencedirect.com/science/article/pii/S2588840425000824).<br/> 
 
 * H Asghari, <ins>H. Topol</ins>, A. Melnikov, C. Spitas, J. Merodio: _Inflation and extension of soft fibrous membranes that account for fiber dispersion and pre-stretch: a sensitivity analysis_,
-[**Math. Mech. Solids (accepted in September 2025)**](https://journals.sagepub.com/doi/10.1177/10812865251357854)).<br/> 
+[**Math. Mech. Solids 31: 1666 - 1696 (2026)**](https://journals.sagepub.com/doi/10.1177/10812865251357854)).<br/> 
+
+
+### 2025
 
 * H. Nazari,  <ins>H. Topol</ins>, H. Demirkoparan, H. Ghandvar, J. Merodio:
 _Material Volume Changes in Residually Stressed Idealized Arteries_,
